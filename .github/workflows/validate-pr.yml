@@ -1,0 +1,78 @@
+name: Validate PR Metadata
+
+on:
+  pull_request:
+    paths:
+      - '**/*.json'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run metadata validation
+        id: validate
+        run: |
+          python3 scripts/validate-metadata.py --dir . 2>&1 | tee validation_output.txt
+
+      - name: Comment validation results on PR
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            let output = '';
+            try {
+              output = fs.readFileSync('validation_output.txt', 'utf8');
+            } catch (e) {
+              output = 'Could not read validation output.\n';
+            }
+
+            const hasErrors = output.includes('FAILED');
+
+            let body = '## 📋 Metadata Validation Results\n\n';
+            body += '```\n' + output + '\n```\n';
+
+            if (hasErrors) {
+              body += '\n❌ **Validation failed.** Please fix the errors above and push another commit.';
+            } else {
+              body += '\n✅ **Validation passed.** Thank you for contributing!';
+            }
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+
+            const botComment = comments.find(c =>
+              c.user.type === 'Bot' && c.body.includes('Metadata Validation Results')
+            );
+
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body: body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: body,
+              });
+            }
