@@ -1,0 +1,18 @@
+{
+  "subject": "Graphics",
+  "branch": "ME",
+  "semester": 1,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

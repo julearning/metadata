@@ -1,0 +1,18 @@
+{
+  "subject": "Computer Organization And Architecture",
+  "branch": "CSE",
+  "semester": 5,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

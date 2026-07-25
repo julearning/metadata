@@ -1,0 +1,18 @@
+{
+  "subject": "Physics-II",
+  "branch": "CE",
+  "semester": 2,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

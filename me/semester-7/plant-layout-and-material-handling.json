@@ -1,0 +1,18 @@
+{
+  "subject": "Plant Layout And Material Handling",
+  "branch": "ME",
+  "semester": 7,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "Organization Behaviour (Elective-I)",
+  "branch": "CSE",
+  "semester": 8,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "Fluid Mechanics-II",
+  "branch": "CE",
+  "semester": 5,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "Applied Thermodynamics-I",
+  "branch": "ME",
+  "semester": 5,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

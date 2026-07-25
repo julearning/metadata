@@ -1,0 +1,18 @@
+{
+  "subject": "Electronics Devices And Circuits",
+  "branch": "ME",
+  "semester": 5,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

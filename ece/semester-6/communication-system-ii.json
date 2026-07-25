@@ -1,0 +1,18 @@
+{
+  "subject": "Communication System-II",
+  "branch": "ECE",
+  "semester": 6,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "Mechanics",
+  "branch": "CSE",
+  "semester": 1,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "subject": "Industrial Management",
+  "branch": "ECE",
+  "semester": 7,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

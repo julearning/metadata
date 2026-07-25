@@ -1,0 +1,18 @@
+{
+  "subject": "Machine Design-II",
+  "branch": "ME",
+  "semester": 6,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

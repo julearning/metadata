@@ -1,0 +1,18 @@
+{
+  "subject": "Numerical Methods Using C",
+  "branch": "CSE",
+  "semester": 3,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

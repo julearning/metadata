@@ -1,0 +1,18 @@
+{
+  "subject": "Network Analysis",
+  "branch": "EE",
+  "semester": 3,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

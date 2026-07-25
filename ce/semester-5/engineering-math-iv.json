@@ -1,0 +1,18 @@
+{
+  "subject": "Engineering Math-IV",
+  "branch": "CE",
+  "semester": 5,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

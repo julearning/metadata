@@ -1,0 +1,18 @@
+{
+  "subject": "Fluid Mechanics",
+  "branch": "ME",
+  "semester": 3,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}

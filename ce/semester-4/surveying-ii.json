@@ -1,0 +1,18 @@
+{
+  "subject": "Surveying-II",
+  "branch": "CE",
+  "semester": 4,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
+}
