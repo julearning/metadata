@@ -12,7 +12,43 @@
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Surveying-I Complete Notes",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 2908828,
+          "description": "Comprehensive typed notes covering the full syllabus.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-01-18T05:43:40.909Z"
+        },
+        {
+          "title": "Surveying-I Previous Year Questions",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1621195,
+          "description": "Collection of previous year examination papers.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-03-03T16:59:02.053Z"
+        },
+        {
+          "title": "Surveying-I Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 3335645,
+          "description": "Detailed handwritten summary of important topics.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-06-14T00:48:32.896Z"
+        }
+      ]
     }
   }
 }
