@@ -5,16 +5,15 @@
   "url": "https://drive.google.com/file/d/your-file-id/view",
   "fileType": "pdf",
   "fileSize": 4200000,
-
   "branch": "CSE",
   "degree": "B.Tech",
   "semester": 3,
   "subject": "Database Management Systems",
-  "topic": "Complete Syllabus",
-
   "tags": ["notes", "typed"],
-
   "contributor": "your-github-username",
   "uploadedAt": "2025-08-15T10:30:00Z",
-  "verified": false
+  "verified": false,
+  "downloads": 0,
+  "language": "en",
+  "pages": 42
 }
