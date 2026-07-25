@@ -72,9 +72,11 @@ def is_skip_file(name):
     name_lower = name.lower()
     return (
         name.startswith(".") or
-        "syllabus" in name_lower or
-        name == "examples"
+        "syllabus" in name_lower
     )
+
+
+SKIP_DIRS = {".git", "node_modules", "examples"}
 
 
 def validate_document(data, filepath, rel_path):
@@ -180,7 +182,7 @@ def scan_and_validate(base_dir):
         # Skip hidden dirs, examples dir, and .git
         dirs[:] = [
             d for d in dirs
-            if not d.startswith(".") and not is_skip_file(d)
+            if not d.startswith(".") and d not in SKIP_DIRS
         ]
         for filename in sorted(files):
             if not filename.endswith(".json") or filename.startswith("."):
