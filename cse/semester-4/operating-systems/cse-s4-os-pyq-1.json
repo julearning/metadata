@@ -1,0 +1,20 @@
+{
+  "id": "cse-s4-os-pyq-1",
+  "title": "OS Previous Year Solved Papers",
+  "description": "Solved question papers with detailed explanations for operating system concepts and numerical problems.",
+  "url": "https://drive.google.com/file/d/example-os-pyq/view",
+  "fileType": "pdf",
+  "fileSize": 4900000,
+  "branch": "CSE",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Operating Systems",
+  "tags": [
+    "pyq",
+    "handwritten"
+  ],
+  "contributor": "divya_p",
+  "uploadedAt": "2025-09-20T15:00:00Z",
+  "verified": true,
+  "downloads": 2345
+}

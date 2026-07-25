@@ -1,0 +1,20 @@
+{
+  "id": "ece-s5-vlsi-notes-1",
+  "title": "VLSI Design - Handwritten Notes",
+  "description": "Notes on CMOS technology, fabrication processes, layout design, testing, and low-power VLSI design techniques.",
+  "url": "https://drive.google.com/file/d/example-vlsi-notes/view",
+  "fileType": "pdf",
+  "fileSize": 8800000,
+  "branch": "ECE",
+  "degree": "B.Tech",
+  "semester": 5,
+  "subject": "VLSI Design",
+  "tags": [
+    "notes",
+    "handwritten"
+  ],
+  "contributor": "rohan_g",
+  "uploadedAt": "2025-10-10T15:00:00Z",
+  "verified": false,
+  "downloads": 1032
+}

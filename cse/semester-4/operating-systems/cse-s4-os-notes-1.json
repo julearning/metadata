@@ -1,0 +1,20 @@
+{
+  "id": "cse-s4-os-notes-1",
+  "title": "Operating Systems Concepts - Detailed Notes",
+  "description": "In-depth notes on process management, memory management, file systems, I/O, deadlocks, and scheduling algorithms.",
+  "url": "https://drive.google.com/file/d/example-os-notes/view",
+  "fileType": "pdf",
+  "fileSize": 7400000,
+  "branch": "CSE",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Operating Systems",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "arjunr",
+  "uploadedAt": "2025-10-05T11:30:00Z",
+  "verified": true,
+  "downloads": 1876
+}

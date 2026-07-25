@@ -1,0 +1,20 @@
+{
+  "id": "ece-s4-de-notes-1",
+  "title": "Digital Electronics - Complete Guide",
+  "description": "Notes on logic families, combinational logic circuits, sequential circuits, PLDs, and digital memory technologies.",
+  "url": "https://drive.google.com/file/d/example-de-notes/view",
+  "fileType": "pdf",
+  "fileSize": 6800000,
+  "branch": "ECE",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Digital Electronics",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "vikram_d",
+  "uploadedAt": "2025-10-12T09:00:00Z",
+  "verified": true,
+  "downloads": 1432
+}

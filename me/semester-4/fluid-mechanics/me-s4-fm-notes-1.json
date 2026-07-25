@@ -1,0 +1,20 @@
+{
+  "id": "me-s4-fm-notes-1",
+  "title": "Fluid Mechanics - Complete Notes",
+  "description": "Notes on fluid properties, fluid statics, kinematics, dynamics, boundary layer theory, and turbomachinery.",
+  "url": "https://drive.google.com/file/d/example-fm-notes/view",
+  "fileType": "pdf",
+  "fileSize": 8100000,
+  "branch": "ME",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Fluid Mechanics",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "deepak_r",
+  "uploadedAt": "2025-10-15T11:00:00Z",
+  "verified": true,
+  "downloads": 1432
+}

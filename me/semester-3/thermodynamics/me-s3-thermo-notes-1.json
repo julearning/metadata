@@ -1,0 +1,20 @@
+{
+  "id": "me-s3-thermo-notes-1",
+  "title": "Thermodynamics - Complete Notes",
+  "description": "Notes on laws of thermodynamics, properties of pure substances, gas power cycles, and refrigeration cycles.",
+  "url": "https://drive.google.com/file/d/example-thermo-notes/view",
+  "fileType": "pdf",
+  "fileSize": 7600000,
+  "branch": "ME",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Thermodynamics",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "sunil_y",
+  "uploadedAt": "2025-09-05T09:00:00Z",
+  "verified": true,
+  "downloads": 1567
+}

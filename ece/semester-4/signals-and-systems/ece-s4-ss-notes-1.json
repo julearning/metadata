@@ -1,0 +1,20 @@
+{
+  "id": "ece-s4-ss-notes-1",
+  "title": "Signals & Systems - Handwritten Notes",
+  "description": "Handwritten notes on signals classification, LTI systems, Fourier series, Laplace and Z-transforms with solved examples.",
+  "url": "https://drive.google.com/file/d/example-ss-notes/view",
+  "fileType": "pdf",
+  "fileSize": 10100000,
+  "branch": "ECE",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Signals & Systems",
+  "tags": [
+    "notes",
+    "handwritten"
+  ],
+  "contributor": "nidhi_agr",
+  "uploadedAt": "2025-09-28T16:00:00Z",
+  "verified": true,
+  "downloads": 1876
+}

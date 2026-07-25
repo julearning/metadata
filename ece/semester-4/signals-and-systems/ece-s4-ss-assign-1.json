@@ -1,0 +1,20 @@
+{
+  "id": "ece-s4-ss-assign-1",
+  "title": "Signals & Systems Problem Sets",
+  "description": "Assignment problems on convolution, Fourier analysis, system properties, and transform methods with solutions.",
+  "url": "https://drive.google.com/file/d/example-ss-assign/view",
+  "fileType": "pdf",
+  "fileSize": 2400000,
+  "branch": "ECE",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Signals & Systems",
+  "tags": [
+    "assignment",
+    "typed"
+  ],
+  "contributor": "arjun_m",
+  "uploadedAt": "2025-08-15T12:00:00Z",
+  "verified": false,
+  "downloads": 765
+}

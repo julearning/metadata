@@ -1,0 +1,20 @@
+{
+  "id": "ece-s3-edc-pyq-1",
+  "title": "EDC Previous Year Solved Papers",
+  "description": "Solved question papers with numerical problems on biasing, amplifier analysis, and frequency response.",
+  "url": "https://drive.google.com/file/d/example-edc-pyq/view",
+  "fileType": "pdf",
+  "fileSize": 5600000,
+  "branch": "ECE",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Electronic Devices & Circuits",
+  "tags": [
+    "pyq",
+    "typed"
+  ],
+  "contributor": "ajay_verma",
+  "uploadedAt": "2025-08-05T14:30:00Z",
+  "verified": true,
+  "downloads": 2100
+}

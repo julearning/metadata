@@ -1,0 +1,20 @@
+{
+  "id": "ce-s4-ct-notes-1",
+  "title": "Concrete Technology - Complete Reference",
+  "description": "Notes on concrete ingredients, mix design methods, admixtures, durability, non-destructive testing, and quality control.",
+  "url": "https://drive.google.com/file/d/example-ct-notes/view",
+  "fileType": "pdf",
+  "fileSize": 7200000,
+  "branch": "CE",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Concrete Technology",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "abhishek_g",
+  "uploadedAt": "2025-08-20T10:30:00Z",
+  "verified": true,
+  "downloads": 1654
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cse-s6-ml-notes-1",
+  "title": "Machine Learning - Complete Notes",
+  "description": "Notes on supervised learning, unsupervised learning, neural networks, SVM, ensemble methods, and evaluation metrics.",
+  "url": "https://drive.google.com/file/d/example-ml-notes/view",
+  "fileType": "pdf",
+  "fileSize": 13200000,
+  "branch": "CSE",
+  "degree": "B.Tech",
+  "semester": 6,
+  "subject": "Machine Learning",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "aditya_n",
+  "uploadedAt": "2025-11-20T10:00:00Z",
+  "verified": true,
+  "downloads": 5432
+}

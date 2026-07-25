@@ -1,0 +1,20 @@
+{
+  "id": "me-s3-thermo-pyq-1",
+  "title": "Thermodynamics Previous Year Solved Papers",
+  "description": "Solved numerical problems on thermodynamic cycles, entropy calculations, and exergy analysis.",
+  "url": "https://drive.google.com/file/d/example-thermo-pyq/view",
+  "fileType": "pdf",
+  "fileSize": 4800000,
+  "branch": "ME",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Thermodynamics",
+  "tags": [
+    "pyq",
+    "typed"
+  ],
+  "contributor": "mohit_d",
+  "uploadedAt": "2025-08-10T15:00:00Z",
+  "verified": true,
+  "downloads": 2100
+}

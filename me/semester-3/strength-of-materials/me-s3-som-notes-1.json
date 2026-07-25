@@ -1,0 +1,20 @@
+{
+  "id": "me-s3-som-notes-1",
+  "title": "Strength of Materials - Complete Guide",
+  "description": "Notes on stress-strain analysis, bending moments, torsion, column theory, and strain energy methods.",
+  "url": "https://drive.google.com/file/d/example-som-notes/view",
+  "fileType": "pdf",
+  "fileSize": 6500000,
+  "branch": "ME",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Strength of Materials",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "arun_k",
+  "uploadedAt": "2025-07-20T10:30:00Z",
+  "verified": true,
+  "downloads": 1234
+}

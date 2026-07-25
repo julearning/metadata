@@ -1,0 +1,20 @@
+{
+  "id": "ece-s3-edc-notes-1",
+  "title": "Electronic Devices & Circuits - Complete Notes",
+  "description": "Notes on semiconductor physics, PN junction diodes, BJTs, FETs, amplifier circuits, and frequency response.",
+  "url": "https://drive.google.com/file/d/example-edc-notes/view",
+  "fileType": "pdf",
+  "fileSize": 8400000,
+  "branch": "ECE",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Electronic Devices & Circuits",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "sakshi_r",
+  "uploadedAt": "2025-09-10T10:00:00Z",
+  "verified": true,
+  "downloads": 1567
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cse-s3-dbms-pyq-1",
+  "title": "DBMS Previous Year Papers (2020-2024)",
+  "description": "Collection of DBMS exam papers from the last 5 years with step-by-step solutions.",
+  "url": "https://drive.google.com/file/d/example-dbms-pyq/view",
+  "fileType": "pdf",
+  "fileSize": 8500000,
+  "branch": "CSE",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Database Management Systems",
+  "tags": [
+    "pyq",
+    "typed"
+  ],
+  "contributor": "neha_verma",
+  "uploadedAt": "2025-06-20T14:00:00Z",
+  "verified": true,
+  "downloads": 2341
+}

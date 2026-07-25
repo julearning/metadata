@@ -1,0 +1,20 @@
+{
+  "id": "cse-s3-dld-notes-1",
+  "title": "Digital Logic Design - Complete Guide",
+  "description": "Notes on boolean algebra, logic gates, combinational circuits, sequential circuits, flip-flops, and memory units.",
+  "url": "https://drive.google.com/file/d/example-dld-notes/view",
+  "fileType": "pdf",
+  "fileSize": 6700000,
+  "branch": "CSE",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Digital Logic Design",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "sneha_m",
+  "uploadedAt": "2025-03-25T08:45:00Z",
+  "verified": true,
+  "downloads": 1567
+}

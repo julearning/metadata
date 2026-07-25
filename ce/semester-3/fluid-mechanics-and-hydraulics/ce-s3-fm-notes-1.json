@@ -1,0 +1,20 @@
+{
+  "id": "ce-s3-fm-notes-1",
+  "title": "Fluid Mechanics & Hydraulics - Notes",
+  "description": "Notes on fluid flow through pipes, open channel flow, hydraulic jump, pumps, and hydraulic machines.",
+  "url": "https://drive.google.com/file/d/example-ce-fm-notes/view",
+  "fileType": "pdf",
+  "fileSize": 6900000,
+  "branch": "CE",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Fluid Mechanics & Hydraulics",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "vivek_p",
+  "uploadedAt": "2025-07-25T11:15:00Z",
+  "verified": true,
+  "downloads": 1123
+}

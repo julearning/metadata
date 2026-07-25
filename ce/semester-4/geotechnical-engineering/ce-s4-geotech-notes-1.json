@@ -1,0 +1,20 @@
+{
+  "id": "ce-s4-geotech-notes-1",
+  "title": "Geotechnical Engineering - Complete Notes",
+  "description": "Notes on soil properties, consolidation, shear strength, slope stability, bearing capacity, and foundation engineering.",
+  "url": "https://drive.google.com/file/d/example-geotech-notes/view",
+  "fileType": "pdf",
+  "fileSize": 8500000,
+  "branch": "CE",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Geotechnical Engineering",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "aniket_s",
+  "uploadedAt": "2025-10-22T09:00:00Z",
+  "verified": true,
+  "downloads": 1432
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ece-s5-cs-notes-1",
+  "title": "Communication Systems - Complete Notes",
+  "description": "Notes on amplitude modulation, frequency modulation, digital modulation techniques, noise analysis, and information theory.",
+  "url": "https://drive.google.com/file/d/example-cs-notes/view",
+  "fileType": "pdf",
+  "fileSize": 9400000,
+  "branch": "ECE",
+  "degree": "B.Tech",
+  "semester": 5,
+  "subject": "Communication Systems",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "neha_k",
+  "uploadedAt": "2025-11-05T10:00:00Z",
+  "verified": true,
+  "downloads": 1456
+}

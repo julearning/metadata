@@ -1,0 +1,20 @@
+{
+  "id": "cse-s6-ml-pyq-1",
+  "title": "Machine Learning Previous Year Papers",
+  "description": "Solved question papers covering ML algorithms, evaluation metrics, overfitting, and real-world case studies.",
+  "url": "https://drive.google.com/file/d/example-ml-pyq/view",
+  "fileType": "pdf",
+  "fileSize": 3800000,
+  "branch": "CSE",
+  "degree": "B.Tech",
+  "semester": 6,
+  "subject": "Machine Learning",
+  "tags": [
+    "pyq",
+    "typed"
+  ],
+  "contributor": "shreya_k",
+  "uploadedAt": "2025-10-25T14:00:00Z",
+  "verified": true,
+  "downloads": 3210
+}

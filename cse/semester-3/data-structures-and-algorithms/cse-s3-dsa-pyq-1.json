@@ -1,0 +1,20 @@
+{
+  "id": "cse-s3-dsa-pyq-1",
+  "title": "DSA Previous Year Questions with Solutions",
+  "description": "Well-explained solutions to DSA exam questions covering arrays, trees, graphs, and algorithm analysis.",
+  "url": "https://drive.google.com/file/d/example-dsa-pyq/view",
+  "fileType": "pdf",
+  "fileSize": 5300000,
+  "branch": "CSE",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Data Structures & Algorithms",
+  "tags": [
+    "pyq",
+    "typed"
+  ],
+  "contributor": "rohit_s",
+  "uploadedAt": "2025-04-18T16:30:00Z",
+  "verified": true,
+  "downloads": 2890
+}

@@ -1,0 +1,20 @@
+{
+  "id": "me-s4-mp-notes-1",
+  "title": "Manufacturing Processes - Complete Notes",
+  "description": "Notes on casting, forming, welding, machining operations, and modern manufacturing techniques including 3D printing.",
+  "url": "https://drive.google.com/file/d/example-mp-notes/view",
+  "fileType": "pdf",
+  "fileSize": 10200000,
+  "branch": "ME",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Manufacturing Processes",
+  "tags": [
+    "notes",
+    "handwritten"
+  ],
+  "contributor": "rahul_m",
+  "uploadedAt": "2025-08-30T09:30:00Z",
+  "verified": true,
+  "downloads": 1765
+}

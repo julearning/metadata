@@ -1,0 +1,20 @@
+{
+  "id": "ece-s3-nt-notes-1",
+  "title": "Network Theory - Complete Reference",
+  "description": "Notes on network theorems, transient analysis, two-port networks, network functions, and filter design.",
+  "url": "https://drive.google.com/file/d/example-nt-notes/view",
+  "fileType": "pdf",
+  "fileSize": 7200000,
+  "branch": "ECE",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Network Theory",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "priya_singh",
+  "uploadedAt": "2025-07-18T11:15:00Z",
+  "verified": true,
+  "downloads": 1234
+}

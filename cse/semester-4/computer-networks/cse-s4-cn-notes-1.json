@@ -1,0 +1,20 @@
+{
+  "id": "cse-s4-cn-notes-1",
+  "title": "Computer Networks - Complete Reference",
+  "description": "Comprehensive notes on OSI model, TCP/IP protocol suite, routing algorithms, network security, and application layer protocols.",
+  "url": "https://drive.google.com/file/d/example-cn-notes/view",
+  "fileType": "pdf",
+  "fileSize": 9200000,
+  "branch": "CSE",
+  "degree": "B.Tech",
+  "semester": 4,
+  "subject": "Computer Networks",
+  "tags": [
+    "notes",
+    "typed"
+  ],
+  "contributor": "karan_s",
+  "uploadedAt": "2025-08-28T09:00:00Z",
+  "verified": true,
+  "downloads": 1654
+}
