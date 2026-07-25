@@ -12,7 +12,7 @@
 
 ## Checklist
 
-- [ ] The file is placed in the correct folder: `{branch}/semester-{n}/`
+- [ ] The file is placed at the correct path: `{branch}/semester-{n}/{subject-name}.json`
 - [ ] All required fields are present (`subject`, `branch`, `semester`)
 - [ ] My document entry has `title`, `url`, `tags`, and `fileSize`
 - [ ] The `url` points to a publicly accessible document
