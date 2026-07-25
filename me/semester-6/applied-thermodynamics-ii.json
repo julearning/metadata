@@ -5,14 +5,40 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Applied Thermodynamics-II Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 3994470,
+          "description": "Handwritten Summary for Applied Thermodynamics-II — ME Semester 6.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-26T14:46:13.610Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Applied Thermodynamics-II Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3597307,
+          "description": "Complete Notes for Applied Thermodynamics-II — ME Semester 6.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-04-28T03:44:31.758Z"
+        }
+      ]
     }
   }
 }

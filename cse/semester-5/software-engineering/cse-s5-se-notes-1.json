@@ -16,5 +16,43 @@
   "contributor": "akshay_p",
   "uploadedAt": "2025-09-15T11:00:00Z",
   "verified": true,
-  "downloads": 1876
+  "downloads": 1876,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Software Engineering Handwritten Summary",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 4358333,
+          "description": "Handwritten Summary for Software Engineering — CSE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-09-03T10:44:05.808Z"
+        }
+      ]
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Software Engineering Previous Year Questions",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 3190492,
+          "description": "Previous Year Questions for Software Engineering — CSE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-07-27T08:10:10.623Z"
+        }
+      ]
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
 }

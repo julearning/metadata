@@ -5,14 +5,40 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Software Engg Complete Notes",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 4214077,
+          "description": "Complete Notes for Software Engg — CSE Semester 6.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-01-13T11:33:02.846Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Software Engg Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 3686771,
+          "description": "Handwritten Summary for Software Engg — CSE Semester 6.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-09T17:35:25.439Z"
+        }
+      ]
     }
   }
 }

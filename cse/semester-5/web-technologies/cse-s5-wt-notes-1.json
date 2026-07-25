@@ -16,5 +16,43 @@
   "contributor": "shubham_b",
   "uploadedAt": "2025-07-22T09:45:00Z",
   "verified": false,
-  "downloads": 4321
+  "downloads": 4321,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Web Technologies Previous Year Questions",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2086291,
+          "description": "Previous Year Questions for Web Technologies — CSE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-08-27T22:29:00.253Z"
+        }
+      ]
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Web Technologies Complete Notes",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3361239,
+          "description": "Complete Notes for Web Technologies — CSE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-02-27T01:34:44.697Z"
+        }
+      ]
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
 }

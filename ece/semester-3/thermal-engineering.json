@@ -5,7 +5,20 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Thermal Engineering Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 4035708,
+          "description": "Complete Notes for Thermal Engineering — ECE Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-07-17T09:34:03.964Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],

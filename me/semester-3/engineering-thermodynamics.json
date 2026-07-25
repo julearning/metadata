@@ -5,11 +5,36 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Engineering Thermodynamics Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1313588,
+          "description": "Previous Year Questions for Engineering Thermodynamics — ME Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-02-08T23:42:35.089Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Engineering Thermodynamics Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 4119401,
+          "description": "Complete Notes for Engineering Thermodynamics — ME Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-04-29T11:23:52.866Z"
+        }
+      ]
     },
     "mixed": {
       "documents": []

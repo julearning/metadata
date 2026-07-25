@@ -12,7 +12,19 @@
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Economics Previous Year Questions",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 3077340,
+          "description": "Previous Year Questions for Economics — CSE Semester 2.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-12T12:07:53.580Z"
+        }
+      ]
     }
   }
 }

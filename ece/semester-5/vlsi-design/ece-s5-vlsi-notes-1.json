@@ -16,5 +16,43 @@
   "contributor": "rohan_g",
   "uploadedAt": "2025-10-10T15:00:00Z",
   "verified": false,
-  "downloads": 1032
+  "downloads": 1032,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "VLSI Design Complete Notes",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3301971,
+          "description": "Complete Notes for VLSI Design — ECE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-13T05:04:02.114Z"
+        }
+      ]
+    },
+    "mixed": {
+      "documents": [
+        {
+          "title": "VLSI Design Previous Year Questions",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2497299,
+          "description": "Previous Year Questions for VLSI Design — ECE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-04-06T05:00:29.151Z"
+        }
+      ]
+    }
+  }
 }

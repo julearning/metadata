@@ -12,7 +12,20 @@
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Multimedia Handwritten Summary",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 3874657,
+          "description": "Handwritten Summary for Multimedia — CSE Semester 6.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-01-04T06:22:22.106Z"
+        }
+      ]
     }
   }
 }

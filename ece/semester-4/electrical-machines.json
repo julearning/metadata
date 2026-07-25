@@ -5,7 +5,20 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Electrical Machines Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 2615749,
+          "description": "Complete Notes for Electrical Machines — ECE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-01-22T16:41:28.409Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],

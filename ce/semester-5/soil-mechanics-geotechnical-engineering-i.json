@@ -9,7 +9,19 @@
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Soil Mechanics (Geotechnical Engineering-I) Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2917138,
+          "description": "Previous Year Questions for Soil Mechanics (Geotechnical Engineering-I) — CE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-20T03:36:28.391Z"
+        }
+      ]
     },
     "mixed": {
       "documents": []

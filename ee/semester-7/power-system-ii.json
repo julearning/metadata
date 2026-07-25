@@ -12,7 +12,31 @@
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Power System-II Complete Notes",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 4389043,
+          "description": "Complete Notes for Power System-II — EE Semester 7.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-05-11T00:06:52.492Z"
+        },
+        {
+          "title": "Power System-II Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2126123,
+          "description": "Previous Year Questions for Power System-II — EE Semester 7.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-06-01T20:53:45.455Z"
+        }
+      ]
     }
   }
 }

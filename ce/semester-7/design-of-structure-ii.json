@@ -5,14 +5,52 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Design Of Structure-II Previous Year Questions",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1734336,
+          "description": "Previous Year Questions for Design Of Structure-II — CE Semester 7.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-06-03T08:07:09.133Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Design Of Structure-II Complete Notes",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3522976,
+          "description": "Complete Notes for Design Of Structure-II — CE Semester 7.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-12-31T11:29:53.948Z"
+        }
+      ]
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Design Of Structure-II Handwritten Summary",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 5094564,
+          "description": "Handwritten Summary for Design Of Structure-II — CE Semester 7.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-30T18:50:42.096Z"
+        }
+      ]
     }
   }
 }

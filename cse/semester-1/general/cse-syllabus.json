@@ -16,5 +16,42 @@
   "contributor": "admin",
   "uploadedAt": "2025-06-01T08:00:00Z",
   "verified": true,
-  "downloads": 5678
+  "downloads": 5678,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "General Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1372728,
+          "description": "Previous Year Questions for General — CSE Semester 1.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-01-30T03:12:38.763Z"
+        },
+        {
+          "title": "General Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 5301886,
+          "description": "Handwritten Summary for General — CSE Semester 1.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-09-06T05:43:36.171Z"
+        }
+      ]
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
 }

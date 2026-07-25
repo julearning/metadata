@@ -5,7 +5,19 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Machine Design-II Previous Year Questions",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1651328,
+          "description": "Previous Year Questions for Machine Design-II — ME Semester 6.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-06-13T01:00:47.685Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],

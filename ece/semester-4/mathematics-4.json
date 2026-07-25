@@ -5,11 +5,48 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Mathematics-IV Complete Notes",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3334104,
+          "description": "Complete Notes for Mathematics-IV — ECE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-05-07T12:17:59.150Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Mathematics-IV Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 5086634,
+          "description": "Handwritten Summary for Mathematics-IV — ECE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-09-17T01:50:43.965Z"
+        },
+        {
+          "title": "Mathematics-IV Previous Year Questions",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1997110,
+          "description": "Previous Year Questions for Mathematics-IV — ECE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-05-22T14:51:32.113Z"
+        }
+      ]
     },
     "mixed": {
       "documents": []

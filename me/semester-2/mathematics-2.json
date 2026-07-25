@@ -5,14 +5,39 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Mathematics-II Handwritten Summary",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 4484156,
+          "description": "Handwritten Summary for Mathematics-II — ME Semester 2.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-07-14T07:42:14.717Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Mathematics-II Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2502100,
+          "description": "Previous Year Questions for Mathematics-II — ME Semester 2.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-12-07T16:04:41.014Z"
+        }
+      ]
     }
   }
 }

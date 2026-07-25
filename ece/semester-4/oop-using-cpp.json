@@ -5,14 +5,52 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "OOP Using Cpp Handwritten Summary",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 3765826,
+          "description": "Handwritten Summary for OOP Using Cpp — ECE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-02-15T20:17:51.742Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "OOP Using Cpp Previous Year Questions",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1404526,
+          "description": "Previous Year Questions for OOP Using Cpp — ECE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-03-14T23:48:54.705Z"
+        }
+      ]
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "OOP Using Cpp Complete Notes",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3578026,
+          "description": "Complete Notes for OOP Using Cpp — ECE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-12-28T06:51:21.002Z"
+        }
+      ]
     }
   }
 }

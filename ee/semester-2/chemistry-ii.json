@@ -12,7 +12,20 @@
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Chemistry-II Complete Notes",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3264471,
+          "description": "Complete Notes for Chemistry-II — EE Semester 2.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-03-05T22:19:02.117Z"
+        }
+      ]
     }
   }
 }

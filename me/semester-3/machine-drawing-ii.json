@@ -12,7 +12,20 @@
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Machine Drawing-II Handwritten Summary",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 3696133,
+          "description": "Handwritten Summary for Machine Drawing-II — ME Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-03-27T03:10:36.570Z"
+        }
+      ]
     }
   }
 }

@@ -16,5 +16,31 @@
   "contributor": "ajay_verma",
   "uploadedAt": "2025-08-05T14:30:00Z",
   "verified": true,
-  "downloads": 2100
+  "downloads": 2100,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Electronic Devices & Circuits Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 3701783,
+          "description": "Handwritten Summary for Electronic Devices & Circuits — ECE Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-12-16T20:55:05.074Z"
+        }
+      ]
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
 }

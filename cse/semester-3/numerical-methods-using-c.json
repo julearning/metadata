@@ -9,7 +9,20 @@
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Numerical Methods Using C Handwritten Summary",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 4337431,
+          "description": "Handwritten Summary for Numerical Methods Using C — CSE Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-11-17T01:06:45.064Z"
+        }
+      ]
     },
     "mixed": {
       "documents": []

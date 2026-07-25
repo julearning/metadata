@@ -16,5 +16,43 @@
   "contributor": "neha_k",
   "uploadedAt": "2025-11-05T10:00:00Z",
   "verified": true,
-  "downloads": 1456
+  "downloads": 1456,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Communication Systems Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2850231,
+          "description": "Previous Year Questions for Communication Systems — ECE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-12-13T19:03:15.816Z"
+        }
+      ]
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Communication Systems Complete Notes",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3886385,
+          "description": "Complete Notes for Communication Systems — ECE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-12-19T14:33:28.779Z"
+        }
+      ]
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
 }

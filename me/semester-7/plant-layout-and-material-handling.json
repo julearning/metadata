@@ -9,10 +9,35 @@
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Plant Layout And Material Handling Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2082733,
+          "description": "Previous Year Questions for Plant Layout And Material Handling — ME Semester 7.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-03-15T07:51:04.353Z"
+        }
+      ]
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Plant Layout And Material Handling Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3143492,
+          "description": "Complete Notes for Plant Layout And Material Handling — ME Semester 7.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-15T18:05:18.057Z"
+        }
+      ]
     }
   }
 }

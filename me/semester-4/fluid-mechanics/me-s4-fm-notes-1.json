@@ -16,5 +16,43 @@
   "contributor": "deepak_r",
   "uploadedAt": "2025-10-15T11:00:00Z",
   "verified": true,
-  "downloads": 1432
+  "downloads": 1432,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Fluid Mechanics Previous Year Questions",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2143964,
+          "description": "Previous Year Questions for Fluid Mechanics — ME Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-06-12T14:27:40.646Z"
+        }
+      ]
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Fluid Mechanics Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 4770138,
+          "description": "Handwritten Summary for Fluid Mechanics — ME Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-07-28T07:31:35.831Z"
+        }
+      ]
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
 }

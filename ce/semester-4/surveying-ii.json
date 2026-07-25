@@ -5,14 +5,39 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Surveying-II Previous Year Questions",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 3040106,
+          "description": "Previous Year Questions for Surveying-II — CE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-12-09T02:08:13.946Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Surveying-II Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 4114437,
+          "description": "Handwritten Summary for Surveying-II — CE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-11-29T00:22:51.723Z"
+        }
+      ]
     }
   }
 }

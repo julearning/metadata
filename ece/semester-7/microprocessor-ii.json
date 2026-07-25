@@ -5,7 +5,31 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Microprocessor-II Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1268535,
+          "description": "Previous Year Questions for Microprocessor-II — ECE Semester 7.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-08-17T16:15:31.004Z"
+        },
+        {
+          "title": "Microprocessor-II Handwritten Summary",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 3770224,
+          "description": "Handwritten Summary for Microprocessor-II — ECE Semester 7.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-09-03T06:52:01.744Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],

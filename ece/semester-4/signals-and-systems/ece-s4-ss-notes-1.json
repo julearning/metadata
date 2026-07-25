@@ -16,5 +16,31 @@
   "contributor": "nidhi_agr",
   "uploadedAt": "2025-09-28T16:00:00Z",
   "verified": true,
-  "downloads": 1876
+  "downloads": 1876,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": [
+        {
+          "title": "Signals & Systems Handwritten Summary",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 4963717,
+          "description": "Handwritten Summary for Signals & Systems — ECE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-05-02T19:43:13.965Z"
+        }
+      ]
+    }
+  }
 }

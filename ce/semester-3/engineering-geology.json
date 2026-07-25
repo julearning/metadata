@@ -5,7 +5,31 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Engineering Geology Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 4068192,
+          "description": "Handwritten Summary for Engineering Geology — CE Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-12-21T12:53:47.275Z"
+        },
+        {
+          "title": "Engineering Geology Previous Year Questions",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2419787,
+          "description": "Previous Year Questions for Engineering Geology — CE Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-09-24T14:25:49.497Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],

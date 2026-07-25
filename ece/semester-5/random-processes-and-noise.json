@@ -12,7 +12,20 @@
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Random Processes and Noise Handwritten Summary",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 5287191,
+          "description": "Handwritten Summary for Random Processes and Noise — ECE Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-01-07T15:33:32.484Z"
+        }
+      ]
     }
   }
 }

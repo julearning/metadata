@@ -16,5 +16,42 @@
   "contributor": "rahulsharma",
   "uploadedAt": "2025-08-15T10:30:00Z",
   "verified": true,
-  "downloads": 1243
+  "downloads": 1243,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": []
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": [
+        {
+          "title": "Database Management Systems Previous Year Questions",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1679415,
+          "description": "Previous Year Questions for Database Management Systems — CSE Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-31T05:46:20.989Z"
+        },
+        {
+          "title": "Database Management Systems Handwritten Summary",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 3750548,
+          "description": "Handwritten Summary for Database Management Systems — CSE Semester 3.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-03-05T20:12:51.729Z"
+        }
+      ]
+    }
+  }
 }

@@ -16,5 +16,42 @@
   "contributor": "rajesh_k",
   "uploadedAt": "2025-10-20T10:00:00Z",
   "verified": true,
-  "downloads": 1345
+  "downloads": 1345,
+  "sections": {
+    "section-a": {
+      "chapters": [],
+      "documents": [
+        {
+          "title": "Power Systems Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 1259173,
+          "description": "Previous Year Questions for Power Systems — EE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-03-02T06:40:19.897Z"
+        },
+        {
+          "title": "Power Systems Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 4162097,
+          "description": "Complete Notes for Power Systems — EE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-08T18:59:03.972Z"
+        }
+      ]
+    },
+    "section-b": {
+      "chapters": [],
+      "documents": []
+    },
+    "mixed": {
+      "documents": []
+    }
+  }
 }

@@ -12,7 +12,20 @@
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Communication System-II Complete Notes",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 3980101,
+          "description": "Complete Notes for Communication System-II — ECE Semester 6.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-02-21T12:29:48.410Z"
+        }
+      ]
     }
   }
 }

@@ -9,10 +9,36 @@
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Advanced Hydraulics (Elective-I) Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 2526646,
+          "description": "Complete Notes for Advanced Hydraulics (Elective-I) — CE Semester 6.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-06-08T09:40:23.576Z"
+        }
+      ]
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Advanced Hydraulics (Elective-I) Handwritten Summary",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 5448928,
+          "description": "Handwritten Summary for Advanced Hydraulics (Elective-I) — CE Semester 6.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-11-11T01:28:41.724Z"
+        }
+      ]
     }
   }
 }

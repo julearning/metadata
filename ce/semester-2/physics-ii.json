@@ -9,7 +9,31 @@
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Physics-II Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 4162337,
+          "description": "Complete Notes for Physics-II — CE Semester 2.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-08-27T07:32:16.534Z"
+        },
+        {
+          "title": "Physics-II Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2793964,
+          "description": "Previous Year Questions for Physics-II — CE Semester 2.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-08-15T11:27:40.608Z"
+        }
+      ]
     },
     "mixed": {
       "documents": []

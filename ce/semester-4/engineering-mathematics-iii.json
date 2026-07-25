@@ -9,7 +9,31 @@
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Engineering Mathematics-III Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 2612037,
+          "description": "Complete Notes for Engineering Mathematics-III — CE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-04-29T00:50:45.796Z"
+        },
+        {
+          "title": "Engineering Mathematics-III Previous Year Questions",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 2006524,
+          "description": "Previous Year Questions for Engineering Mathematics-III — CE Semester 4.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-08-11T16:50:58.759Z"
+        }
+      ]
     },
     "mixed": {
       "documents": []

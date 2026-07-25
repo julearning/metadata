@@ -5,11 +5,36 @@
   "sections": {
     "section-a": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Graphics Complete Notes",
+          "url": "https://docs.google.com/document/d/1EIuPAYpZpXKUq-p8o_sEuIMr8bg5f881fpJnJ_ZeYOQ/edit?usp=drive_link",
+          "tags": [
+            "notes",
+            "typed"
+          ],
+          "fileSize": 4492489,
+          "description": "Complete Notes for Graphics — ECE Semester 1.",
+          "contributor": "julearning",
+          "uploadedAt": "2026-04-12T13:12:14.701Z"
+        }
+      ]
     },
     "section-b": {
       "chapters": [],
-      "documents": []
+      "documents": [
+        {
+          "title": "Graphics Previous Year Questions",
+          "url": "https://drive.google.com/file/d/1-2nRaws68t_eckay75EK_17AVflSB60n/view?usp=drive_link",
+          "tags": [
+            "pyq"
+          ],
+          "fileSize": 3010030,
+          "description": "Previous Year Questions for Graphics — ECE Semester 1.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-21T03:04:39.146Z"
+        }
+      ]
     },
     "mixed": {
       "documents": []

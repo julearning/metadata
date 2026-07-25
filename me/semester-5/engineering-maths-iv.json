@@ -12,7 +12,20 @@
       "documents": []
     },
     "mixed": {
-      "documents": []
+      "documents": [
+        {
+          "title": "Engineering Maths-IV Handwritten Summary",
+          "url": "https://drive.google.com/file/d/14oai7JMdifnB2qGAqyBH4qYvqsjh0cgK/view?usp=drive_link",
+          "tags": [
+            "notes",
+            "handwritten"
+          ],
+          "fileSize": 5465715,
+          "description": "Handwritten Summary for Engineering Maths-IV — ME Semester 5.",
+          "contributor": "julearning",
+          "uploadedAt": "2025-10-17T18:45:18.055Z"
+        }
+      ]
     }
   }
 }
