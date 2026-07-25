@@ -147,15 +147,14 @@ def validate_document(data, filepath, rel_path):
             err(f"fileSize must be non-negative, got {data['fileSize']}", rel_path)
 
     if "subject" in data and data["subject"]:
-        # Validate subject matches folder name
+        # Validate subject matches folder name (case and hyphen insensitive)
         parts = filepath.split(os.sep)
-        # Expected: .../CSE/semester-4/Subject-Name/title-slug.json
         if len(parts) >= 3:
             subject_folder = parts[-2] if len(parts) >= 2 else ""
-            # Subject folder name should match subject field (case-insensitive)
-            expected_slug = re.sub(r"[^a-zA-Z0-9 ]+", " ", subject_folder).strip().lower()
-            actual_slug = data["subject"].lower().strip()
-            if expected_slug and actual_slug and expected_slug != actual_slug:
+            # Normalize both: remove hyphens, spaces, compare lowercase
+            expected = re.sub(r"[^a-zA-Z0-9]+", "", subject_folder).lower()
+            actual = re.sub(r"[^a-zA-Z0-9]+", "", data["subject"]).lower()
+            if expected and actual and expected != actual:
                 warn(
                     f"Subject '{data['subject']}' doesn't match "
                     f"folder name '{subject_folder}'",
