@@ -1,0 +1,20 @@
+{
+  "id": "cse-s3-dbms-notes-1",
+  "title": "DBMS Complete Notes - Unit 1 to 5",
+  "description": "Comprehensive database management systems notes covering ER diagrams, relational model, SQL, normalization, and transaction processing.",
+  "url": "https://drive.google.com/file/d/your-file-id/view",
+  "fileType": "pdf",
+  "fileSize": 4200000,
+
+  "branch": "CSE",
+  "degree": "B.Tech",
+  "semester": 3,
+  "subject": "Database Management Systems",
+  "topic": "Complete Syllabus",
+
+  "tags": ["notes", "typed"],
+
+  "contributor": "your-github-username",
+  "uploadedAt": "2025-08-15T10:30:00Z",
+  "verified": false
+}
