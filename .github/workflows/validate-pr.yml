@@ -4,12 +4,10 @@ on:
   pull_request:
     paths:
       - '**/*.json'
-      - '.github/workflows/*'
 
 permissions:
   contents: write
   pull-requests: write
-  issues: write
 
 jobs:
   validate:
@@ -19,27 +17,49 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Validate JSON syntax
-        id: syntax
+      - name: Get changed JSON files
+        id: changed
         run: |
-          find . -name "*.json" -not -path "./.git/*" | while read file; do
+          CHANGED=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- '*.json' | paste -sd ' ')
+          echo "files=$CHANGED" >> $GITHUB_OUTPUT
+          echo "Changed JSON files: $CHANGED"
+
+      - name: Validate each changed file
+        run: |
+          FILES="${{ steps.changed.outputs.files }}"
+          if [ -z "$FILES" ]; then
+            echo "No JSON files changed — skipping validation"
+            exit 0
+          fi
+
+          for file in $FILES; do
+            if [ ! -f "$file" ]; then continue; fi
+
+            echo "Checking: $file"
+
+            # JSON syntax
             if ! jq empty "$file" 2>/dev/null; then
-              echo "❌ Invalid JSON: $file"
+              echo "❌ $file: invalid JSON"
               exit 1
             fi
-          done
-          echo "✅ All JSON files valid"
 
-      - name: Validate document structure
-        id: structure
-        run: |
-          find . -name "*.json" -not -path "./.git/*" -not -path "./.github/*" | while read file; do
-            COUNT=$(jq length "$file" 2>/dev/null)
-            if [ -z "$COUNT" ] || [ "$COUNT" -eq 0 ]; then
-              echo "❌ $file: empty document array"
+            # Must be an array of documents
+            TYPE=$(jq -r 'type' "$file" 2>/dev/null)
+            if [ "$TYPE" != "array" ]; then
+              echo "❌ $file: must be a JSON array, got $TYPE"
               exit 1
             fi
+
+            COUNT=$(jq 'length' "$file")
+            if [ "$COUNT" -eq 0 ]; then
+              echo "❌ $file: empty array"
+              exit 1
+            fi
+
+            # Each document must have title, url, type
             for i in $(seq 0 $((COUNT - 1))); do
               TITLE=$(jq -r ".[$i].title // empty" "$file")
               URL=$(jq -r ".[$i].url // empty" "$file")
@@ -48,10 +68,15 @@ jobs:
                 echo "❌ $file doc $((i+1)): missing title, url, or type"
                 exit 1
               fi
-              case "$URL" in https://*) ;; *) echo "❌ $file: url must be https"; exit 1 ;; esac
+              case "$URL" in
+                https://*) ;;
+                *) echo "❌ $file doc $((i+1)): url must start with https"; exit 1 ;;
+              esac
             done
-            echo "✅ $file: $COUNT document(s)"
+
+            echo "✅ $file: $COUNT valid document(s)"
           done
+          echo "All checks passed"
 
       - name: Set result
         id: result
@@ -62,17 +87,28 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
             const passed = '${{ steps.result.outputs.passed }}' === 'true';
             let body = '## 📋 PR Validation Results\\n\\n';
             body += passed
               ? '✅ **All checks passed.** This PR is valid.'
               : '❌ **Validation failed.** Please fix the errors above.';
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: body,
-            });
+            const existing = comments.find(c => c.user.type === 'Bot' && c.body.includes('PR Validation Results'));
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner, repo: context.repo.repo,
+                comment_id: existing.id, body: body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo,
+                issue_number: context.issue.number, body: body,
+              });
+            }
 
   auto-merge:
     needs: validate
@@ -90,17 +126,6 @@ jobs:
                 pull_number: context.issue.number,
                 merge_method: "squash",
               });
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: '🚀 **Auto-merged successfully!**',
-              });
             } catch (err) {
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: '⚠️ Validation passed but auto-merge failed. A maintainer needs to merge manually.',
-              });
+              // Branch protection or other issues — PR stays open for manual merge
             }
