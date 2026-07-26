@@ -1,11 +1,1 @@
-{
-  "title": "Making Games with Python & Pygame",
-  "url": "https://inventwithpython.com/makinggames.pdf",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "open-textbook-library",
-  "type": "mixed"
-}
+{"title": "Making Games with Python & Pygame", "url": "https://inventwithpython.com/makinggames.pdf", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "open-textbook-library", "type": "mixed"}

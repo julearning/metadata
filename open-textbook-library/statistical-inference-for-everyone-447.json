@@ -1,11 +1,1 @@
-{
-  "title": "Statistical Inference For Everyone",
-  "url": "https://github.com/bblais/Statistical-Inference-for-Everyone/raw/master/Statistical%20Inference%20For%20Everyone.pdf",
-  "subject": "Probability & Statistics",
-  "branch": "CSE",
-  "semester": 3,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "open-textbook-library",
-  "type": "mixed"
-}
+{"title": "Statistical Inference For Everyone", "url": "https://github.com/bblais/Statistical-Inference-for-Everyone/raw/master/Statistical%20Inference%20For%20Everyone.pdf", "subject": "Probability & Statistics", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "open-textbook-library", "type": "mixed"}

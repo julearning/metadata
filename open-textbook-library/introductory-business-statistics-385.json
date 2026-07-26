@@ -1,11 +1,1 @@
-{
-  "title": "Introductory Business Statistics",
-  "url": "http://solr.bccampus.ca:8001/bcc/file/b98db368-2b3d-4f32-97d5-837719f2fcce/1/Introductory%20Business%20Statistics.pdf",
-  "subject": "Probability & Statistics",
-  "branch": "CSE",
-  "semester": 3,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "open-textbook-library",
-  "type": "mixed"
-}
+{"title": "Introductory Business Statistics", "url": "http://solr.bccampus.ca:8001/bcc/file/b98db368-2b3d-4f32-97d5-837719f2fcce/1/Introductory%20Business%20Statistics.pdf", "subject": "Probability & Statistics", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "open-textbook-library", "type": "mixed"}

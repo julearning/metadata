@@ -1,14 +1,1 @@
-{
-  "title": "Christian Science",
-  "url": "https://www.gutenberg.org/ebooks/3187",
-  "subject": "Engineering Fundamentals",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Twain, Mark",
-  "downloadCount": 1041,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Christian Science", "url": "https://www.gutenberg.org/ebooks/3187", "subject": "Engineering Fundamentals", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Twain, Mark", "downloadCount": 1041, "license": "Public Domain", "type": "mixed"}

@@ -1,14 +1,1 @@
-{
-  "title": "Rough and Tumble Engineering",
-  "url": "https://www.gutenberg.org/ebooks/11164",
-  "subject": "Engineering Fundamentals",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Maggard, James H.",
-  "downloadCount": 417,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Rough and Tumble Engineering", "url": "https://www.gutenberg.org/ebooks/11164", "subject": "Engineering Fundamentals", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Maggard, James H.", "downloadCount": 417, "license": "Public Domain", "type": "mixed"}

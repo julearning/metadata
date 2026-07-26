@@ -1,14 +1,1 @@
-{
-  "title": "Physiological Researches on Life and Death",
-  "url": "https://www.gutenberg.org/ebooks/56440",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Bichat, Xavier",
-  "downloadCount": 638,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Physiological Researches on Life and Death", "url": "https://www.gutenberg.org/ebooks/56440", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Bichat, Xavier", "downloadCount": 638, "license": "Public Domain", "type": "mixed"}

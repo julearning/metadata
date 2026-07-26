@@ -1,11 +1,1 @@
-{
-  "title": "A Byte of Python",
-  "url": "https://github.com/swaroopch/byte-of-python/releases/tag/va62ee8caa3475e8733c40918bbe16719b4904693",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "open-textbook-library",
-  "type": "mixed"
-}
+{"title": "A Byte of Python", "url": "https://github.com/swaroopch/byte-of-python/releases/tag/va62ee8caa3475e8733c40918bbe16719b4904693", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "open-textbook-library", "type": "mixed"}

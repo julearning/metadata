@@ -1,11 +1,1 @@
-{
-  "title": "Deep into Pharo",
-  "url": "https://files.pharo.org/books-pdfs/deep-into-pharo/2013-DeepIntoPharo-EN.pdf",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "open-textbook-library",
-  "type": "mixed"
-}
+{"title": "Deep into Pharo", "url": "https://files.pharo.org/books-pdfs/deep-into-pharo/2013-DeepIntoPharo-EN.pdf", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "open-textbook-library", "type": "mixed"}

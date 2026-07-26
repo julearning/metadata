@@ -1,14 +1,1 @@
-{
-  "title": "Geological Observations on South America",
-  "url": "https://www.gutenberg.org/ebooks/3620",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Darwin, Charles",
-  "downloadCount": 830,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Geological Observations on South America", "url": "https://www.gutenberg.org/ebooks/3620", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Darwin, Charles", "downloadCount": 830, "license": "Public Domain", "type": "mixed"}

@@ -1,14 +1,1 @@
-{
-  "title": "Studies and Exercises in Formal Logic",
-  "url": "https://www.gutenberg.org/ebooks/59590",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Keynes, John Neville",
-  "downloadCount": 585,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Studies and Exercises in Formal Logic", "url": "https://www.gutenberg.org/ebooks/59590", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Keynes, John Neville", "downloadCount": 585, "license": "Public Domain", "type": "mixed"}

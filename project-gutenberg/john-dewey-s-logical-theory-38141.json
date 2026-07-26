@@ -1,14 +1,1 @@
-{
-  "title": "John Dewey's logical theory",
-  "url": "https://www.gutenberg.org/ebooks/38141",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Howard, Delton Thomas",
-  "downloadCount": 707,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "John Dewey's logical theory", "url": "https://www.gutenberg.org/ebooks/38141", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Howard, Delton Thomas", "downloadCount": 707, "license": "Public Domain", "type": "mixed"}

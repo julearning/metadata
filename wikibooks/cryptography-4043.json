@@ -1,11 +1,1 @@
-{
-  "title": "Cryptography",
-  "url": "https://en.wikibooks.org/wiki/Cryptography",
-  "subject": "Computer Security",
-  "branch": "CSE",
-  "semester": 6,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "wikibooks",
-  "type": "mixed"
-}
+{"title": "Cryptography", "url": "https://en.wikibooks.org/wiki/Cryptography", "subject": "Computer Security", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "wikibooks", "type": "mixed"}

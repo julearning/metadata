@@ -1,11 +1,1 @@
-{
-  "title": "Lambda Calculus",
-  "url": "https://en.wikibooks.org/wiki/Lambda_Calculus",
-  "subject": "Mathematics-I",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "wikibooks",
-  "type": "mixed"
-}
+{"title": "Lambda Calculus", "url": "https://en.wikibooks.org/wiki/Lambda_Calculus", "subject": "Mathematics-I", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "wikibooks", "type": "mixed"}

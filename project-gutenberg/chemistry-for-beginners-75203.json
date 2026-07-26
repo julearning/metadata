@@ -1,14 +1,1 @@
-{
-  "title": "Chemistry for beginners",
-  "url": "https://www.gutenberg.org/ebooks/75203",
-  "subject": "Engineering Chemistry",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Carrington, Hereward",
-  "downloadCount": 426,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Chemistry for beginners", "url": "https://www.gutenberg.org/ebooks/75203", "subject": "Engineering Chemistry", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Carrington, Hereward", "downloadCount": 426, "license": "Public Domain", "type": "mixed"}

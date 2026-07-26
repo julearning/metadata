@@ -1,11 +1,1 @@
-{
-  "title": "Learning Python 3 with the Linkbot",
-  "url": "https://en.wikibooks.org/wiki/Learning_Python_3_with_the_Linkbot",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "wikibooks",
-  "type": "mixed"
-}
+{"title": "Learning Python 3 with the Linkbot", "url": "https://en.wikibooks.org/wiki/Learning_Python_3_with_the_Linkbot", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "wikibooks", "type": "mixed"}

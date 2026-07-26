@@ -1,14 +1,1 @@
-{
-  "title": "The Game of Logic",
-  "url": "https://www.gutenberg.org/ebooks/4763",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Carroll, Lewis",
-  "downloadCount": 1056,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "The Game of Logic", "url": "https://www.gutenberg.org/ebooks/4763", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Carroll, Lewis", "downloadCount": 1056, "license": "Public Domain", "type": "mixed"}

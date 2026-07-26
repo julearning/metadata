@@ -1,14 +1,1 @@
-{
-  "title": "Illusions: A Psychological Study",
-  "url": "https://www.gutenberg.org/ebooks/17815",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Sully, James",
-  "downloadCount": 1025,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Illusions: A Psychological Study", "url": "https://www.gutenberg.org/ebooks/17815", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Sully, James", "downloadCount": 1025, "license": "Public Domain", "type": "mixed"}

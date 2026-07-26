@@ -1,14 +1,1 @@
-{
-  "title": "IBM 1401 Programming Systems",
-  "url": "https://www.gutenberg.org/ebooks/27468",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Anonymous",
-  "downloadCount": 450,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "IBM 1401 Programming Systems", "url": "https://www.gutenberg.org/ebooks/27468", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Anonymous", "downloadCount": 450, "license": "Public Domain", "type": "mixed"}

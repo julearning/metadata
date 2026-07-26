@@ -1,14 +1,1 @@
-{
-  "title": "Elementare Arithmetik und Algebra",
-  "url": "https://www.gutenberg.org/ebooks/11925",
-  "subject": "Mathematics-I",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Schubert, Hermann",
-  "downloadCount": 164,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Elementare Arithmetik und Algebra", "url": "https://www.gutenberg.org/ebooks/11925", "subject": "Mathematics-I", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Schubert, Hermann", "downloadCount": 164, "license": "Public Domain", "type": "mixed"}

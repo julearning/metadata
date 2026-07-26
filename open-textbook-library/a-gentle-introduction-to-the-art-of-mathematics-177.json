@@ -1,11 +1,1 @@
-{
-  "title": "A Gentle Introduction to the Art of Mathematics",
-  "url": "https://osj1961.github.io/giam/",
-  "subject": "Mathematics-I",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "open-textbook-library",
-  "type": "mixed"
-}
+{"title": "A Gentle Introduction to the Art of Mathematics", "url": "https://osj1961.github.io/giam/", "subject": "Mathematics-I", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "open-textbook-library", "type": "mixed"}

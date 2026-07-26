@@ -1,14 +1,1 @@
-{
-  "title": "Advanced Chemistry",
-  "url": "https://www.gutenberg.org/ebooks/26955",
-  "subject": "Engineering Chemistry",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Huekels, Jack G.",
-  "downloadCount": 466,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Advanced Chemistry", "url": "https://www.gutenberg.org/ebooks/26955", "subject": "Engineering Chemistry", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Huekels, Jack G.", "downloadCount": 466, "license": "Public Domain", "type": "mixed"}

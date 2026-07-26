@@ -1,11 +1,1 @@
-{
-  "title": "Z80 Assembly",
-  "url": "https://en.wikibooks.org/wiki/Z80_Assembly",
-  "subject": "Digital Logic & Design",
-  "branch": "CSE",
-  "semester": 3,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "wikibooks",
-  "type": "mixed"
-}
+{"title": "Z80 Assembly", "url": "https://en.wikibooks.org/wiki/Z80_Assembly", "subject": "Digital Logic & Design", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "wikibooks", "type": "mixed"}

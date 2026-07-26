@@ -1,11 +1,1 @@
-{
-  "title": "Airplane Flying Handbook (FAA-H-8083-3C)",
-  "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook",
-  "subject": "Engineering Fundamentals",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "open-textbook-library",
-  "type": "mixed"
-}
+{"title": "Airplane Flying Handbook (FAA-H-8083-3C)", "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook", "subject": "Engineering Fundamentals", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "open-textbook-library", "type": "mixed"}

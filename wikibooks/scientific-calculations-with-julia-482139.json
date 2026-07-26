@@ -1,11 +1,1 @@
-{
-  "title": "Scientific Calculations with Julia",
-  "url": "https://en.wikibooks.org/wiki/Scientific_Calculations_with_Julia",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "wikibooks",
-  "type": "mixed"
-}
+{"title": "Scientific Calculations with Julia", "url": "https://en.wikibooks.org/wiki/Scientific_Calculations_with_Julia", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "wikibooks", "type": "mixed"}

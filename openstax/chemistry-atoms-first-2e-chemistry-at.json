@@ -1,13 +1,1 @@
-{
-  "title": "Chemistry: Atoms First 2e",
-  "url": "https://assets.openstax.org/oscms-prodcms/media/documents/chemistry-atoms-first-2e_-_WEB.pdf",
-  "subject": "Engineering Chemistry",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "openstax",
-  "license": "CC BY-NC-SA 4.0",
-  "authors": "",
-  "type": "mixed"
-}
+{"title": "Chemistry: Atoms First 2e", "url": "https://assets.openstax.org/oscms-prodcms/media/documents/chemistry-atoms-first-2e_-_WEB.pdf", "subject": "Engineering Chemistry", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "openstax", "license": "CC BY-NC-SA 4.0", "authors": "", "type": "mixed"}

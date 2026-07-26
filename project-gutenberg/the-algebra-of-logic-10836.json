@@ -1,14 +1,1 @@
-{
-  "title": "The Algebra of Logic",
-  "url": "https://www.gutenberg.org/ebooks/10836",
-  "subject": "Mathematics-I",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Couturat, Louis",
-  "downloadCount": 240,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "The Algebra of Logic", "url": "https://www.gutenberg.org/ebooks/10836", "subject": "Mathematics-I", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Couturat, Louis", "downloadCount": 240, "license": "Public Domain", "type": "mixed"}

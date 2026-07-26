@@ -1,11 +1,1 @@
-{
-  "title": "Discrete Math with SageMath: Learn math with open-source software",
-  "url": "https://www.hellencolman.com/sagediscretemath",
-  "subject": "Mathematics-I",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "open-textbook-library",
-  "type": "mixed"
-}
+{"title": "Discrete Math with SageMath: Learn math with open-source software", "url": "https://www.hellencolman.com/sagediscretemath", "subject": "Mathematics-I", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "open-textbook-library", "type": "mixed"}

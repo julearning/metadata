@@ -1,11 +1,1 @@
-{
-  "title": "Mathematica",
-  "url": "https://en.wikibooks.org/wiki/Mathematica",
-  "subject": "Probability & Statistics",
-  "branch": "CSE",
-  "semester": 3,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "wikibooks",
-  "type": "mixed"
-}
+{"title": "Mathematica", "url": "https://en.wikibooks.org/wiki/Mathematica", "subject": "Probability & Statistics", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "wikibooks", "type": "mixed"}

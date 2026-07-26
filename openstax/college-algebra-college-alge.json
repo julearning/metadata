@@ -1,13 +1,1 @@
-{
-  "title": "College Algebra",
-  "url": "https://assets.openstax.org/oscms-prodcms/media/documents/CollegeAlgebra-OP.pdf",
-  "subject": "Mathematics-I",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "openstax",
-  "license": "CC BY-NC-SA 4.0",
-  "authors": "",
-  "type": "mixed"
-}
+{"title": "College Algebra", "url": "https://assets.openstax.org/oscms-prodcms/media/documents/CollegeAlgebra-OP.pdf", "subject": "Mathematics-I", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "openstax", "license": "CC BY-NC-SA 4.0", "authors": "", "type": "mixed"}

@@ -1,14 +1,1 @@
-{
-  "title": "An Introduction to Mathematics",
-  "url": "https://www.gutenberg.org/ebooks/41568",
-  "subject": "Mathematics-I",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Whitehead, Alfred North",
-  "downloadCount": 1457,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "An Introduction to Mathematics", "url": "https://www.gutenberg.org/ebooks/41568", "subject": "Mathematics-I", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Whitehead, Alfred North", "downloadCount": 1457, "license": "Public Domain", "type": "mixed"}

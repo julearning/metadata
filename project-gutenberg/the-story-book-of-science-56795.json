@@ -1,14 +1,1 @@
-{
-  "title": "The Story-book of Science",
-  "url": "https://www.gutenberg.org/ebooks/56795",
-  "subject": "Engineering Fundamentals",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Fabre, Jean-Henri",
-  "downloadCount": 1386,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "The Story-book of Science", "url": "https://www.gutenberg.org/ebooks/56795", "subject": "Engineering Fundamentals", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Fabre, Jean-Henri", "downloadCount": 1386, "license": "Public Domain", "type": "mixed"}

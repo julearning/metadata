@@ -1,11 +1,1 @@
-{
-  "title": "Pro Git: Everything You Need to Know About Git (French)",
-  "url": "https://github.com/progit/progit2-fr/releases/download/2.1.70/progit.pdf",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "open-textbook-library",
-  "type": "mixed"
-}
+{"title": "Pro Git: Everything You Need to Know About Git (French)", "url": "https://github.com/progit/progit2-fr/releases/download/2.1.70/progit.pdf", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "open-textbook-library", "type": "mixed"}

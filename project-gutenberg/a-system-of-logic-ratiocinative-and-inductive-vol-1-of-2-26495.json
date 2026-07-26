@@ -1,14 +1,1 @@
-{
-  "title": "A System of Logic, Ratiocinative and Inductive (Vol. 1 of 2)",
-  "url": "https://www.gutenberg.org/ebooks/26495",
-  "subject": "Programming for Problem Solving",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Mill, John Stuart",
-  "downloadCount": 11988,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "A System of Logic, Ratiocinative and Inductive (Vol. 1 of 2)", "url": "https://www.gutenberg.org/ebooks/26495", "subject": "Programming for Problem Solving", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Mill, John Stuart", "downloadCount": 11988, "license": "Public Domain", "type": "mixed"}

@@ -1,13 +1,1 @@
-{
-  "title": "College Physics 2e",
-  "url": "https://assets.openstax.org/oscms-prodcms/media/documents/college-physics-2e_-_WEB.pdf",
-  "subject": "Engineering Physics",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "openstax",
-  "license": "CC BY-NC-SA 4.0",
-  "authors": "",
-  "type": "mixed"
-}
+{"title": "College Physics 2e", "url": "https://assets.openstax.org/oscms-prodcms/media/documents/college-physics-2e_-_WEB.pdf", "subject": "Engineering Physics", "contributor": "content-bot", "uploadedAt": "2026-07-26", "source": "openstax", "license": "CC BY-NC-SA 4.0", "authors": "", "type": "mixed"}

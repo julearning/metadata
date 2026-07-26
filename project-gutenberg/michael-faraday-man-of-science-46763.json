@@ -1,14 +1,1 @@
-{
-  "title": "Michael Faraday, Man of Science",
-  "url": "https://www.gutenberg.org/ebooks/46763",
-  "subject": "Engineering Fundamentals",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Jerrold, Walter",
-  "downloadCount": 785,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Michael Faraday, Man of Science", "url": "https://www.gutenberg.org/ebooks/46763", "subject": "Engineering Fundamentals", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Jerrold, Walter", "downloadCount": 785, "license": "Public Domain", "type": "mixed"}

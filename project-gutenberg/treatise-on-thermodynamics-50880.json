@@ -1,14 +1,1 @@
-{
-  "title": "Treatise on Thermodynamics",
-  "url": "https://www.gutenberg.org/ebooks/50880",
-  "subject": "Engineering Mechanics",
-  "branch": "CSE",
-  "semester": 1,
-  "contributor": "content-bot",
-  "uploadedAt": "",
-  "source": "project-gutenberg",
-  "author": "Planck, Max",
-  "downloadCount": 265,
-  "license": "Public Domain",
-  "type": "mixed"
-}
+{"title": "Treatise on Thermodynamics", "url": "https://www.gutenberg.org/ebooks/50880", "subject": "Engineering Mechanics", "contributor": "content-bot", "uploadedAt": "", "source": "project-gutenberg", "author": "Planck, Max", "downloadCount": 265, "license": "Public Domain", "type": "mixed"}
