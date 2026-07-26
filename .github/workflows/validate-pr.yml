@@ -80,10 +80,15 @@ jobs:
                   *) echo "❌ $file doc $((i+1)): thumbnailUrl must start with https if provided"; exit 1 ;;
                 esac
               fi
-              # Validate source (informal — may be missing, which is fine)
-              SOURCE="${file%%/*}"
-              if [ "$SOURCE" != "jammu-university" ] && [ "$SOURCE" != "wikibooks" ] && [ "$SOURCE" != "bulk" ]; then
-                echo "  (non-standard source: $SOURCE — accepted)"
+              # Validate source folder (informal — prints info, doesn't fail)
+              TOP="${file%%/*}"
+              if [ "$TOP" = "other-sources" ]; then
+                SOURCE="$(echo "$file" | cut -d'/' -f2)"
+                echo "  Source: $SOURCE (in other-sources/)"
+              elif [ "$TOP" = "jammu-university" ]; then
+                echo "  Source: jammu-university"
+              else
+                echo "  Source: $TOP (non-standard)"
               fi
             done
 
