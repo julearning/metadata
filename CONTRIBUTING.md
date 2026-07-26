@@ -94,7 +94,7 @@ Name the file after the document title. Use lowercase with hyphens:
 | `contributor` | | Your GitHub username |
 | `uploadedAt` | | Date in ISO format |
 | `description` | | Brief description of the document |
-| `language` | | `English`, `Hindi`, or other |
+| `language` | | `English`, `Hindi`, `mixed`, or other |
 | `pages` | | Number of pages |
 
 ### Tags reference
@@ -124,7 +124,7 @@ If you have a folder of files on Google Drive, the fastest way is to use the **D
 
 ### Step 2: Generate JSON files
 
-1. Go to **julearning.vercel.app/automation/drive**
+1. Go to **julearning.vercel.app/automation/drive** (the Drive automation page on the website)
 2. Paste the copied list into the textarea
 3. Fill in default values (branch, semester, subject, contributor name, etc.)
 4. Click "Generate" and confirm
