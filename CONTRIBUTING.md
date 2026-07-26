@@ -83,7 +83,7 @@ Name the file after the document title. Use lowercase with hyphens:
 | Field | Required | Description |
 |-------|----------|-------------|
 | `title` | ✅ | Full document title |
-| `url` | ✅ | Google Drive share link (must be "Anyone with link") |
+| `url` | ✅ | Public link to the file. Can be Google Drive, OneDrive, Dropbox, or any publicly accessible URL |
 | `tags` | ✅ | Array of tags: `notes`, `pyq`, `assignment`, `lab-manual`, `syllabus`, `handwritten`, `typed`, `reference-book`, `project-report` |
 | `subject` | ✅ | Full subject name (must match folder name) |
 | `branch` | ✅ | Branch code: `CSE`, `ECE`, `EE`, `ME`, `CE` |
@@ -154,15 +154,17 @@ If you have a folder of files on Google Drive, the fastest way is to use the **D
 
 ---
 
-## Language notes
+## Storage agnostic
 
-This project is **language-agnostic**. Study materials in any language are welcome — English, Hindi, Urdu, Dogri, or mixed. Set the `language` field to the primary language of the document. If a document mixes multiple languages, use `"language": "mixed"` or the most dominant language.
+This project **does not host files**. Every `url` field is simply a third-party link — Google Drive, OneDrive, Dropbox, or any publicly accessible URL. The website just stores pointers to where the actual files live.
 
-Examples:
-- Pure English → `"language": "English"`
-- Hindi notes → `"language": "Hindi"`
-- Mixed English + Hindi → `"language": "mixed"`
-- Regional language → `"language": "Dogri"` (or whatever applies)
+This means:
+- You can host files on **any** provider, not just Google Drive
+- You can use your **own** storage and still contribute — just make sure the link is public
+- If a link breaks, anyone can submit a PR to update or remove it
+- The system doesn't care where the bytes live — it just needs a working URL
+
+Language is also irrelevant to the system — materials in English, Hindi, Urdu, Dogri, mixed, or any other language work the same way. Set the `language` field accordingly (e.g., `"English"`, `"Hindi"`, `"mixed"`).
 
 ## Reporting a broken link
 
