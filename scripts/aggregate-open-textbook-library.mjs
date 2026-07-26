@@ -145,6 +145,12 @@ async function main() {
       continue;
     }
 
+    // Get ISBN for cover image lookup
+    const isbn = book.isbn13 || book.isbn10 || book.isbn || "";
+    const thumbnailUrl = isbn
+      ? `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`
+      : "";
+
     // Build the atomic JSON
     const doc = {
       title: book.title,
@@ -161,18 +167,14 @@ async function main() {
       language: book.language || "English",
       pages: 0,
       source: "open-textbook-library",
+      thumbnailUrl,
     };
 
     const slug = slugify(title) + "-" + book.id;
     const filePath = path.join(OUTPUT_DIR, `${slug}.json`);
 
-    // Don't overwrite existing files
-    if (!fs.existsSync(filePath)) {
-      fs.writeFileSync(filePath, JSON.stringify(doc, null, 2), "utf-8");
-      generated++;
-    } else {
-      skipped++;
-    }
+    fs.writeFileSync(filePath, JSON.stringify(doc, null, 2), "utf-8");
+    generated++;
   }
 
   console.log(`\nDone! Generated: ${generated} files, Skipped: ${skipped}`);
