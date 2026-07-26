@@ -178,25 +178,32 @@ jobs:
         with:
           script: |
             try {
-              const pr = await github.rest.pulls.merge({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: context.issue.number,
-                merge_method: "squash",
-              });
-              // Store the head branch name so next step can delete it
+              // Get PR details first (to capture head branch BEFORE merging)
               const { data: prData } = await github.rest.pulls.get({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 pull_number: context.issue.number,
               });
-              core.exportVariable('HEAD_BRANCH', prData.head.ref);
+              const headBranch = prData.head.ref;
+
+              // Attempt squash merge
+              await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                merge_method: "squash",
+              });
+
+              // Signal success and pass branch name
+              core.setOutput('merged', 'true');
+              core.exportVariable('HEAD_BRANCH', headBranch);
             } catch (err) {
-              // Branch protection or other issues — PR stays open for manual merge
+              core.setOutput('merged', 'false');
+              console.log('Merge failed (branch protection or conflict):', err.message);
             }
 
       - name: Delete merged branch
-        if: success()
+        if: steps.merge.outputs.merged == 'true'
         run: |
           BRANCH="$HEAD_BRANCH"
           if [ -n "$BRANCH" ] && [ "$BRANCH" != "main" ]; then
@@ -206,7 +213,7 @@ jobs:
           fi
 
       - name: Trigger website redeploy
-        if: success()
+        if: steps.merge.outputs.merged == 'true'
         run: |
           HOOK_URL="${{ secrets.VERCEL_DEPLOY_HOOK }}"
           if [ -n "$HOOK_URL" ]; then
@@ -214,6 +221,6 @@ jobs:
             echo "Website redeploy triggered."
           else
             echo "VERCEL_DEPLOY_HOOK not set — skipping website redeploy."
-            echo "To enable: Go to Vercel project → Settings → Git → Deploy Hooks → create a hook, then add it as"
-            echo "a GitHub Actions secret named VERCEL_DEPLOY_HOOK in this repository."
+            echo "To enable: Add the deploy hook URL as a repository secret named VERCEL_DEPLOY_HOOK."
+            echo "Create one at: Vercel Dashboard → (your project) → Settings → Git → Deploy Hooks"
           fi
