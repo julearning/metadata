@@ -136,75 +136,50 @@ jobs:
           done
           echo "All checks passed"
 
-      # ── Check if PR contributor has contributed before (trust-based) ──
+      # ── Check contributor trust via TRUSTED_CONTRIBUTORS variable ──
       - name: Check contributor trust
         id: trust
+        env:
+          TRUSTED: ${{ vars.TRUSTED_CONTRIBUTORS }}
         run: |
           FILES="${{ steps.changed.outputs.files }}"
-          if [ -z "$FILES" ]; then
+          if [ -z "$FILES" ] || [ -z "$TRUSTED" ]; then
             echo "trusted=false" >> $GITHUB_OUTPUT
-            echo "No files changed — not auto-merging"
+            echo "No files changed or TRUSTED_CONTRIBUTORS not set — not auto-merging"
             exit 0
           fi
 
-          # Build set of past contributors from existing files (excluding PR's changed files)
-          PAST_FILE=$(mktemp)
-          for file in $(find . -name '*.json' -not -path './.git/*'); do
-            # Normalize path (remove ./ prefix)
-            file_path="${file#./}"
+          TRUSTED_LIST=$(echo "$TRUSTED" | tr ',' '\n' | xargs)
+          echo "Trusted list set to: $(echo "$TRUSTED_LIST" | tr '\n' ' ')"
+          FOUND=false
 
-            # Skip if this file is in the PR's changed files
-            skip=false
-            for cf in $FILES; do
-              if [ "$file_path" = "$cf" ]; then skip=true; break; fi
-            done
-            $skip && continue
-
-            # Skip source metadata files (objects, not arrays)
-            TOP="${file_path%%/*}"
-            if [ "$TOP" = "other-sources" ]; then
-              SEG_COUNT=$(echo "$file_path" | tr '/' '\n' | grep -c .)
-              [ "$SEG_COUNT" -eq 2 ] && continue
-            fi
-
-            # Extract contributor from array docs
-            jq -r '.[].contributor // empty' "$file" 2>/dev/null
-          done | grep -v '^$' | sort -u > "$PAST_FILE"
-
-          echo "Past contributors: $(tr '\n' ' ' < "$PAST_FILE")"
-
-          # Extract contributors from PR's changed files
-          PR_CONTRIB=$(mktemp)
           for file in $FILES; do
             [ ! -f "$file" ] && continue
 
+            # Skip source metadata files
             TOP="${file%%/*}"
             if [ "$TOP" = "other-sources" ]; then
               SEG_COUNT=$(echo "$file" | tr '/' '\n' | grep -c .)
               [ "$SEG_COUNT" -eq 2 ] && continue
             fi
 
-            jq -r '.[].contributor // empty' "$file" 2>/dev/null
-          done | grep -v '^$' | sort -u > "$PR_CONTRIB"
-
-          echo "PR contributors: $(tr '\n' ' ' < "$PR_CONTRIB")"
-
-          # Check if ANY PR contributor has past contributions
-          FOUND=false
-          while IFS= read -r c; do
-            if [ -n "$c" ] && grep -qxF "$c" "$PAST_FILE"; then
-              echo "✅ Trusted contributor: $c (past contributions found)"
-              FOUND=true
-            fi
-          done < "$PR_CONTRIB"
-
-          rm -f "$PAST_FILE" "$PR_CONTRIB"
+            # Extract contributor fields
+            CONTRIBUTORS=$(jq -r '.[].contributor // empty' "$file" 2>/dev/null)
+            for c in $CONTRIBUTORS; do
+              for trusted in $TRUSTED_LIST; do
+                if [ "$c" = "$trusted" ]; then
+                  echo "✅ Trusted contributor: $c"
+                  FOUND=true
+                fi
+              done
+            done
+          done
 
           if [ "$FOUND" = true ]; then
             echo "trusted=true" >> $GITHUB_OUTPUT
           else
             echo "trusted=false" >> $GITHUB_OUTPUT
-            echo "No past contributions found — PR needs manual review"
+            echo "No contributor in trusted list — PR needs manual review"
           fi
 
       - name: Set result
