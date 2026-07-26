@@ -115,9 +115,17 @@ Name the file after the document title. Use lowercase with hyphens:
 
 If you have a folder of files on Google Drive, the fastest way is to use the **Drive automation tool** on the website.
 
+### Step 0: Make the folder public
+
+1. Create a new folder in Google Drive (e.g., "JU Learning Upload")
+2. Right-click the folder → **Share** → **General access** → **Anyone with the link** → **Viewer**
+3. Drop all your files into this folder — they **automatically inherit** the folder's public visibility
+
+> You don't need to change sharing for each file individually. One folder setting covers everything inside.
+
 ### Step 1: Get your Drive links
 
-1. Open your Google Drive folder in **List view** (View → List or press `Ctrl+Shift+6`)
+1. Open the folder in **List view** (View → List or press `Ctrl+Shift+6`)
 2. Install the [Google Drive Link Getter](https://chromewebstore.google.com/detail/Google%20Drive%20Link%20Getter/pcepfnopeaalfdibnbflpphaapbfoicl) Chrome extension
 3. Click the extension icon — it will list all files with their names and public URLs
 4. Copy the entire list (tab-separated: `FileName\tURL`)
@@ -141,16 +149,24 @@ If you have a folder of files on Google Drive, the fastest way is to use the **D
 
 ## Getting the Drive file ID (manual)
 
-1. Upload your file to Google Drive
-2. Set sharing to **"Anyone with the link"**
-3. Copy the link — it looks like:
+### Make a public folder first
+
+1. Create a new folder in Google Drive
+2. Right-click → **Share** → **General access** → **Anyone with the link** → **Viewer**
+3. Upload your files into this folder — they inherit the folder's public visibility automatically
+
+### Get the link
+
+1. Right-click any file in the folder → **Share** → **Copy link**
+2. The link looks like:
    ```
    https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view
    ```
-4. The `1AbCdEfGhIjKlMnOpQrStUvWxYz` is your file ID
-5. In the `url` field, put the full link
+3. The `1AbCdEfGhIjKlMnOpQrStUvWxYz` is your file ID
+4. In the `url` field, put the full link
 
 > **Tip**: You can also get a thumbnail preview automatically. The website converts your Drive link to a thumbnail at build time.
+> **Tip 2**: Files inside a public folder stay public. You only need to set folder visibility once — all future uploads inherit it.
 
 ---
 
