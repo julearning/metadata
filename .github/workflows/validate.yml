@@ -13,116 +13,51 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
       - name: Validate JSON syntax
         run: |
           echo "Checking JSON syntax..."
-          find . -name "*.json" -not -path "./node_modules/*" -exec sh -c '
-            for file do
-              if ! jq empty "$file" 2>/dev/null; then
-                echo "❌ Invalid JSON: $file"
+          find . -name "*.json" -not -path "./.git/*" -not -path "./.github/*" | while read file; do
+            if ! jq empty "$file" 2>/dev/null; then
+              echo "❌ Invalid JSON: $file"
+              exit 1
+            fi
+            echo "✅ Valid JSON: $file"
+          done
+
+      - name: Validate document arrays
+        run: |
+          echo "Checking document array structure..."
+          find . -name "*.json" -not -path "./.git/*" -not -path "./.github/*" | while read file; do
+            COUNT=$(jq length "$file" 2>/dev/null)
+            if [ -z "$COUNT" ] || [ "$COUNT" -eq 0 ]; then
+              echo "❌ $file: empty or invalid document array"
+              exit 1
+            fi
+            for i in $(seq 0 $((COUNT - 1))); do
+              TITLE=$(jq -r ".[$i].title // empty" "$file")
+              URL=$(jq -r ".[$i].url // empty" "$file")
+              TYPE=$(jq -r ".[$i].type // empty" "$file")
+              if [ -z "$TITLE" ] || [ -z "$URL" ] || [ -z "$TYPE" ]; then
+                echo "❌ $file document $((i+1)): missing required field (title, url, or type)"
                 exit 1
               fi
-              echo "✅ Valid JSON: $file"
-            done
-          ' sh {} +
-
-      - name: Check required fields
-        run: |
-          echo "Checking required fields in metadata files..."
-          find . -name "*.json" -not -path "./node_modules/*" -not -path "./.github/*" -exec sh -c '
-            for file do
-              MISSING=""
-              for field in id title url fileType fileSize branch degree semester subject tags; do
-                if ! jq -e ".$field" "$file" > /dev/null 2>&1; then
-                  MISSING="$MISSING $field"
-                fi
-              done
-              if [ -n "$MISSING" ]; then
-                echo "❌ $file is missing fields:$MISSING"
-                exit 1
-              fi
-              echo "✅ $file has all required fields"
-            done
-          ' sh {} +
-
-      - name: Check duplicate IDs
-        run: |
-          echo "Checking for duplicate document IDs..."
-          DUPS=$(find . -name "*.json" -not -path "./node_modules/*" -not -path "./.github/*" -exec jq -r ".id" {} \; | sort | uniq -d)
-          if [ -n "$DUPS" ]; then
-            echo "❌ Duplicate IDs found:"
-            echo "$DUPS"
-            exit 1
-          fi
-          echo "✅ No duplicate IDs found"
-
-      - name: Check valid branches
-        run: |
-          echo "Checking branch values..."
-          find . -name "*.json" -not -path "./node_modules/*" -not -path "./.github/*" -exec sh -c '
-            for file do
-              BRANCH=$(jq -r ".branch" "$file")
-              case "$BRANCH" in
-                CSE|ECE|EE|ME|CE) ;;
-                *)
-                  echo "❌ $file has invalid branch: $BRANCH"
-                  exit 1
-                  ;;
-              esac
-            done
-          ' sh {} +
-          echo "✅ All branches valid"
-
-      - name: Check valid semesters
-        run: |
-          echo "Checking semester values..."
-          find . -name "*.json" -not -path "./node_modules/*" -not -path "./.github/*" -exec sh -c '
-            for file do
-              SEM=$(jq -r ".semester" "$file")
-              if [ "$SEM" -lt 1 ] || [ "$SEM" -gt 8 ]; then
-                echo "❌ $file has invalid semester: $SEM"
-                exit 1
-              fi
-            done
-          ' sh {} +
-          echo "✅ All semesters valid"
-
-      - name: Check file type
-        run: |
-          echo "Checking fileType values..."
-          find . -name "*.json" -not -path "./node_modules/*" -not -path "./.github/*" -exec sh -c '
-            for file do
-              FT=$(jq -r ".fileType" "$file")
-              case "$FT" in
-                pdf|docx|pptx|image) ;;
-                *)
-                  echo "❌ $file has invalid fileType: $FT"
-                  exit 1
-                  ;;
-              esac
-            done
-          ' sh {} +
-          echo "✅ All file types valid"
-
-      - name: Check URL format
-        run: |
-          echo "Checking URL format..."
-          find . -name "*.json" -not -path "./node_modules/*" -not -path "./.github/*" -exec sh -c '
-            for file do
-              URL=$(jq -r ".url" "$file")
               case "$URL" in
                 https://*) ;;
-                http://*) ;;
-                *)
-                  echo "❌ $file has non-HTTP URL: $URL"
-                  exit 1
-                  ;;
+                *) echo "❌ $file document $((i+1)): url must start with https"; exit 1 ;;
               esac
             done
-          ' sh {} +
-          echo "✅ All URLs have valid format"
+            echo "✅ $file: $COUNT valid document(s)"
+          done
+
+      - name: Check for duplicate titles
+        run: |
+          echo "Checking for duplicate titles within each file..."
+          find . -name "*.json" -not -path "./.git/*" -not -path "./.github/*" | while read file; do
+            DUPS=$(jq -r '.[].title' "$file" 2>/dev/null | sort | uniq -d)
+            if [ -n "$DUPS" ]; then
+              echo "❌ $file has duplicate titles:"
+              echo "$DUPS"
+              exit 1
+            fi
+          done
+          echo "✅ No duplicate titles found"

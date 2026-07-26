@@ -1,0 +1,191 @@
+name: Broken Link Check
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  check:
+    if: contains(github.event.issue.labels.*.name, 'broken-link')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract URL from issue body
+        id: extract
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body || "";
+            const urlMatch = body.match(/\*\*URL:\*\*\s*(https?:\/\/[^\s]+)/);
+            const titleMatch = body.match(/\*\*Document:\*\*\s*(.+)/);
+            const url = urlMatch ? urlMatch[1].trim() : null;
+            const title = titleMatch ? titleMatch[1].trim() : null;
+            core.setOutput("url", url);
+            core.setOutput("title", title);
+
+      - name: Check if URL is reachable
+        id: reachable
+        run: |
+          URL="${{ steps.extract.outputs.url }}"
+          if [ -z "$URL" ]; then
+            echo "status=no-url" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          # Extract file ID for Google Drive links
+          FILE_ID=$(echo "$URL" | grep -oP '(?<=/d/)[^/]+' | head -1)
+          if [ -n "$FILE_ID" ]; then
+            THUMB="https://drive.google.com/thumbnail?id=${FILE_ID}&sz=w100"
+            HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 8 "$THUMB" 2>/dev/null || echo "000")
+            if [ "$HTTP_CODE" = "200" ] || [ "$HTTP_CODE" = "302" ]; then
+              echo "status=alive" >> $GITHUB_OUTPUT
+            else
+              echo "status=dead" >> $GITHUB_OUTPUT
+            fi
+          else
+            HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 8 "$URL" 2>/dev/null || echo "000")
+            if [ "$HTTP_CODE" = "200" ] || [ "$HTTP_CODE" = "302" ]; then
+              echo "status=alive" >> $GITHUB_OUTPUT
+            else
+              echo "status=dead" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Handle dead link — remove file and create PR
+        if: steps.reachable.outputs.status == 'dead'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const url = "${{ steps.extract.outputs.url }}";
+            const title = "${{ steps.extract.outputs.title }}";
+            const issueNumber = context.payload.issue.number;
+
+            // Search for the URL in the repo
+            const { data: searchResults } = await github.rest.search.code({
+              q: `"${url}" repo:${context.repo.owner}/${context.repo.repo}`,
+            });
+
+            if (searchResults.total_count === 0) {
+              // No matching file found — just comment and close
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body: "🔍 Could not find any metadata referencing this URL. The document may have already been removed.",
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                state: "closed",
+              });
+              return;
+            }
+
+            // Get the file that contains this URL
+            const filePath = searchResults.items[0].path;
+
+            // Create a branch
+            const branchName = `fix/broken-link-${issueNumber}-${Date.now()}`;
+            const { data: ref } = await github.rest.git.getRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: "heads/main",
+            });
+
+            await github.rest.git.createRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: `refs/heads/${branchName}`,
+              sha: ref.object.sha,
+            });
+
+            // Delete the file
+            const { data: fileData } = await github.rest.repos.getContent({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: filePath,
+              ref: "main",
+            });
+
+            await github.rest.repos.deleteFile({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: filePath,
+              message: `Remove broken document: ${title}`,
+              sha: fileData.sha,
+              branch: branchName,
+            });
+
+            // Create a PR
+            const { data: pr } = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Remove broken link: ${title}`,
+              head: branchName,
+              base: "main",
+              body: `## Automated Broken Link Removal\n\n**Document:** ${title}\n**URL:** ${url}\n**Issue:** #${issueNumber}\n\nThe URL was confirmed dead by automated check. The metadata file has been removed.\n\n_Automated by JU Learning Broken Link Checker_`,
+            });
+
+            // Try to auto-merge
+            try {
+              await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+                merge_method: "squash",
+              });
+            } catch (e) {
+              // If auto-merge fails, just leave the PR open
+            }
+
+            // Close the issue
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              body: `✅ Confirmed dead link. Removed in PR #${pr.number} and the file was deleted.\n\nClosing this issue.`,
+            });
+
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              state: "closed",
+            });
+
+      - name: Link is alive — close issue
+        if: steps.reachable.outputs.status == 'alive'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              body: "✅ The link appears to be reachable.",
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              state: "closed",
+            });
+
+      - name: No URL found
+        if: steps.extract.outputs.url == '' || steps.reachable.outputs.status == 'no-url'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              body: "⚠️ Could not extract a URL from this issue. Please ensure the issue body contains `**URL:** https://...`",
+            });
