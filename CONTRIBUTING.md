@@ -1,213 +1,218 @@
 # Contributing to JU Learning Metadata
 
-Thank you for contributing! This repository contains the metadata for all study materials on [JU Learning](https://julearning.vercel.app).
+Thank you for contributing. This repository contains the study material directory for JU Learning — the website reads it at build time and generates static pages.
 
 ## How it works
 
-Every study material document is stored as **one standalone JSON file**. When the website builds, it clones this repository, reads all JSON files, and indexes them for search.
+Every study material link is stored as a JSON file. The website clones this repo during build, reads every JSON, flattens them into documents, and indexes them for search.
 
 ```
 metadata/
-├── CSE/
-│   ├── semester-4/
-│   │   ├── DBMS/
-│   │   │   ├── dbms-unit-1-notes.json        ← one document
-│   │   │   ├── dbms-unit-2-notes.json        ← one document
-│   │   │   └── midterm-paper-2024.json       ← one document
-│   │   └── Operating-Systems/
-│   │       └── os-process-management.json    ← one document
-│   └── semester-5/
-│       └── ...
-├── ECE/
-│   └── ...
-└── examples/
-    └── example-document.json                 ← template
+├── jammu-university/              ← Folder = source name
+│   ├── btech/
+│   │   ├── cse/
+│   │   │   ├── semester-3/
+│   │   │   │   ├── web-tech/
+│   │   │   │   │   └── web-tech-aryanbatras.json    ← merged per subject+contributor
+│   │   │   │   └── sem-4-pyqs/
+│   │   │   │       └── sem-4-pyqs-aryanbatras.json  ← cross-subject file
+│   │   │   └── semester-4/
+│   │   │       └── java/
+│   │   │           └── java-aryanbatras.json
+│   │   ├── ece/
+│   │   └── ...
+│   ├── bca/
+│   └── mca/
+├── open-textbook-library/         ← Flat (no folder hierarchy)
+├── openstax/
+├── project-gutenberg/
+└── wikibooks/
 ```
 
-### Folder structure
+### Folder structure (jammu-university only)
 
 ```
-{branch}/{semester-N}/{Subject-Name}/{title-slug}.json
+jammu-university/{degree}/{branch}/{semester-N}/{subject-folder}/{subject}-{contributor}.json
 ```
 
-- **Branch**: `CSE`, `ECE`, `EE`, `ME`, `CE` (uppercase)
-- **Semester**: `semester-1` through `semester-8` (lowercase)
-- **Subject**: The full subject name in Title Case (e.g., `Database-Management-Systems`)
-- **File**: A short slug of the document title (e.g., `dbms-unit-1-notes.json`)
+- **Degree**: `btech`, `bca`, `mca` (lowercase)
+- **Branch**: `cse`, `ece`, `ee`, `me`, `ce` (lowercase)
+- **Semester**: `semester-1` through `semester-8`
+- **Subject folder**: hyphenated lower-case (e.g., `web-tech`, `database-management-systems`)
+- **File naming**: `{subject-slug}-{github-username}.json`
 
-## Adding a document
+The folder path defines the document's degree, branch, semester, and subject. The JSON file itself only contains document-level fields.
 
-### Step 1: Find the right folder
+#### Cross-subject files
 
-Navigate to the branch and semester folder. For example, for a CSE Semester 4 DBMS note:
+If a document applies to all subjects in a semester (e.g., a common PYQ set), place the file directly in the semester folder (not inside a subject folder). Name it `sem-{N}-{description}-{contributor}.json`:
 
 ```
-CSE/semester-4/DBMS/
+semester-4/
+├── java/
+│   └── java-aryanbatras.json
+└── sem-4-pyqs-aryanbatras.json    ← semester-wide PYQs
 ```
 
-If the subject folder doesn't exist yet, create it.
+## JSON format
 
-### Step 2: Create the JSON file
+### Simplified format (preferred for jammu-university)
 
-Name the file after the document title. Use lowercase with hyphens:
-
-| Document Title | Filename |
-|---------------|----------|
-| DBMS Unit 1 Notes | `dbms-unit-1-notes.json` |
-| Operating Systems PYQ 2024 | `os-pyq-2024.json` |
-| Signals & Systems Assignment 2 | `signals-assignment-2.json` |
-
-### Step 3: Fill in the template
+Each JSON file is an array of documents. All documents in the same file must belong to the same subject folder and contributor.
 
 ```json
-{
-  "title": "DBMS Unit 1 Notes",
-  "url": "https://drive.google.com/file/d/YOUR-FILE-ID/view",
-  "tags": ["notes", "typed"],
-  "subject": "DBMS",
-  "branch": "CSE",
-  "semester": 4,
-  "section": "section-a",
-  "chapters": ["Introduction to DBMS", "ER Model", "Relational Model"],
-  "fileSize": 2048576,
-  "contributor": "your-github-username",
-  "uploadedAt": "2026-07-25",
-  "description": "Complete notes covering Unit 1 of DBMS syllabus.",
-  "language": "English",
-  "pages": 42
-}
+[
+  {
+    "title": "DBMS Unit 1 Notes",
+    "url": "https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view",
+    "type": "handwritten",
+    "contributor": "your-github-username",
+    "uploadedAt": "2026-07-26"
+  },
+  {
+    "title": "ER Diagram Assignment",
+    "url": "https://drive.google.com/file/d/2BcDeFgHiJkLmNoPqRsTuVwXyZ/view",
+    "type": "assignment",
+    "contributor": "your-github-username",
+    "uploadedAt": "2026-07-25"
+  }
+]
 ```
 
-### Fields explained
+#### Fields
 
 | Field | Required | Description |
 |-------|----------|-------------|
 | `title` | ✅ | Full document title |
-| `url` | ✅ | Public link to the file. Can be Google Drive, OneDrive, Dropbox, or any publicly accessible URL |
-| `tags` | ✅ | Array of tags: `notes`, `pyq`, `assignment`, `lab-manual`, `syllabus`, `handwritten`, `typed`, `reference-book`, `project-report` |
-| `subject` | ✅ | Full subject name (must match folder name) |
-| `branch` | ✅ | Branch code: `CSE`, `ECE`, `EE`, `ME`, `CE` |
-| `semester` | ✅ | Number 1-8 |
-| `section` | ✅ | `section-a`, `section-b`, or `mixed` |
-| `fileSize` | ✅ | File size in bytes |
-| `chapters` | | Array of chapter names this document covers |
+| `url` | ✅ | Public link (Google Drive, OneDrive, Dropbox, etc.) |
+| `type` | ✅ | One of: `handwritten`, `digital`, `pyq`, `assignment`, `lab-manual`, `syllabus`, `reference-book`, `project-report`, `mixed` |
 | `contributor` | | Your GitHub username |
-| `uploadedAt` | | Date in ISO format |
-| `description` | | Brief description of the document |
-| `language` | | `English`, `Hindi`, `mixed`, or other |
-| `pages` | | Number of pages |
+| `uploadedAt` | | Date string (e.g., `2026-07-26`) |
 
-### Tags reference
+#### Type reference
 
-| Tag | Meaning |
-|-----|---------|
-| `notes` | Subject notes |
+| Type | Meaning |
+|------|---------|
+| `handwritten` | Handwritten notes (scanned) |
+| `digital` | Typed/printed notes or study material |
 | `pyq` | Previous year question paper |
 | `assignment` | Assignment questions |
 | `lab-manual` | Lab manual / practical file |
 | `syllabus` | Syllabus document |
-| `handwritten` | Handwritten notes |
-| `typed` | Typed/printed notes |
-| `reference-book` | Reference book / textbook |
+| `reference-book` | Reference book or textbook |
 | `project-report` | Project report |
+| `mixed` | Mixed or unspecified type |
+
+### Flat-source format (open-textbook-library, openstax, project-gutenberg, wikibooks)
+
+These sources are flat (no folder hierarchy), so they keep extra fields that identify the content:
+
+```json
+{
+  "title": "Algebra and Trigonometry",
+  "url": "https://open.umn.edu/opentextbooks/textbooks/...",
+  "type": "reference-book",
+  "subject": "Mathematics-I",
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "source": "openstax",
+  "license": "CC BY-NC-SA 4.0"
+}
+```
+
+Extra fields for non-JU sources:
+- `subject` — general subject area (not tied to a specific branch/semester)
+- `source` — source identifier (auto-inferred from folder, stored for filtering)
+- `license`, `authors`, `author`, `downloadCount` — as applicable from the source
+
+### Key rules
+
+1. **No `tags` array** — use a single `type` field instead
+2. **No `language` field** — always English unless specified otherwise
+3. **No `section` or `chapters`** — folder structure defines hierarchy
+4. **No `fileSize` or `pages`** — not required for link-only metadata
+5. **Folder defines hierarchy** — branch, semester, subject are inferred from the file's path
 
 ## Quick method: Bulk-generate from Google Drive
 
-If you have a folder of files on Google Drive, the fastest way is to use the **Drive automation tool** on the website.
+The website has a built-in tool at `/automation/drive` that converts a list of Drive links into the correct JSON format.
 
 ### Step 0: Make the folder public
 
 1. Create a new folder in Google Drive (e.g., "JU Learning Upload")
 2. Right-click the folder → **Share** → **General access** → **Anyone with the link** → **Viewer**
-3. Drop all your files into this folder — they **automatically inherit** the folder's public visibility
-
-> You don't need to change sharing for each file individually. One folder setting covers everything inside.
+3. Drop your files into this folder — they automatically inherit the folder's public visibility
 
 ### Step 1: Get your Drive links
 
 1. Open the folder in **List view** (View → List or press `Ctrl+Shift+6`)
 2. Install the [Google Drive Link Getter](https://chromewebstore.google.com/detail/Google%20Drive%20Link%20Getter/pcepfnopeaalfdibnbflpphaapbfoicl) Chrome extension
-3. Click the extension icon — it will list all files with their names and public URLs
+3. Click the extension icon — it will list all files with names and public URLs
 4. Copy the entire list (tab-separated: `FileName\tURL`)
 
 ### Step 2: Generate JSON files
 
-1. Go to **julearning.vercel.app/automation/drive** (the Drive automation page on the website)
+1. Go to **julearning.vercel.app/automation/drive**
 2. Paste the copied list into the textarea
-3. Fill in default values (branch, semester, subject, contributor name, etc.)
-4. Click "Generate" and confirm
-5. Download each generated JSON file (or download all at once)
+3. Enter your GitHub username
+4. Select the type and subject for each document
+5. The tool merges documents by subject and generates `{subject}-{username}.json` files
+6. Download the generated JSON files
 
-### Step 3: Upload to this repo
+### Step 3: Place in the correct folder
 
-1. Drop each JSON file into the correct folder under `{Branch}/{Semester-N}/{Subject}/`
-2. Commit and open a pull request
-
-> The automation tool supports all Google URL formats: `/file/d/ID/view`, `/document/d/ID/edit`, `/spreadsheets/d/ID/edit`, `/presentation/d/ID/edit`. Videos and images are automatically skipped.
-
----
-
-## Getting the Drive file ID (manual)
-
-### Make a public folder first
-
-1. Create a new folder in Google Drive
-2. Right-click → **Share** → **General access** → **Anyone with the link** → **Viewer**
-3. Upload your files into this folder — they inherit the folder's public visibility automatically
-
-### Get the link
-
-1. Right-click any file in the folder → **Share** → **Copy link**
-2. The link looks like:
+1. Clone this repository
+2. Place each JSON file in the correct folder:
    ```
-   https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view
+   jammu-university/btech/{branch}/semester-{N}/{subject-folder}/{subject}-{username}.json
    ```
-3. The `1AbCdEfGhIjKlMnOpQrStUvWxYz` is your file ID
-4. In the `url` field, put the full link
+3. Commit and open a pull request
 
-> **Tip**: You can also get a thumbnail preview automatically. The website converts your Drive link to a thumbnail at build time.
-> **Tip 2**: Files inside a public folder stay public. You only need to set folder visibility once — all future uploads inherit it.
+## File naming convention
 
----
+Files are named as `{subject-slug}-{username}.json`:
 
-## Storage agnostic
+| Subject | Username | Filename |
+|---------|----------|----------|
+| Web Tech | aryanbatras | `web-tech-aryanbatras.json` |
+| Java | aryanbatras | `java-aryanbatras.json` |
+| Sem 4 PYQs | aryanbatras | `sem-4-pyqs-aryanbatras.json` |
 
-This project **does not host files**. Every `url` field is simply a third-party link — Google Drive, OneDrive, Dropbox, or any publicly accessible URL. The website just stores pointers to where the actual files live.
+**Why this naming:**
+- If a user's files become dead links, all their files can be found by their username
+- Subject prefix prevents collisions across different subjects
+- Multiple docs from the same contributor in the same subject stay in one file
 
-This means:
-- You can host files on **any** provider, not just Google Drive
-- You can use your **own** storage and still contribute — just make sure the link is public
-- If a link breaks, anyone can submit a PR to update or remove it
-- The system doesn't care where the bytes live — it just needs a working URL
+## Storage and format agnostic
 
-Language is also irrelevant to the system — materials in English, Hindi, Urdu, Dogri, mixed, or any other language work the same way. Set the `language` field accordingly (e.g., `"English"`, `"Hindi"`, `"mixed"`).
+This project **does not host files**. Every `url` field is a third-party link — Google Drive, OneDrive, Dropbox, or any publicly accessible URL.
+
+The metadata format is also storage-agnostic: the repository can contain any number of source folders (`jammu-university/`, `open-textbook-library/`, etc.), each with its own folder hierarchy. The website discovers all sources automatically.
 
 ## Reporting a broken link
 
 If you find a document with a broken link:
 
-1. Click **"Report"** on the website
-2. Or [open an issue](https://github.com/julearning/metadata/issues/new) with the document title and file path
-3. Someone will submit a PR to fix or remove it
+1. Click **"Report broken link"** on the website — it pre-fills an issue
+2. Or open an issue directly with the document title and file path
+
+Since files are named by contributor, it's easy to identify and remove all dead files from a specific user.
 
 ## Validation rules (GitHub Actions)
 
-When you submit a PR, automated checks will verify:
+When you submit a PR, automated checks verify:
 
 - ✅ JSON is valid and parsable
-- ✅ All required fields are present
-- ✅ Branch and semester values are valid
-- ✅ URL format is correct
-- ✅ Subject name matches the folder name
-- ✅ No duplicate document titles within a subject
-
-If any check fails, the PR comment will tell you exactly what to fix.
+- ✅ `title` and `url` fields are present
+- ✅ `type` is from the allowed list
+- ✅ URL format is valid (Google Drive, docs URL, or general web link)
+- ✅ File name follows `{subject}-{username}.json` pattern (for JU source)
+- ✅ Subject folder exists in the expected path
 
 ## Example
 
-See the [`examples/`](./examples/) folder for a complete example:
-- `examples/example-document.json` — a template with all fields
+See the existing files under `jammu-university/btech/cse/semester-*/` for examples.
 
 ## Questions?
 
-[Open an issue](https://github.com/julearning/metadata/issues/new) or join our community.
+Open an issue or join our community.
