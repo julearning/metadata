@@ -1,6 +1,6 @@
 {
   "title": "John Dewey's logical theory",
-  "url": "https://www.gutenberg.org/ebooks/38141.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/38141",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Howard, Delton Thomas",
-  "downloadCount": 707
+  "downloadCount": 707,
+  "license": "Public Domain"
 }

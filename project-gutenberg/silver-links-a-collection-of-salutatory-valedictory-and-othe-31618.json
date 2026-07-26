@@ -1,6 +1,6 @@
 {
   "title": "Silver Links: A collection of salutatory, valedictory and other addresses delivered at the first five commencements of the female stenographic and typewriting class of the General Society of Mechanics and Tradesmen of the City of New York",
-  "url": "https://www.gutenberg.org/ebooks/31618.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/31618",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 296
+  "downloadCount": 296,
+  "license": "Public Domain"
 }

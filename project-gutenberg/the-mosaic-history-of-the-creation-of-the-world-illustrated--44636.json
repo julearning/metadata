@@ -1,6 +1,6 @@
 {
   "title": "The Mosaic History of the Creation of the World: Illustrated by Discoveries and Experiments Derived from the Present Enlightened State of Science; With Reflections, Intended to Promote Vital and Practical Religion",
-  "url": "https://www.gutenberg.org/ebooks/44636.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/44636",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Wood, Thomas",
-  "downloadCount": 714
+  "downloadCount": 714,
+  "license": "Public Domain"
 }

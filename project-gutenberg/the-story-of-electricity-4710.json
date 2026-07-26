@@ -1,6 +1,6 @@
 {
   "title": "The Story of Electricity",
-  "url": "https://www.gutenberg.org/ebooks/4710.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/4710",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Munro, John",
-  "downloadCount": 485
+  "downloadCount": 485,
+  "license": "Public Domain"
 }

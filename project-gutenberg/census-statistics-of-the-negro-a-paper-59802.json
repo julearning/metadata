@@ -1,6 +1,6 @@
 {
   "title": "Census Statistics of the Negro: A Paper",
-  "url": "https://www.gutenberg.org/ebooks/59802.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/59802",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Willcox, Walter F. (Walter Francis)",
-  "downloadCount": 395
+  "downloadCount": 395,
+  "license": "Public Domain"
 }

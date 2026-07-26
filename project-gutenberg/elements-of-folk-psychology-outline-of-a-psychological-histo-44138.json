@@ -1,6 +1,6 @@
 {
   "title": "Elements of Folk Psychology: Outline of a Psychological History of the Development of Mankind",
-  "url": "https://www.gutenberg.org/ebooks/44138.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/44138",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Wundt, Wilhelm Max",
-  "downloadCount": 772
+  "downloadCount": 772,
+  "license": "Public Domain"
 }

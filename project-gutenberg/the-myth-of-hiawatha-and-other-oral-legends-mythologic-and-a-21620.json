@@ -1,6 +1,6 @@
 {
   "title": "The Myth of Hiawatha, and Other Oral Legends, Mythologic and Allegoric, of the North American Indians",
-  "url": "https://www.gutenberg.org/ebooks/21620.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/21620",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Schoolcraft, Henry Rowe",
-  "downloadCount": 9637
+  "downloadCount": 9637,
+  "license": "Public Domain"
 }

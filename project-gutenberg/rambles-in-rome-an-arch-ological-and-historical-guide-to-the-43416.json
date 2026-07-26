@@ -1,6 +1,6 @@
 {
   "title": "Rambles in Rome: An Archæological and Historical Guide to the Museums, Galleries, Villas, Churches, and Antiquities of Rome and the Campagna",
-  "url": "https://www.gutenberg.org/ebooks/43416.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/43416",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Forbes, S. Russell",
-  "downloadCount": 850
+  "downloadCount": 850,
+  "license": "Public Domain"
 }

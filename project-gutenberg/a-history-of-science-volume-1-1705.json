@@ -1,6 +1,6 @@
 {
   "title": "A History of Science — Volume 1",
-  "url": "https://www.gutenberg.org/ebooks/1705.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/1705",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Williams, Henry Smith, Williams, Edward Huntington",
-  "downloadCount": 758
+  "downloadCount": 758,
+  "license": "Public Domain"
 }

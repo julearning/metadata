@@ -1,6 +1,6 @@
 {
   "title": "Military schools and courses of instruction in the science and art of war,: in France, Prussia, Austria, Russia, Sweden, Switzerland, Sardinia, England, and the United States. Drawn from recent official reports and documents. Revised Edition",
-  "url": "https://www.gutenberg.org/ebooks/44443.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/44443",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 1033
+  "downloadCount": 1033,
+  "license": "Public Domain"
 }

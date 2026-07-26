@@ -1,6 +1,6 @@
 {
   "title": "The Draughtsman's Handbook of Plan and Map Drawing: Including instructions for the preparation of engineering, architectural, and mechanical drawings.",
-  "url": "https://www.gutenberg.org/ebooks/57290.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/57290",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "André, George G. (George Guillaume)",
-  "downloadCount": 468
+  "downloadCount": 468,
+  "license": "Public Domain"
 }

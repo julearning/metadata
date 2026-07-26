@@ -1,6 +1,6 @@
 {
   "title": "The Science of Fingerprints: Classification and Uses",
-  "url": "https://www.gutenberg.org/ebooks/19022.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/19022",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "United States. Federal Bureau of Investigation",
-  "downloadCount": 947
+  "downloadCount": 947,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The immigration offices and statistics from 1857 to 1903 : $b Information for the Universal Exhibition of St. Louis (U.S.A.)",
-  "url": "https://www.gutenberg.org/ebooks/39230.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/39230",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Argentina. Ministerio de Agricultura",
-  "downloadCount": 497
+  "downloadCount": 497,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The wonders of the world : $b a complete museum, descriptive and pictorial, of the wonderful phenomena and results of nature, science and art",
-  "url": "https://www.gutenberg.org/ebooks/75040.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/75040",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Abbott, John Loraine",
-  "downloadCount": 892
+  "downloadCount": 892,
+  "license": "Public Domain"
 }

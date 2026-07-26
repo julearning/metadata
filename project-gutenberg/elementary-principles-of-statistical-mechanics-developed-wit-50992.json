@@ -1,6 +1,6 @@
 {
   "title": "Elementary Principles of Statistical Mechanics: Developed with Especial Reference to the Rational Foundation of Thermodynamics",
-  "url": "https://www.gutenberg.org/files/50992/50992-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/50992",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Gibbs, J. Willard (Josiah Willard)",
-  "downloadCount": 561
+  "downloadCount": 561,
+  "license": "Public Domain"
 }

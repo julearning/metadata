@@ -1,6 +1,6 @@
 {
   "title": "The Master Key: An Electrical Fairy Tale Founded Upon the Mysteries of Electricity",
-  "url": "https://www.gutenberg.org/files/21526/21526-index.html",
+  "url": "https://www.gutenberg.org/ebooks/21526",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Baum, L. Frank (Lyman Frank)",
-  "downloadCount": 2281
+  "downloadCount": 2281,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Outline of a natural system of medical science : $b Forming the preliminary lectures to two courses: one on anatomy and physiology; the other on pathology and the practice of medicine",
-  "url": "https://www.gutenberg.org/ebooks/78678.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/78678",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Walker, Alexander",
-  "downloadCount": 1374
+  "downloadCount": 1374,
+  "license": "Public Domain"
 }

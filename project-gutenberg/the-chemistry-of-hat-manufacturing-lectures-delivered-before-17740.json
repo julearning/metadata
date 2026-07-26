@@ -1,6 +1,6 @@
 {
   "title": "The Chemistry of Hat Manufacturing: Lectures Delivered Before the Hat Manufacturers' Association",
-  "url": "https://www.gutenberg.org/ebooks/17740.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/17740",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Smith, Watson",
-  "downloadCount": 651
+  "downloadCount": 651,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The sexual life of woman in its physiological, pathological and hygienic aspects",
-  "url": "https://www.gutenberg.org/ebooks/63274.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/63274",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Kisch, E. Heinrich (Enoch Heinrich)",
-  "downloadCount": 1883
+  "downloadCount": 1883,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Essays in Experimental Logic",
-  "url": "https://www.gutenberg.org/ebooks/40794.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/40794",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Dewey, John",
-  "downloadCount": 1096
+  "downloadCount": 1096,
+  "license": "Public Domain"
 }

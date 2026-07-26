@@ -1,6 +1,6 @@
 {
   "title": "Æsthetic as science of expression and general linguistic",
-  "url": "https://www.gutenberg.org/ebooks/54618.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/54618",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Croce, Benedetto",
-  "downloadCount": 1212
+  "downloadCount": 1212,
+  "license": "Public Domain"
 }

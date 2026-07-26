@@ -1,6 +1,6 @@
 {
   "title": "Philosophy and Fun of Algebra",
-  "url": "https://www.gutenberg.org/files/13447/13447-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/13447",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Boole, Mary Everest",
-  "downloadCount": 197
+  "downloadCount": 197,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The symbolism of Freemasonry : $b Illustrating and explaining its science and philosophy, its legends, myths and symbols",
-  "url": "https://www.gutenberg.org/ebooks/11937.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/11937",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Mackey, Albert Gallatin",
-  "downloadCount": 3580
+  "downloadCount": 3580,
+  "license": "Public Domain"
 }

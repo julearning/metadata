@@ -1,6 +1,6 @@
 {
   "title": "Theologico-Political Treatise — Part 2",
-  "url": "https://www.gutenberg.org/ebooks/990.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/990",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Spinoza, Benedictus de",
-  "downloadCount": 944
+  "downloadCount": 944,
+  "license": "Public Domain"
 }

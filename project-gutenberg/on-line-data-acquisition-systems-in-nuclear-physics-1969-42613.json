@@ -1,6 +1,6 @@
 {
   "title": "On-Line Data-Acquisition Systems in Nuclear Physics, 1969",
-  "url": "https://www.gutenberg.org/ebooks/42613.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/42613",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "National Research Council (U.S.). Ad Hoc Panel on On-line Computers in Nuclear Research",
-  "downloadCount": 372
+  "downloadCount": 372,
+  "license": "Public Domain"
 }

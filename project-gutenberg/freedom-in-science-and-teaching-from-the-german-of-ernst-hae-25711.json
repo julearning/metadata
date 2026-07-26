@@ -1,6 +1,6 @@
 {
   "title": "Freedom in Science and Teaching.: from the German of Ernst Haeckel",
-  "url": "https://www.gutenberg.org/ebooks/25711.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/25711",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Haeckel, Ernst",
-  "downloadCount": 4328
+  "downloadCount": 4328,
+  "license": "Public Domain"
 }

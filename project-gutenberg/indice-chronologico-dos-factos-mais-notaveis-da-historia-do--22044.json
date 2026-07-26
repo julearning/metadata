@@ -1,6 +1,6 @@
 {
   "title": "Indice chronologico dos factos mais notaveis da Historia do Brasil: desde seu descobrimento em 1500 até 1849",
-  "url": "https://www.gutenberg.org/ebooks/22044.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/22044",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Malheiro, Agostinho Marques Perdigão",
-  "downloadCount": 3949
+  "downloadCount": 3949,
+  "license": "Public Domain"
 }

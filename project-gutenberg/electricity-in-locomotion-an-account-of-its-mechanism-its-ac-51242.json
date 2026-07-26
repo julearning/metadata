@@ -1,6 +1,6 @@
 {
   "title": "Electricity in Locomotion: An Account of Its Mechanism, Its Achievements, and Its Prospects",
-  "url": "https://www.gutenberg.org/ebooks/51242.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/51242",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Whyte, Adam Gowens",
-  "downloadCount": 436
+  "downloadCount": 436,
+  "license": "Public Domain"
 }

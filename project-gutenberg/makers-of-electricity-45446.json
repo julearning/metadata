@@ -1,6 +1,6 @@
 {
   "title": "Makers of Electricity",
-  "url": "https://www.gutenberg.org/ebooks/45446.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/45446",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Walsh, James J. (James Joseph), Potamian, Brother",
-  "downloadCount": 833
+  "downloadCount": 833,
+  "license": "Public Domain"
 }

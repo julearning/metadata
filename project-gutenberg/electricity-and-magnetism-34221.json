@@ -1,6 +1,6 @@
 {
   "title": "Electricity and Magnetism",
-  "url": "https://www.gutenberg.org/ebooks/34221.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/34221",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Gray, Elisha",
-  "downloadCount": 617
+  "downloadCount": 617,
+  "license": "Public Domain"
 }

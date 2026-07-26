@@ -1,6 +1,6 @@
 {
   "title": "Studies in the History and Method of Science, vol. 1 (of 2)",
-  "url": "https://www.gutenberg.org/ebooks/46572.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/46572",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 919
+  "downloadCount": 919,
+  "license": "Public Domain"
 }

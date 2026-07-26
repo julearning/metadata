@@ -1,6 +1,6 @@
 {
   "title": "Eclectic Magazine of Foreign Literature, Science, and Art, January 1885",
-  "url": "https://www.gutenberg.org/ebooks/52866.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/52866",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 727
+  "downloadCount": 727,
+  "license": "Public Domain"
 }

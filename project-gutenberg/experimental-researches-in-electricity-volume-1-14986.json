@@ -1,6 +1,6 @@
 {
   "title": "Experimental Researches in Electricity, Volume 1",
-  "url": "https://www.gutenberg.org/ebooks/14986.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/14986",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Faraday, Michael",
-  "downloadCount": 1376
+  "downloadCount": 1376,
+  "license": "Public Domain"
 }

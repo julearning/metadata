@@ -1,6 +1,6 @@
 {
   "title": "How to Make Electrical Machines: Containing Full Directions for Making Electrical Machines, Induction Coils, Dynamos, and Many Novel Toys to Be Worked by Electricity",
-  "url": "https://www.gutenberg.org/ebooks/44462.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/44462",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Bennett, R. A. R. (Reginald Arthur Renaud)",
-  "downloadCount": 396
+  "downloadCount": 396,
+  "license": "Public Domain"
 }

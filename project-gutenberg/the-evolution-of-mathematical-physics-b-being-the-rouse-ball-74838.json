@@ -1,6 +1,6 @@
 {
   "title": "The evolution of mathematical physics : $b being the Rouse Ball lecture for 1924",
-  "url": "https://www.gutenberg.org/ebooks/74838.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/74838",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Lamb, Horace, Sir",
-  "downloadCount": 236
+  "downloadCount": 236,
+  "license": "Public Domain"
 }

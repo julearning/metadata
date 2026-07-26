@@ -1,6 +1,6 @@
 {
   "title": "The New England Historical & Genealogical Register, Vol. 1, No. 1, January 1847",
-  "url": "https://www.gutenberg.org/ebooks/49151.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/49151",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 633
+  "downloadCount": 633,
+  "license": "Public Domain"
 }

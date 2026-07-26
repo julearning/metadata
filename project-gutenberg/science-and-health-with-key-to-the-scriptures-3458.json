@@ -1,6 +1,6 @@
 {
   "title": "Science and Health, with Key to the Scriptures",
-  "url": "https://www.gutenberg.org/ebooks/3458.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/3458",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Eddy, Mary Baker",
-  "downloadCount": 873
+  "downloadCount": 873,
+  "license": "Public Domain"
 }

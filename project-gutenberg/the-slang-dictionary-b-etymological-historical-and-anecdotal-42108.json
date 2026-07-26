@@ -1,6 +1,6 @@
 {
   "title": "The slang dictionary : $b Etymological, historical and anecdotal",
-  "url": "https://www.gutenberg.org/ebooks/42108.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/42108",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hotten, John Camden",
-  "downloadCount": 3108
+  "downloadCount": 3108,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Anthropological Survey in Alaska",
-  "url": "https://www.gutenberg.org/ebooks/50752.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/50752",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hrdlička, Aleš",
-  "downloadCount": 587
+  "downloadCount": 587,
+  "license": "Public Domain"
 }

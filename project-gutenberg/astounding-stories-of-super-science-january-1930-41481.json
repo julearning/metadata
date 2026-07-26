@@ -1,6 +1,6 @@
 {
   "title": "Astounding Stories of Super-Science January 1930",
-  "url": "https://www.gutenberg.org/ebooks/41481.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/41481",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 23868
+  "downloadCount": 23868,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Oriental Religions and Christianity: A Course of Lectures Delivered on the Ely Foundation Before the; Students of Union Theological Seminary, New York, 1891",
-  "url": "https://www.gutenberg.org/ebooks/14867.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/14867",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Ellinwood, Frank F. (Frank Field)",
-  "downloadCount": 539
+  "downloadCount": 539,
+  "license": "Public Domain"
 }

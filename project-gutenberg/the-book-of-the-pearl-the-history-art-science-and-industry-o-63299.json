@@ -1,6 +1,6 @@
 {
   "title": "The Book of the Pearl: The history, art, science, and industry of the queen of gems",
-  "url": "https://www.gutenberg.org/ebooks/63299.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/63299",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Kunz, George Frederick, Stevenson, Charles Hugh",
-  "downloadCount": 1259
+  "downloadCount": 1259,
+  "license": "Public Domain"
 }

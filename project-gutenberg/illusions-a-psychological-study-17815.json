@@ -1,6 +1,6 @@
 {
   "title": "Illusions: A Psychological Study",
-  "url": "https://www.gutenberg.org/ebooks/17815.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/17815",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Sully, James",
-  "downloadCount": 1025
+  "downloadCount": 1025,
+  "license": "Public Domain"
 }

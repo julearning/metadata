@@ -1,6 +1,6 @@
 {
   "title": "Satellite Communications Physics",
-  "url": "https://www.gutenberg.org/ebooks/62886.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/62886",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 496
+  "downloadCount": 496,
+  "license": "Public Domain"
 }

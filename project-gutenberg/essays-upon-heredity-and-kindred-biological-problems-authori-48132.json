@@ -1,6 +1,6 @@
 {
   "title": "Essays Upon Heredity and Kindred Biological Problems: Authorised Translation",
-  "url": "https://www.gutenberg.org/ebooks/48132.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/48132",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Weismann, August",
-  "downloadCount": 571
+  "downloadCount": 571,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Steam, Steel and Electricity",
-  "url": "https://www.gutenberg.org/ebooks/7886.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/7886",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Steele, James W.",
-  "downloadCount": 542
+  "downloadCount": 542,
+  "license": "Public Domain"
 }

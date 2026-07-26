@@ -1,6 +1,6 @@
 {
   "title": "The Dawn of Modern Medicine: An Account of the Revival of the Science and Art of Medicine Which Took Place in Western Europe During the Latter Half of the Eighteenth Century and the First Part of the Nineteenth",
-  "url": "https://www.gutenberg.org/ebooks/61196.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/61196",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Buck, Albert H. (Albert Henry)",
-  "downloadCount": 802
+  "downloadCount": 802,
+  "license": "Public Domain"
 }

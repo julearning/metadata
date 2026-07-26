@@ -1,6 +1,6 @@
 {
   "title": "A Discourse of a Method for the Well Guiding of Reason: and the Discovery of Truth in the Sciences",
-  "url": "https://www.gutenberg.org/ebooks/25830.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/25830",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Descartes, René",
-  "downloadCount": 3697
+  "downloadCount": 3697,
+  "license": "Public Domain"
 }

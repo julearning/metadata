@@ -1,6 +1,6 @@
 {
   "title": "Conservation Through Engineering: Extract from the Annual Report of the Secretary of the Interior",
-  "url": "https://www.gutenberg.org/ebooks/31899.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/31899",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Lane, Franklin K.",
-  "downloadCount": 330
+  "downloadCount": 330,
+  "license": "Public Domain"
 }

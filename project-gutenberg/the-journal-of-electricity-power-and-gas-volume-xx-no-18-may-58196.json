@@ -1,6 +1,6 @@
 {
   "title": "The Journal of Electricity, Power and Gas, Volume XX, No. 18, May 2, 1908: Devoted to the Conversion, Transmission and Distribution of Energy",
-  "url": "https://www.gutenberg.org/ebooks/58196.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/58196",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 282
+  "downloadCount": 282,
+  "license": "Public Domain"
 }

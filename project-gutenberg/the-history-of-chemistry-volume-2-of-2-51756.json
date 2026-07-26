@@ -1,6 +1,6 @@
 {
   "title": "The History of Chemistry, Volume 2 (of 2)",
-  "url": "https://www.gutenberg.org/ebooks/51756.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/51756",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Thomson, Thomas",
-  "downloadCount": 554
+  "downloadCount": 554,
+  "license": "Public Domain"
 }

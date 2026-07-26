@@ -1,6 +1,6 @@
 {
   "title": "The Evanston Colloquium: Lectures on Mathematics: Delivered From Aug. 28 to Sept. 9, 1893 Before Members of the Congress of Mathematics Held in Connection with the World's Fair in Chicago",
-  "url": "https://www.gutenberg.org/files/36154/36154-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/36154",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Klein, Felix",
-  "downloadCount": 174
+  "downloadCount": 174,
+  "license": "Public Domain"
 }

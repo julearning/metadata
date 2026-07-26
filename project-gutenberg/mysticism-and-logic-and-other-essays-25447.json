@@ -1,6 +1,6 @@
 {
   "title": "Mysticism and Logic and Other Essays",
-  "url": "https://www.gutenberg.org/ebooks/25447.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/25447",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Russell, Bertrand",
-  "downloadCount": 8121
+  "downloadCount": 8121,
+  "license": "Public Domain"
 }

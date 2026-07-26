@@ -1,6 +1,6 @@
 {
   "title": "The Logic of Chance, 3rd edition: An Essay on the Foundations and Province of the Theory of Probability, With Especial Reference to Its Logical Bearings and Its Application to Moral and Social Science and to Statistics",
-  "url": "https://www.gutenberg.org/files/57359/57359-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/57359",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Venn, John",
-  "downloadCount": 1283
+  "downloadCount": 1283,
+  "license": "Public Domain"
 }

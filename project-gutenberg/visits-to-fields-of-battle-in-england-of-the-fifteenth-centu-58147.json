@@ -1,6 +1,6 @@
 {
   "title": "Visits to Fields of Battle, in England, of the Fifteenth Century: to which are added, some miscellaneous tracts and papers upon archæological subjects",
-  "url": "https://www.gutenberg.org/ebooks/58147.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/58147",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Brooke, Richard",
-  "downloadCount": 534
+  "downloadCount": 534,
+  "license": "Public Domain"
 }

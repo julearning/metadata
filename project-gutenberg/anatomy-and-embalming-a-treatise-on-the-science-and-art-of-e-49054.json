@@ -1,6 +1,6 @@
 {
   "title": "Anatomy and Embalming: A Treatise on the Science and Art of Embalming, the Latest and Most Successful Methods of Treatment and the General Anatomy Relating to this Subject",
-  "url": "https://www.gutenberg.org/ebooks/49054.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/49054",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Nunnamaker, Albert John, Dhonau, Charles Otto",
-  "downloadCount": 846
+  "downloadCount": 846,
+  "license": "Public Domain"
 }

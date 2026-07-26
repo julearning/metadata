@@ -1,6 +1,6 @@
 {
   "title": "The Freedom of Science",
-  "url": "https://www.gutenberg.org/files/40342/40342-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/40342",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Donat, Josef",
-  "downloadCount": 769
+  "downloadCount": 769,
+  "license": "Public Domain"
 }

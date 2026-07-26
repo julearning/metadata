@@ -1,6 +1,6 @@
 {
   "title": "The origins of art; a psychological & sociological inquiry",
-  "url": "https://www.gutenberg.org/ebooks/66869.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/66869",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hirn, Y. (Yrjö)",
-  "downloadCount": 843
+  "downloadCount": 843,
+  "license": "Public Domain"
 }

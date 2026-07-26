@@ -1,6 +1,6 @@
 {
   "title": "Opportunities in Engineering",
-  "url": "https://www.gutenberg.org/ebooks/24681.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/24681",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Horton, Charles M. (Charles Marcus)",
-  "downloadCount": 519
+  "downloadCount": 519,
+  "license": "Public Domain"
 }

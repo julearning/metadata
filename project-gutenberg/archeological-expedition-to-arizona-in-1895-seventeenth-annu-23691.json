@@ -1,6 +1,6 @@
 {
   "title": "Archeological Expedition to Arizona in 1895: Seventeenth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution, 1895-1896, Government Printing Office, Washington, 1898, pages 519-744",
-  "url": "https://www.gutenberg.org/ebooks/23691.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/23691",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Fewkes, Jesse Walter",
-  "downloadCount": 604
+  "downloadCount": 604,
+  "license": "Public Domain"
 }

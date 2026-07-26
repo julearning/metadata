@@ -1,6 +1,6 @@
 {
   "title": "History of Chemistry, Volume 2 (of 2): From 1850 to 1910",
-  "url": "https://www.gutenberg.org/ebooks/55631.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/55631",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Thorpe, T. E. (Thomas Edward)",
-  "downloadCount": 503
+  "downloadCount": 503,
+  "license": "Public Domain"
 }

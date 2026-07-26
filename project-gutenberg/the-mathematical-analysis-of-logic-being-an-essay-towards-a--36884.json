@@ -1,6 +1,6 @@
 {
   "title": "The Mathematical Analysis of Logic: Being an Essay Towards a Calculus of Deductive Reasoning",
-  "url": "https://www.gutenberg.org/files/36884/36884-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/36884",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Boole, George",
-  "downloadCount": 903
+  "downloadCount": 903,
+  "license": "Public Domain"
 }

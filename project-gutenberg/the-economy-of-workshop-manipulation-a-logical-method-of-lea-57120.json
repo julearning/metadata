@@ -1,6 +1,6 @@
 {
   "title": "The Economy of Workshop Manipulation: A logical method of learning constructive mechanics. Arranged with questions for the use of apprentice engineers and students.",
-  "url": "https://www.gutenberg.org/ebooks/57120.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/57120",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Richards, John",
-  "downloadCount": 392
+  "downloadCount": 392,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Coming of age in Samoa : $b A psychological study of primitive youth for western civilisation",
-  "url": "https://www.gutenberg.org/ebooks/74750.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/74750",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Mead, Margaret",
-  "downloadCount": 706
+  "downloadCount": 706,
+  "license": "Public Domain"
 }

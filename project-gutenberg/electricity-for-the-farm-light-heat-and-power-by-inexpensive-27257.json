@@ -1,6 +1,6 @@
 {
   "title": "Electricity for the farm: Light, heat and power by inexpensive methods from the water wheel or farm engine",
-  "url": "https://www.gutenberg.org/ebooks/27257.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/27257",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Anderson, Frederick Irving",
-  "downloadCount": 494
+  "downloadCount": 494,
+  "license": "Public Domain"
 }

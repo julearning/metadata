@@ -1,6 +1,6 @@
 {
   "title": "History of Chemistry, Volume 1 (of 2): From the earliest time to the middle of the nineteenth century",
-  "url": "https://www.gutenberg.org/ebooks/55630.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/55630",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Thorpe, T. E. (Thomas Edward)",
-  "downloadCount": 797
+  "downloadCount": 797,
+  "license": "Public Domain"
 }

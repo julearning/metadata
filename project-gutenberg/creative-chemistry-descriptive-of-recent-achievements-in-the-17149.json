@@ -1,6 +1,6 @@
 {
   "title": "Creative Chemistry: Descriptive of Recent Achievements in the Chemical Industries",
-  "url": "https://www.gutenberg.org/ebooks/17149.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/17149",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Slosson, Edwin E. (Edwin Emery)",
-  "downloadCount": 964
+  "downloadCount": 964,
+  "license": "Public Domain"
 }

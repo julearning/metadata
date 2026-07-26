@@ -1,6 +1,6 @@
 {
   "title": "Records of Woodhall Spa and Neighbourhood: Historical, Anecdotal, Physiographical, and Archaeological, with Other Matter",
-  "url": "https://www.gutenberg.org/ebooks/27160.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/27160",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Walter, J. Conway (James Conway)",
-  "downloadCount": 799
+  "downloadCount": 799,
+  "license": "Public Domain"
 }

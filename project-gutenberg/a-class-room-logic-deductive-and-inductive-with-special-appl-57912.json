@@ -1,6 +1,6 @@
 {
   "title": "A Class Room Logic: Deductive and Inductive, with Special Application to the Science and Art of Teaching",
-  "url": "https://www.gutenberg.org/ebooks/57912.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/57912",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "McNair, George Hastings",
-  "downloadCount": 897
+  "downloadCount": 897,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Life of Emanuel Swedenborg: Together with a brief synopsis of his writings, both philosophical and theological",
-  "url": "https://www.gutenberg.org/ebooks/67821.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/67821",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "White, William",
-  "downloadCount": 659
+  "downloadCount": 659,
+  "license": "Public Domain"
 }

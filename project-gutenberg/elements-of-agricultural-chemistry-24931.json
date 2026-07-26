@@ -1,6 +1,6 @@
 {
   "title": "Elements of Agricultural Chemistry",
-  "url": "https://www.gutenberg.org/ebooks/24931.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/24931",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Anderson, Thomas",
-  "downloadCount": 8861
+  "downloadCount": 8861,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The First Steps in Algebra",
-  "url": "https://www.gutenberg.org/files/36670/36670-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/36670",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Wentworth, G. A. (George Albert)",
-  "downloadCount": 697
+  "downloadCount": 697,
+  "license": "Public Domain"
 }

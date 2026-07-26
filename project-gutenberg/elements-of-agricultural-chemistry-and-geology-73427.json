@@ -1,6 +1,6 @@
 {
   "title": "Elements of agricultural chemistry and geology",
-  "url": "https://www.gutenberg.org/ebooks/73427.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/73427",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Johnston, Jas. F. W. (James Finlay Weir)",
-  "downloadCount": 405
+  "downloadCount": 405,
+  "license": "Public Domain"
 }

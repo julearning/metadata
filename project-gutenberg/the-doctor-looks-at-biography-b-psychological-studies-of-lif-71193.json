@@ -1,6 +1,6 @@
 {
   "title": "The doctor looks at biography : $b Psychological studies of life and letters",
-  "url": "https://www.gutenberg.org/ebooks/71193.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/71193",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Collins, Joseph",
-  "downloadCount": 783
+  "downloadCount": 783,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Astronomy Explained Upon Sir Isaac Newton's Principles: And made easy to those who have not studied mathematics",
-  "url": "https://www.gutenberg.org/ebooks/60619.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/60619",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Ferguson, James",
-  "downloadCount": 753
+  "downloadCount": 753,
+  "license": "Public Domain"
 }

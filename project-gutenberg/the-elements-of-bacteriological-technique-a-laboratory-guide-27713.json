@@ -1,6 +1,6 @@
 {
   "title": "The Elements of Bacteriological Technique: A Laboratory Guide for Medical, Dental, and Technical Students. Second Edition Rewritten and Enlarged.",
-  "url": "https://www.gutenberg.org/ebooks/27713.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/27713",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Eyre, J. W. H. (John William Henry)",
-  "downloadCount": 14026
+  "downloadCount": 14026,
+  "license": "Public Domain"
 }

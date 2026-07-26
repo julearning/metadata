@@ -1,6 +1,6 @@
 {
   "title": "Lightning Rod Conference: Report of the Delegates from the Following Societies, Viz.: Meteorological Society, Royal Institute of British Architects, Society of Telegraph Engineers and of Electricians, Physical Society. With a Code of Rules for the Erection of Lightning Conductors; and Various Appendices",
-  "url": "https://www.gutenberg.org/ebooks/58367.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/58367",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 646
+  "downloadCount": 646,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The Chemistry of Cookery",
-  "url": "https://www.gutenberg.org/ebooks/53458.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/53458",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Williams, W. Mattieu (William Mattieu)",
-  "downloadCount": 707
+  "downloadCount": 707,
+  "license": "Public Domain"
 }

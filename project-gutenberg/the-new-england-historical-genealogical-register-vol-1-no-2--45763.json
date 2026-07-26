@@ -1,6 +1,6 @@
 {
   "title": "The New England Historical & Genealogical Register, Vol. 1, No. 2, April 1847",
-  "url": "https://www.gutenberg.org/ebooks/45763.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/45763",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 586
+  "downloadCount": 586,
+  "license": "Public Domain"
 }

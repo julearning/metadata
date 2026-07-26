@@ -1,6 +1,6 @@
 {
   "title": "The voter's text book : $b comprising a collection of the most important documents and statistics connected with the political history of America",
-  "url": "https://www.gutenberg.org/files/79072/79072-h/79072-h.htm",
+  "url": "https://www.gutenberg.org/ebooks/79072",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hiatt, James M.",
-  "downloadCount": 0
+  "downloadCount": 0,
+  "license": "Public Domain"
 }

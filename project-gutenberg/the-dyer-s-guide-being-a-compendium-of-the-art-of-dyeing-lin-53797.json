@@ -1,6 +1,6 @@
 {
   "title": "The Dyer's Guide: Being a compendium of the art of dyeing linen, cotton, silk, wool, muslin, dresses, furniture, &c. &c.; with the method of scouring wool, bleaching cotton, &c., and directions for ungumming silk, and for whitening and sulphuring silk and wool; and also an introductory epitome of the leading facts in chemistry, as connected with the art of dyeing",
-  "url": "https://www.gutenberg.org/ebooks/53797.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/53797",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Packer, Thomas",
-  "downloadCount": 483
+  "downloadCount": 483,
+  "license": "Public Domain"
 }

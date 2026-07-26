@@ -1,6 +1,6 @@
 {
   "title": "An epitome of electricity & galvanism",
-  "url": "https://www.gutenberg.org/ebooks/74933.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/74933",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Green, Jacob, Hazard, Erskine",
-  "downloadCount": 502
+  "downloadCount": 502,
+  "license": "Public Domain"
 }

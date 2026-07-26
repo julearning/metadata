@@ -1,6 +1,6 @@
 {
   "title": "Amusements in Mathematics",
-  "url": "https://www.gutenberg.org/ebooks/16713.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/16713",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Dudeney, Henry Ernest",
-  "downloadCount": 3070
+  "downloadCount": 3070,
+  "license": "Public Domain"
 }

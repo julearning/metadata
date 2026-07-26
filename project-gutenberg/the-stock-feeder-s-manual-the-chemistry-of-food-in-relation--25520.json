@@ -1,6 +1,6 @@
 {
   "title": "The Stock-Feeder's Manual: the chemistry of food in relation to the breeding and feeding of live stock",
-  "url": "https://www.gutenberg.org/ebooks/25520.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/25520",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Cameron, Charles Alexander, Sir",
-  "downloadCount": 5048
+  "downloadCount": 5048,
+  "license": "Public Domain"
 }

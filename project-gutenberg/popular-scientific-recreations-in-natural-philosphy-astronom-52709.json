@@ -1,6 +1,6 @@
 {
   "title": "Popular Scientific Recreations: in Natural Philosphy, Astronomy, Geology, Chemistry, etc., etc., etc.",
-  "url": "https://www.gutenberg.org/ebooks/52709.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/52709",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Tissandier, Gaston",
-  "downloadCount": 1106
+  "downloadCount": 1106,
+  "license": "Public Domain"
 }

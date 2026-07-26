@@ -1,6 +1,6 @@
 {
   "title": "Lippincott's Magazine of Popular Literature and Science, Volume 11, No. 24, March, 1873",
-  "url": "https://www.gutenberg.org/ebooks/22402.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/22402",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 3863
+  "downloadCount": 3863,
+  "license": "Public Domain"
 }

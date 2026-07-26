@@ -1,6 +1,6 @@
 {
   "title": "Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of Kindred Terms, Etymological, Historical, Geographical and Discursive",
-  "url": "https://www.gutenberg.org/ebooks/58529.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/58529",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Yule, Henry, Sir, Burnell, A. C. (Arthur Coke)",
-  "downloadCount": 1460
+  "downloadCount": 1460,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The Library of Work and Play: Electricity and Its Everyday Uses",
-  "url": "https://www.gutenberg.org/ebooks/45331.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/45331",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Woodhull, John F. (John Francis)",
-  "downloadCount": 530
+  "downloadCount": 530,
+  "license": "Public Domain"
 }

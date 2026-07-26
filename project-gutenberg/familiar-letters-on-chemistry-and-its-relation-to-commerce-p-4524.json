@@ -1,6 +1,6 @@
 {
   "title": "Familiar Letters on Chemistry, and Its Relation to Commerce, Physiology, and Agriculture",
-  "url": "https://www.gutenberg.org/ebooks/4524.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/4524",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Liebig, Justus, Freiherr von",
-  "downloadCount": 480
+  "downloadCount": 480,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The New Physics and Its Evolution",
-  "url": "https://www.gutenberg.org/ebooks/15207.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/15207",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Poincaré, Lucien",
-  "downloadCount": 668
+  "downloadCount": 668,
+  "license": "Public Domain"
 }

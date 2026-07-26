@@ -1,6 +1,6 @@
 {
   "title": "Philological Proofs of the Original Unity and Recent Origin of the Human Race",
-  "url": "https://www.gutenberg.org/files/35167/35167-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/35167",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Johnes, Arthur James",
-  "downloadCount": 579
+  "downloadCount": 579,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The regimental records of the British Army : $b a historical résumé chronologically arranged of titles, campaigns, honours, uniforms, facings, badges, nicknames, etc.",
-  "url": "https://www.gutenberg.org/ebooks/51165.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/51165",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Farmer, John S.",
-  "downloadCount": 1137
+  "downloadCount": 1137,
+  "license": "Public Domain"
 }

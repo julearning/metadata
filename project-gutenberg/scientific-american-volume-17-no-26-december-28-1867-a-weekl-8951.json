@@ -1,6 +1,6 @@
 {
   "title": "Scientific American, Volume 17, No. 26 December 28, 1867: A Weekly Journal of Practical Information, Art, Science, Mechanics, Chemistry, and Manufactures.",
-  "url": "https://www.gutenberg.org/ebooks/8951.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/8951",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 479
+  "downloadCount": 479,
+  "license": "Public Domain"
 }

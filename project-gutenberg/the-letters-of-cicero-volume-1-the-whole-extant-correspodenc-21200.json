@@ -1,6 +1,6 @@
 {
   "title": "The Letters of Cicero, Volume 1: The Whole Extant Correspodence in Chronological Order",
-  "url": "https://www.gutenberg.org/ebooks/21200.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/21200",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Cicero, Marcus Tullius",
-  "downloadCount": 8541
+  "downloadCount": 8541,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Motor Truck Logging Methods: Engineering Experiment Station Series, Bulletin No. 12",
-  "url": "https://www.gutenberg.org/ebooks/37359.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/37359",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Knapp, Frederick Malcolm",
-  "downloadCount": 436
+  "downloadCount": 436,
+  "license": "Public Domain"
 }

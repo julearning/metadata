@@ -1,6 +1,6 @@
 {
   "title": "Woman in Science: With an Introductory Chapter on Woman's Long Struggle for Things of the Mind",
-  "url": "https://www.gutenberg.org/ebooks/34912.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/34912",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Zahm, J. A. (John Augustine)",
-  "downloadCount": 908
+  "downloadCount": 908,
+  "license": "Public Domain"
 }

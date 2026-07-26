@@ -1,6 +1,6 @@
 {
   "title": "The Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States",
-  "url": "https://www.gutenberg.org/ebooks/14977.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/14977",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Wells-Barnett, Ida B.",
-  "downloadCount": 2194
+  "downloadCount": 2194,
+  "license": "Public Domain"
 }

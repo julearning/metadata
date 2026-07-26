@@ -1,6 +1,6 @@
 {
   "title": "Taxidermy and Zoological Collecting: A Complete Handbook for the Amateur Taxidermist, Collector, Osteologist, Museum-Builder, Sportsman, and Traveller",
-  "url": "https://www.gutenberg.org/ebooks/40109.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/40109",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hornaday, William T. (William Temple), Holland, W. J. (William Jacob)",
-  "downloadCount": 581
+  "downloadCount": 581,
+  "license": "Public Domain"
 }

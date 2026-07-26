@@ -1,6 +1,6 @@
 {
   "title": "The Manóbos of Mindanáo: Memoirs of the National Academy of Sciences, Volume XXIII, First Memoir",
-  "url": "https://www.gutenberg.org/ebooks/18607.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/18607",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Garvan, John M.",
-  "downloadCount": 738
+  "downloadCount": 738,
+  "license": "Public Domain"
 }

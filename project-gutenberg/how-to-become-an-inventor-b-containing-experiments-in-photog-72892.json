@@ -1,6 +1,6 @@
 {
   "title": "How to become an inventor : $b Containing experiments in photography, hydraulics, galvanism and electricity, magnetism, heat, and the wonders of the microscope",
-  "url": "https://www.gutenberg.org/ebooks/72892.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/72892",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Warford, Aaron A.",
-  "downloadCount": 379
+  "downloadCount": 379,
+  "license": "Public Domain"
 }

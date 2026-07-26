@@ -1,6 +1,6 @@
 {
   "title": "How to Use the Popular Science Library; History of Science; General Index",
-  "url": "https://www.gutenberg.org/ebooks/51133.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/51133",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Serviss, Garrett Putman, Selwyn-Brown, Arthur",
-  "downloadCount": 1718
+  "downloadCount": 1718,
+  "license": "Public Domain"
 }

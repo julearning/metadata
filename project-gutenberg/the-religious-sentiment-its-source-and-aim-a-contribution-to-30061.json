@@ -1,6 +1,6 @@
 {
   "title": "The Religious Sentiment: Its Source and Aim: A Contribution to the Science and; Philosophy of Religion",
-  "url": "https://www.gutenberg.org/ebooks/30061.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/30061",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Brinton, Daniel G. (Daniel Garrison)",
-  "downloadCount": 944
+  "downloadCount": 944,
+  "license": "Public Domain"
 }

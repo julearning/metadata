@@ -1,6 +1,6 @@
 {
   "title": "International Congress of Arts and Science, Volume 1: Philosophy and Metaphysics",
-  "url": "https://www.gutenberg.org/ebooks/38267.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/38267",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 655
+  "downloadCount": 655,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Geological facts; or, the crust of the earth, what it is, and what are its uses",
-  "url": "https://www.gutenberg.org/ebooks/72100.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/72100",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Barrett, W. G. (William Garland)",
-  "downloadCount": 614
+  "downloadCount": 614,
+  "license": "Public Domain"
 }

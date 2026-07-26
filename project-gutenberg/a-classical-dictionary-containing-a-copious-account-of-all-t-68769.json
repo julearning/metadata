@@ -1,6 +1,6 @@
 {
   "title": "A classical dictionary: containing a copious account of all the proper names mentioned in ancient authors with tables of coins, weights, and measures used among the Greeks and Romans and a chronological table",
-  "url": "https://www.gutenberg.org/ebooks/68769.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/68769",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Lemprière, John",
-  "downloadCount": 1910
+  "downloadCount": 1910,
+  "license": "Public Domain"
 }

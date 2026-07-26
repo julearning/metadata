@@ -1,6 +1,6 @@
 {
   "title": "Chips from a German Workshop, Volume 1: Essays on the Science of Religion",
-  "url": "https://www.gutenberg.org/ebooks/24686.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/24686",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Müller, F. Max (Friedrich Max)",
-  "downloadCount": 963
+  "downloadCount": 963,
+  "license": "Public Domain"
 }

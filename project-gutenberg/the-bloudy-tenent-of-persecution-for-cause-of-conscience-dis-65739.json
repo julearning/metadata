@@ -1,6 +1,6 @@
 {
   "title": "The Bloudy Tenent of Persecution for Cause of Conscience Discussed and Mr. Cotton's Letter Examined and Answered",
-  "url": "https://www.gutenberg.org/ebooks/65739.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/65739",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Williams, Roger",
-  "downloadCount": 1134
+  "downloadCount": 1134,
+  "license": "Public Domain"
 }

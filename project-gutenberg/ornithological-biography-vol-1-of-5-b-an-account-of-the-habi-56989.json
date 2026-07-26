@@ -1,6 +1,6 @@
 {
   "title": "Ornithological biography, Vol. 1 (of 5) : $b An account of the habits of the birds of the United States of America",
-  "url": "https://www.gutenberg.org/ebooks/56989.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/56989",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Audubon, John James",
-  "downloadCount": 665
+  "downloadCount": 665,
+  "license": "Public Domain"
 }

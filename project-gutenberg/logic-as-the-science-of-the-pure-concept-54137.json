@@ -1,6 +1,6 @@
 {
   "title": "Logic as the Science of the Pure Concept",
-  "url": "https://www.gutenberg.org/ebooks/54137.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/54137",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Croce, Benedetto",
-  "downloadCount": 732
+  "downloadCount": 732,
+  "license": "Public Domain"
 }

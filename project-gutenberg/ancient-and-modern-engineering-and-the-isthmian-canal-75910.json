@@ -1,6 +1,6 @@
 {
   "title": "Ancient and modern engineering and the Isthmian canal",
-  "url": "https://www.gutenberg.org/ebooks/75910.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/75910",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Burr, William H. (William Hubert)",
-  "downloadCount": 467
+  "downloadCount": 467,
+  "license": "Public Domain"
 }

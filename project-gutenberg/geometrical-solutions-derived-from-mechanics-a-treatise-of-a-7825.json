@@ -1,6 +1,6 @@
 {
   "title": "Geometrical Solutions Derived from Mechanics; a Treatise of Archimedes",
-  "url": "https://www.gutenberg.org/files/7825/7825-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/7825",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Archimedes",
-  "downloadCount": 172
+  "downloadCount": 172,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Scientific American, Volume 22, No. 1, January 1, 1870: A Weekly Journal of Practical Information, Art, Science, Mechanics, Chemistry, and Manufactures.",
-  "url": "https://www.gutenberg.org/ebooks/8952.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/8952",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 620
+  "downloadCount": 620,
+  "license": "Public Domain"
 }

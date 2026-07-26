@@ -1,6 +1,6 @@
 {
   "title": "Symbolic Logic",
-  "url": "https://www.gutenberg.org/ebooks/28696.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/28696",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Carroll, Lewis",
-  "downloadCount": 1690
+  "downloadCount": 1690,
+  "license": "Public Domain"
 }

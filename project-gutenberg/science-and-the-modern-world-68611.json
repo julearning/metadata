@@ -1,6 +1,6 @@
 {
   "title": "Science and the modern world",
-  "url": "https://www.gutenberg.org/ebooks/68611.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/68611",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Whitehead, Alfred North",
-  "downloadCount": 1315
+  "downloadCount": 1315,
+  "license": "Public Domain"
 }

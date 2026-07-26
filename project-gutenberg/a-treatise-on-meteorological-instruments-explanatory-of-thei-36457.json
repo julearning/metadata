@@ -1,6 +1,6 @@
 {
   "title": "A Treatise on Meteorological Instruments: Explanatory of Their Scientific Principles, Method of Construction, and Practical Utility",
-  "url": "https://www.gutenberg.org/ebooks/36457.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/36457",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Negretti, Enrico Angelo Lodovico, Zambra, Joseph",
-  "downloadCount": 816
+  "downloadCount": 816,
+  "license": "Public Domain"
 }

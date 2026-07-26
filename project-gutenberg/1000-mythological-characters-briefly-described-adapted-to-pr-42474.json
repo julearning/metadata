@@ -1,6 +1,6 @@
 {
   "title": "1000 Mythological Characters Briefly Described: Adapted to Private Schools, High Schools and Academies",
-  "url": "https://www.gutenberg.org/ebooks/42474.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/42474",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Ellis, Edward Sylvester",
-  "downloadCount": 3548
+  "downloadCount": 3548,
+  "license": "Public Domain"
 }

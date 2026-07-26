@@ -1,6 +1,6 @@
 {
   "title": "Analyzing Character: The New Science of Judging Men; Misfits in Business, the Home and Social Life",
-  "url": "https://www.gutenberg.org/ebooks/12649.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/12649",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Blackford, Katherine M. H. (Katherine Melvina Huntsinger), Newcomb, Arthur",
-  "downloadCount": 876
+  "downloadCount": 876,
+  "license": "Public Domain"
 }

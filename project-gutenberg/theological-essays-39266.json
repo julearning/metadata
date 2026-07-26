@@ -1,6 +1,6 @@
 {
   "title": "Theological Essays",
-  "url": "https://www.gutenberg.org/ebooks/39266.pdf.images",
+  "url": "https://www.gutenberg.org/ebooks/39266",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Bradlaugh, Charles",
-  "downloadCount": 744
+  "downloadCount": 744,
+  "license": "Public Domain"
 }

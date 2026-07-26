@@ -1,6 +1,6 @@
 {
   "title": "Botany: The Science of Plant Life",
-  "url": "https://www.gutenberg.org/ebooks/49211.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/49211",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Taylor, Norman",
-  "downloadCount": 862
+  "downloadCount": 862,
+  "license": "Public Domain"
 }

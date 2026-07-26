@@ -1,6 +1,6 @@
 {
   "title": "Spherical Trigonometry: For the Use of Colleges and Schools",
-  "url": "https://www.gutenberg.org/files/19770/19770-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/19770",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Todhunter, I. (Isaac)",
-  "downloadCount": 524
+  "downloadCount": 524,
+  "license": "Public Domain"
 }

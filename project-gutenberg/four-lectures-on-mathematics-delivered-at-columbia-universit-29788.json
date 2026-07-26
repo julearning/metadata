@@ -1,6 +1,6 @@
 {
   "title": "Four Lectures on Mathematics, Delivered at Columbia University in 1911",
-  "url": "https://www.gutenberg.org/files/29788/29788-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/29788",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hadamard, Jacques",
-  "downloadCount": 152
+  "downloadCount": 152,
+  "license": "Public Domain"
 }

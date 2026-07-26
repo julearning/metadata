@@ -1,6 +1,6 @@
 {
   "title": "The principles of science : $b a treatise on logic and scientific method",
-  "url": "https://www.gutenberg.org/ebooks/74864.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/74864",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Jevons, William Stanley",
-  "downloadCount": 1222
+  "downloadCount": 1222,
+  "license": "Public Domain"
 }

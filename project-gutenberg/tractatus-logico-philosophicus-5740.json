@@ -1,6 +1,6 @@
 {
   "title": "Tractatus Logico-Philosophicus",
-  "url": "https://www.gutenberg.org/files/5740/5740-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/5740",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Wittgenstein, Ludwig",
-  "downloadCount": 11826
+  "downloadCount": 11826,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The Poetry of Science; or, Studies of the Physical Phenomena of Nature",
-  "url": "https://www.gutenberg.org/ebooks/51897.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/51897",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hunt, Robert",
-  "downloadCount": 888
+  "downloadCount": 888,
+  "license": "Public Domain"
 }

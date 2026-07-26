@@ -1,6 +1,6 @@
 {
   "title": "Plotinos: Complete Works, v. 1: In Chronological Order, Grouped in Four Periods",
-  "url": "https://www.gutenberg.org/ebooks/42930.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/42930",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Plotinus",
-  "downloadCount": 1544
+  "downloadCount": 1544,
+  "license": "Public Domain"
 }

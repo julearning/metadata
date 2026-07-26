@@ -1,6 +1,6 @@
 {
   "title": "Geology, Vol. 1 [of 3] : $b Geologic processes and their results",
-  "url": "https://www.gutenberg.org/ebooks/74316.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/74316",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Salisbury, Rollin D., Chamberlin, Thomas C. (Thomas Chrowder)",
-  "downloadCount": 713
+  "downloadCount": 713,
+  "license": "Public Domain"
 }

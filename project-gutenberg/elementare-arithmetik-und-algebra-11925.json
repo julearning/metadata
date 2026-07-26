@@ -1,6 +1,6 @@
 {
   "title": "Elementare Arithmetik und Algebra",
-  "url": "https://www.gutenberg.org/files/11925/11925-p.pdf",
+  "url": "https://www.gutenberg.org/ebooks/11925",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Schubert, Hermann",
-  "downloadCount": 164
+  "downloadCount": 164,
+  "license": "Public Domain"
 }

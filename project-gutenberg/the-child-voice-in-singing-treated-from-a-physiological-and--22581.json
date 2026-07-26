@@ -1,6 +1,6 @@
 {
   "title": "The Child-Voice in Singing: Treated from a physiological and a practical standpoint and especially adapted to schools and boy choirs",
-  "url": "https://www.gutenberg.org/ebooks/22581.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/22581",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Howard, Francis E. (Francis Edward)",
-  "downloadCount": 2090
+  "downloadCount": 2090,
+  "license": "Public Domain"
 }

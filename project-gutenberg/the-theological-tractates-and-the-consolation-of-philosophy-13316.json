@@ -1,6 +1,6 @@
 {
   "title": "The Theological Tractates and The Consolation of Philosophy",
-  "url": "https://www.gutenberg.org/ebooks/13316.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/13316",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Boethius",
-  "downloadCount": 1327
+  "downloadCount": 1327,
+  "license": "Public Domain"
 }

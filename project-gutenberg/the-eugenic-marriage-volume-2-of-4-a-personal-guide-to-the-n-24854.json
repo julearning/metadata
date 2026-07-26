@@ -1,6 +1,6 @@
 {
   "title": "The Eugenic Marriage, Volume 2 (of 4): A Personal Guide to the New Science of Better Living and Better Babies",
-  "url": "https://www.gutenberg.org/ebooks/24854.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/24854",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hague, W. Grant (William Grant)",
-  "downloadCount": 5137
+  "downloadCount": 5137,
+  "license": "Public Domain"
 }

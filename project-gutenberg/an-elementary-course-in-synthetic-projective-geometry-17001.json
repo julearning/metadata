@@ -1,6 +1,6 @@
 {
   "title": "An Elementary Course in Synthetic Projective Geometry",
-  "url": "https://www.gutenberg.org/ebooks/17001.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/17001",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Lehmer, Derrick Norman",
-  "downloadCount": 878
+  "downloadCount": 878,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The Behavior of Crowds: A Psychological Study",
-  "url": "https://www.gutenberg.org/ebooks/40914.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/40914",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Martin, Everett Dean",
-  "downloadCount": 681
+  "downloadCount": 681,
+  "license": "Public Domain"
 }

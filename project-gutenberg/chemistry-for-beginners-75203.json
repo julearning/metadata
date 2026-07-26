@@ -1,6 +1,6 @@
 {
   "title": "Chemistry for beginners",
-  "url": "https://www.gutenberg.org/ebooks/75203.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/75203",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Carrington, Hereward",
-  "downloadCount": 426
+  "downloadCount": 426,
+  "license": "Public Domain"
 }

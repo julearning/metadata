@@ -1,6 +1,6 @@
 {
   "title": "The Devil: A Tragedy of the Heart and Conscience",
-  "url": "https://www.gutenberg.org/ebooks/25947.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/25947",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "O'Brien, Joseph",
-  "downloadCount": 4512
+  "downloadCount": 4512,
+  "license": "Public Domain"
 }

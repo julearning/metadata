@@ -1,6 +1,6 @@
 {
   "title": "Novum organon renovatum: Being the second part of the philosophy of the inductive sciences",
-  "url": "https://www.gutenberg.org/ebooks/69764.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/69764",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Whewell, William",
-  "downloadCount": 908
+  "downloadCount": 908,
+  "license": "Public Domain"
 }

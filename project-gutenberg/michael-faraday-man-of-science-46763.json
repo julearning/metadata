@@ -1,6 +1,6 @@
 {
   "title": "Michael Faraday, Man of Science",
-  "url": "https://www.gutenberg.org/ebooks/46763.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/46763",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Jerrold, Walter",
-  "downloadCount": 785
+  "downloadCount": 785,
+  "license": "Public Domain"
 }

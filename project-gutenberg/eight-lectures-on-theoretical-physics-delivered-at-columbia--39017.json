@@ -1,6 +1,6 @@
 {
   "title": "Eight Lectures on Theoretical Physics, Delivered at Columbia University in 1909",
-  "url": "https://www.gutenberg.org/files/39017/39017-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/39017",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Planck, Max",
-  "downloadCount": 189
+  "downloadCount": 189,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Hawkins Electrical Guide v. 08 (of 10): Questions, Answers, & Illustrations, A progressive course of study for engineers, electricians, students and those desiring to acquire a working knowledge of electricity and its applications",
-  "url": "https://www.gutenberg.org/ebooks/50068.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/50068",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hawkins, N. (Nehemiah)",
-  "downloadCount": 558
+  "downloadCount": 558,
+  "license": "Public Domain"
 }

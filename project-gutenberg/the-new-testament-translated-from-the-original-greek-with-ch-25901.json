@@ -1,6 +1,6 @@
 {
   "title": "The New Testament: Translated From the Original Greek, With Chronological Arrangement of the Sacred Books, and Improved Divisions of Chapters and Verses.",
-  "url": "https://www.gutenberg.org/ebooks/25901.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/25901",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 582
+  "downloadCount": 582,
+  "license": "Public Domain"
 }

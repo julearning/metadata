@@ -1,6 +1,6 @@
 {
   "title": "Folkways: A Study of the Sociological Importance of Usages, Manners, Customs, Mores, and Morals",
-  "url": "https://www.gutenberg.org/ebooks/24253.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/24253",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Sumner, William Graham",
-  "downloadCount": 1111
+  "downloadCount": 1111,
+  "license": "Public Domain"
 }

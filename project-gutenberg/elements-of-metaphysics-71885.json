@@ -1,6 +1,6 @@
 {
   "title": "Elements of metaphysics",
-  "url": "https://www.gutenberg.org/ebooks/71885.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/71885",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Taylor, A. E. (Alfred Edward)",
-  "downloadCount": 1591
+  "downloadCount": 1591,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Introduction to the Science of Sociology",
-  "url": "https://www.gutenberg.org/ebooks/28496.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/28496",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Park, Robert Ezra, Burgess, E. W. (Ernest Watson)",
-  "downloadCount": 1806
+  "downloadCount": 1806,
+  "license": "Public Domain"
 }

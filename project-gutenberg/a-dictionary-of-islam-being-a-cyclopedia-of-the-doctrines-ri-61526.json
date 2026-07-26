@@ -1,6 +1,6 @@
 {
   "title": "A Dictionary of Islam: Being a cyclopedia of the doctrines, rites, ceremonies, and customs, together with the technical and theological terms, of the Muhammadan religion.",
-  "url": "https://www.gutenberg.org/ebooks/61526.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/61526",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hughes, Thomas Patrick",
-  "downloadCount": 1019
+  "downloadCount": 1019,
+  "license": "Public Domain"
 }

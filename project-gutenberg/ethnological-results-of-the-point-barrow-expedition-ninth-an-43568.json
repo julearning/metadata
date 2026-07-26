@@ -1,6 +1,6 @@
 {
   "title": "Ethnological results of the Point Barrow expedition: Ninth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1887-1888, Government Printing Office, Washington, 1892, pages 3-442",
-  "url": "https://www.gutenberg.org/ebooks/43568.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/43568",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Murdoch, John",
-  "downloadCount": 711
+  "downloadCount": 711,
+  "license": "Public Domain"
 }

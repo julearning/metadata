@@ -1,6 +1,6 @@
 {
   "title": "Fragments of Science: A Series of Detached Essays, Addresses, and Reviews. V. 1-2",
-  "url": "https://www.gutenberg.org/ebooks/24527.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/24527",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Tyndall, John",
-  "downloadCount": 927
+  "downloadCount": 927,
+  "license": "Public Domain"
 }

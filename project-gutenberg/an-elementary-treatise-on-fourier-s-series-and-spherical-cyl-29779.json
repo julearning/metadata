@@ -1,6 +1,6 @@
 {
   "title": "An Elementary Treatise on Fourier's Series and Spherical, Cylindrical, and Ellipsoidal Harmonics: With Applications to Problems in Mathematical Physics",
-  "url": "https://www.gutenberg.org/files/29779/29779-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/29779",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Byerly, William Elwood",
-  "downloadCount": 481
+  "downloadCount": 481,
+  "license": "Public Domain"
 }

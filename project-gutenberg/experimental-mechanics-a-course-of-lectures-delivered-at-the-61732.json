@@ -1,6 +1,6 @@
 {
   "title": "Experimental Mechanics: A Course of Lectures Delivered at the Royal College of Science for Ireland",
-  "url": "https://www.gutenberg.org/ebooks/61732.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/61732",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Ball, Robert S. (Robert Stawell)",
-  "downloadCount": 785
+  "downloadCount": 785,
+  "license": "Public Domain"
 }

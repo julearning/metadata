@@ -1,6 +1,6 @@
 {
   "title": "Experiments and Observations on Electricity Made at Philadelphia in America",
-  "url": "https://www.gutenberg.org/ebooks/45515.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/45515",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Franklin, Benjamin",
-  "downloadCount": 738
+  "downloadCount": 738,
+  "license": "Public Domain"
 }

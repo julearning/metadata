@@ -1,6 +1,6 @@
 {
   "title": "The regiments of the British Army, chronologically arranged",
-  "url": "https://www.gutenberg.org/ebooks/69447.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/69447",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 636
+  "downloadCount": 636,
+  "license": "Public Domain"
 }

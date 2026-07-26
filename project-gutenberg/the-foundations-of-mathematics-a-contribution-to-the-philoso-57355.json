@@ -1,6 +1,6 @@
 {
   "title": "The Foundations of Mathematics: A Contribution to the Philosophy of Geometry",
-  "url": "https://www.gutenberg.org/files/57355/57355-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/57355",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Carus, Paul",
-  "downloadCount": 177
+  "downloadCount": 177,
+  "license": "Public Domain"
 }

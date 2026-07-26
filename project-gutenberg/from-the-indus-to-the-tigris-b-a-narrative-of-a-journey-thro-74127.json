@@ -1,6 +1,6 @@
 {
   "title": "From the Indus to the Tigris : $b A narrative of a journey through the countries of Balochistan, Afghanistan, Khorassan and Iran, in 1872, together with a synoptical grammar and vocabulary of the Brahoe language, and a record of the meteorological observations and altitudes on the march from the Indus to the Tigris",
-  "url": "https://www.gutenberg.org/ebooks/74127.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/74127",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Bellew, H. W. (Henry Walter)",
-  "downloadCount": 555
+  "downloadCount": 555,
+  "license": "Public Domain"
 }

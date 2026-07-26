@@ -1,6 +1,6 @@
 {
   "title": "Science in the Kitchen: A Scientific Treatise On Food Substances and Their Dietetic Properties, Together with a Practical Explanation of the Principles of Healthful Cookery, and a Large Number of Original, Palatable, and Wholesome Recipes",
-  "url": "https://www.gutenberg.org/ebooks/12238.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/12238",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Kellogg, E. E. (Ella Ervilla)",
-  "downloadCount": 1344
+  "downloadCount": 1344,
+  "license": "Public Domain"
 }

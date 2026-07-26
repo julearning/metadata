@@ -1,6 +1,6 @@
 {
   "title": "The Outline of Science, Vol. 1 (of 4): A Plain Story Simply Told",
-  "url": "https://www.gutenberg.org/ebooks/20417.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/20417",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Thomson, J. Arthur (John Arthur)",
-  "downloadCount": 1062
+  "downloadCount": 1062,
+  "license": "Public Domain"
 }

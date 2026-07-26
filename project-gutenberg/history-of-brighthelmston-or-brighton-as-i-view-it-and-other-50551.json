@@ -1,6 +1,6 @@
 {
   "title": "History of Brighthelmston; or, Brighton as I View it and Others Knew It: With a Chronological Table of Local Events",
-  "url": "https://www.gutenberg.org/ebooks/50551.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/50551",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Erredge, John Ackerson",
-  "downloadCount": 855
+  "downloadCount": 855,
+  "license": "Public Domain"
 }

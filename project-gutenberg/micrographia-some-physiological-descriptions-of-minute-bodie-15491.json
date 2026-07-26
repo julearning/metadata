@@ -1,6 +1,6 @@
 {
   "title": "Micrographia: Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon",
-  "url": "https://www.gutenberg.org/ebooks/15491.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/15491",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hooke, Robert",
-  "downloadCount": 1379
+  "downloadCount": 1379,
+  "license": "Public Domain"
 }

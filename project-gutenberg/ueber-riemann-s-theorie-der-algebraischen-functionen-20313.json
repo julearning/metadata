@@ -1,6 +1,6 @@
 {
   "title": "Ueber Riemann's Theorie der Algebraischen Functionen",
-  "url": "https://www.gutenberg.org/files/20313/20313-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/20313",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Klein, Felix",
-  "downloadCount": 373
+  "downloadCount": 373,
+  "license": "Public Domain"
 }

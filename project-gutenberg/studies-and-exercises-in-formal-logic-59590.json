@@ -1,6 +1,6 @@
 {
   "title": "Studies and Exercises in Formal Logic",
-  "url": "https://www.gutenberg.org/ebooks/59590.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/59590",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Keynes, John Neville",
-  "downloadCount": 585
+  "downloadCount": 585,
+  "license": "Public Domain"
 }

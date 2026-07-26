@@ -1,6 +1,6 @@
 {
   "title": "On Multiple Algebra",
-  "url": "https://www.gutenberg.org/files/50977/50977-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/50977",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Gibbs, J. Willard (Josiah Willard)",
-  "downloadCount": 130
+  "downloadCount": 130,
+  "license": "Public Domain"
 }

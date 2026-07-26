@@ -1,6 +1,6 @@
 {
   "title": "The Boy's Playbook of Science: Including the Various Manipulations and Arrangements of Chemical and Philosophical Apparatus Required for the Successful Performance of Scientific Experiments in Illustration of the Elementary Branches of Chemistry and Natural Philosophy",
-  "url": "https://www.gutenberg.org/ebooks/41839.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/41839",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Pepper, John Henry",
-  "downloadCount": 898
+  "downloadCount": 898,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Chronological Retrospect of the History of Yarmouth and Neighbourhood: from A.D. 46 to 1884",
-  "url": "https://www.gutenberg.org/ebooks/41618.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/41618",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Finch-Crisp, William",
-  "downloadCount": 894
+  "downloadCount": 894,
+  "license": "Public Domain"
 }

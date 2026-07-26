@@ -1,6 +1,6 @@
 {
   "title": "The Satires of Juvenal, Persius, Sulpicia, and Lucilius: Literally translated into English prose, with notes, chronological tables, arguments, &c.",
-  "url": "https://www.gutenberg.org/ebooks/50657.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/50657",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Persius, Juvenal, Lucilius, Gaius, Sulpicia",
-  "downloadCount": 18507
+  "downloadCount": 18507,
+  "license": "Public Domain"
 }

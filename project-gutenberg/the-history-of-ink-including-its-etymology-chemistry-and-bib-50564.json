@@ -1,6 +1,6 @@
 {
   "title": "The History of Ink, Including Its Etymology, Chemistry, and Bibliography",
-  "url": "https://www.gutenberg.org/ebooks/50564.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/50564",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Davids, Thaddeus",
-  "downloadCount": 464
+  "downloadCount": 464,
+  "license": "Public Domain"
 }

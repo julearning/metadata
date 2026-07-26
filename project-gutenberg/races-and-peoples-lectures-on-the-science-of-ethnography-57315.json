@@ -1,6 +1,6 @@
 {
   "title": "Races and Peoples: Lectures on the Science of Ethnography",
-  "url": "https://www.gutenberg.org/ebooks/57315.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/57315",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Brinton, Daniel G. (Daniel Garrison)",
-  "downloadCount": 965
+  "downloadCount": 965,
+  "license": "Public Domain"
 }

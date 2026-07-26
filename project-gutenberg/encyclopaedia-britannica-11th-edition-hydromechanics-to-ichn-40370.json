@@ -1,6 +1,6 @@
 {
   "title": "Encyclopaedia Britannica, 11th Edition, \"Hydromechanics\" to \"Ichnography\": Volume 14, Slice 2",
-  "url": "https://www.gutenberg.org/ebooks/40370.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/40370",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 712
+  "downloadCount": 712,
+  "license": "Public Domain"
 }

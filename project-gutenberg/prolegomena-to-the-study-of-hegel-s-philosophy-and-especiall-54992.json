@@ -1,6 +1,6 @@
 {
   "title": "Prolegomena to the Study of Hegel's Philosophy, and Especially of His Logic",
-  "url": "https://www.gutenberg.org/ebooks/54992.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/54992",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Wallace, William",
-  "downloadCount": 1058
+  "downloadCount": 1058,
+  "license": "Public Domain"
 }

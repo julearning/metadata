@@ -1,6 +1,6 @@
 {
   "title": "Snug Harbor; or, The Champlain Mechanics",
-  "url": "https://www.gutenberg.org/ebooks/50678.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/50678",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Optic, Oliver",
-  "downloadCount": 420
+  "downloadCount": 420,
+  "license": "Public Domain"
 }

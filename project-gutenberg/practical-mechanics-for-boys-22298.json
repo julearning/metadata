@@ -1,6 +1,6 @@
 {
   "title": "Practical Mechanics for Boys",
-  "url": "https://www.gutenberg.org/ebooks/22298.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/22298",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Zerbe, James Slough",
-  "downloadCount": 13893
+  "downloadCount": 13893,
+  "license": "Public Domain"
 }

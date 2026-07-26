@@ -1,6 +1,6 @@
 {
   "title": "Electricity for the 4-H Scientist",
-  "url": "https://www.gutenberg.org/ebooks/38036.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/38036",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Wilson, Eric B.",
-  "downloadCount": 349
+  "downloadCount": 349,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The Photoplay: A Psychological Study",
-  "url": "https://www.gutenberg.org/ebooks/15383.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/15383",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Münsterberg, Hugo",
-  "downloadCount": 934
+  "downloadCount": 934,
+  "license": "Public Domain"
 }

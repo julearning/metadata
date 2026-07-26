@@ -1,6 +1,6 @@
 {
   "title": "Folklore as an Historical Science",
-  "url": "https://www.gutenberg.org/ebooks/21852.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/21852",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Gomme, George Laurence",
-  "downloadCount": 10409
+  "downloadCount": 10409,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The Beautiful: An Introduction to Psychological Aesthetics",
-  "url": "https://www.gutenberg.org/ebooks/26942.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/26942",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Lee, Vernon",
-  "downloadCount": 634
+  "downloadCount": 634,
+  "license": "Public Domain"
 }

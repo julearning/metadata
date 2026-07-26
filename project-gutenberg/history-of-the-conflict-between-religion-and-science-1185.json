@@ -1,6 +1,6 @@
 {
   "title": "History of the Conflict Between Religion and Science",
-  "url": "https://www.gutenberg.org/ebooks/1185.txt.utf-8",
+  "url": "https://www.gutenberg.org/ebooks/1185",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Draper, John William",
-  "downloadCount": 1183
+  "downloadCount": 1183,
+  "license": "Public Domain"
 }

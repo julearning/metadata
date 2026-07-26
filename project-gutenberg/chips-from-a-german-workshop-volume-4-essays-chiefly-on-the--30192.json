@@ -1,6 +1,6 @@
 {
   "title": "Chips from a German Workshop, Volume 4: Essays Chiefly on the Science of Language",
-  "url": "https://www.gutenberg.org/ebooks/30192.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/30192",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Müller, F. Max (Friedrich Max)",
-  "downloadCount": 922
+  "downloadCount": 922,
+  "license": "Public Domain"
 }

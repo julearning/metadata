@@ -1,6 +1,6 @@
 {
   "title": "An Essay to Shew the Cause of Electricity; and Why Some Things are Non-Electricable.: In Which Is Also Consider'd Its Influence in the Blasts on Human Bodies, in the Blights on Trees, in the Damps in Mines; And as It May Affect the Sensitive Plant, &c.",
-  "url": "https://www.gutenberg.org/ebooks/52439.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/52439",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Freke, John",
-  "downloadCount": 321
+  "downloadCount": 321,
+  "license": "Public Domain"
 }

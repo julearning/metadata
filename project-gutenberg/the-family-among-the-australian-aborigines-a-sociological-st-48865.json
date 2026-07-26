@@ -1,6 +1,6 @@
 {
   "title": "The Family among the Australian Aborigines, a Sociological Study",
-  "url": "https://www.gutenberg.org/ebooks/48865.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/48865",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Malinowski, Bronislaw",
-  "downloadCount": 562
+  "downloadCount": 562,
+  "license": "Public Domain"
 }

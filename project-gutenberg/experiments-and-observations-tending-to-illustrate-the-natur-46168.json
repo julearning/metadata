@@ -1,6 +1,6 @@
 {
   "title": "Experiments and Observations Tending to Illustrate the Nature and Properties of Electricity: In One Letter to Martin Folkes, Esq; President, and Two to the Royal Society",
-  "url": "https://www.gutenberg.org/ebooks/46168.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/46168",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Watson, William, Sir",
-  "downloadCount": 315
+  "downloadCount": 315,
+  "license": "Public Domain"
 }

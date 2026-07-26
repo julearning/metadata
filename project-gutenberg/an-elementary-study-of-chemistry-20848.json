@@ -1,6 +1,6 @@
 {
   "title": "An Elementary Study of Chemistry",
-  "url": "https://www.gutenberg.org/ebooks/20848.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/20848",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "McPherson, William, Henderson, William Edwards",
-  "downloadCount": 12226
+  "downloadCount": 12226,
+  "license": "Public Domain"
 }

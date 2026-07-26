@@ -1,6 +1,6 @@
 {
   "title": "Heart and Science: A Story of the Present Time",
-  "url": "https://www.gutenberg.org/ebooks/7892.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/7892",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Collins, Wilkie",
-  "downloadCount": 703
+  "downloadCount": 703,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Iamblichus' Life of Pythagoras, or Pythagoric Life: Accompanied by Fragments of the Ethical Writings of certain Pythagoreans in the Doric dialect; and a collection of Pythagoric Sentences from Stobaeus and others, which are omitted by Gale in his Opuscula Mythologica, and have not been noticed by any editor",
-  "url": "https://www.gutenberg.org/ebooks/63300.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/63300",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Iamblichus",
-  "downloadCount": 2182
+  "downloadCount": 2182,
+  "license": "Public Domain"
 }

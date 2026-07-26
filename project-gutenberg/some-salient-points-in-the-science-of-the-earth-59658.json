@@ -1,6 +1,6 @@
 {
   "title": "Some Salient Points in the Science of the Earth",
-  "url": "https://www.gutenberg.org/ebooks/59658.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/59658",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Dawson, John William, Sir",
-  "downloadCount": 832
+  "downloadCount": 832,
+  "license": "Public Domain"
 }

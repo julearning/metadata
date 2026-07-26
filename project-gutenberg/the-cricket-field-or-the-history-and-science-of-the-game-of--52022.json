@@ -1,6 +1,6 @@
 {
   "title": "The Cricket Field: Or, the History and Science of the Game of Cricket",
-  "url": "https://www.gutenberg.org/ebooks/52022.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/52022",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Pycroft, James",
-  "downloadCount": 725
+  "downloadCount": 725,
+  "license": "Public Domain"
 }

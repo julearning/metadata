@@ -1,6 +1,6 @@
 {
   "title": "Reflections on the Decline of Science in England, and on Some of Its Causes",
-  "url": "https://www.gutenberg.org/ebooks/1216.txt.utf-8",
+  "url": "https://www.gutenberg.org/ebooks/1216",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Babbage, Charles",
-  "downloadCount": 958
+  "downloadCount": 958,
+  "license": "Public Domain"
 }

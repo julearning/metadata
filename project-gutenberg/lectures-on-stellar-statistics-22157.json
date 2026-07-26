@@ -1,6 +1,6 @@
 {
   "title": "Lectures on Stellar Statistics",
-  "url": "https://www.gutenberg.org/ebooks/22157.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/22157",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Charlier, C. V. L. (Carl Vilhelm Ludwig)",
-  "downloadCount": 529
+  "downloadCount": 529,
+  "license": "Public Domain"
 }

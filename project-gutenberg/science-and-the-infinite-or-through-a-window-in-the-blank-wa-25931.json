@@ -1,6 +1,6 @@
 {
   "title": "Science and the Infinite; or, Through a Window in the Blank Wall",
-  "url": "https://www.gutenberg.org/ebooks/25931.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/25931",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Klein, Sydney T. (Sydney Turner)",
-  "downloadCount": 3689
+  "downloadCount": 3689,
+  "license": "Public Domain"
 }

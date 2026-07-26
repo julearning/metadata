@@ -1,6 +1,6 @@
 {
   "title": "Computers—the machines we think with",
-  "url": "https://www.gutenberg.org/ebooks/72572.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/72572",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Halacy, D. S. (Daniel Stephen)",
-  "downloadCount": 1130
+  "downloadCount": 1130,
+  "license": "Public Domain"
 }

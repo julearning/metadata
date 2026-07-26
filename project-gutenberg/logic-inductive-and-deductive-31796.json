@@ -1,6 +1,6 @@
 {
   "title": "Logic, Inductive and Deductive",
-  "url": "https://www.gutenberg.org/ebooks/31796.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/31796",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Minto, William",
-  "downloadCount": 881
+  "downloadCount": 881,
+  "license": "Public Domain"
 }

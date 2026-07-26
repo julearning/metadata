@@ -1,6 +1,6 @@
 {
   "title": "Old-Time Makers of Medicine: The Story of The Students And Teachers of the Sciences Related to Medicine During the Middle Ages",
-  "url": "https://www.gutenberg.org/ebooks/20216.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/20216",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Walsh, James J. (James Joseph)",
-  "downloadCount": 719
+  "downloadCount": 719,
+  "license": "Public Domain"
 }

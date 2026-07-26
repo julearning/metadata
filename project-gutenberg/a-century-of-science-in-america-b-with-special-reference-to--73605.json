@@ -1,6 +1,6 @@
 {
   "title": "A century of science in America : $b with special reference to the American Journal of Science, 1818-1918",
-  "url": "https://www.gutenberg.org/ebooks/73605.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/73605",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "",
-  "downloadCount": 1021
+  "downloadCount": 1021,
+  "license": "Public Domain"
 }

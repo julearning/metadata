@@ -106,15 +106,6 @@ async function fetchPage(url, retries = 3) {
   }
 }
 
-function getDownloadUrl(formats) {
-  // Prefer PDF, then plain text, then EPUB
-  for (const mime of ["application/pdf", "text/plain", "application/epub+zip"]) {
-    if (formats[mime]) return formats[mime];
-  }
-  // Fallback to HTML
-  return formats["text/html"] || null;
-}
-
 function getLanguageDisplay(languages) {
   if (!languages || languages.length === 0) return "English";
   const map = { en: "English", fr: "French", de: "German", es: "Spanish", it: "Italian" };
@@ -166,8 +157,10 @@ async function main() {
           continue;
         }
 
-        const downloadUrl = getDownloadUrl(book.formats || {});
-        if (!downloadUrl) {
+        // IMPORTANT: Link to the canonical landing page per Project Gutenberg's policy
+        // (direct file URLs are not allowed — they require linking to the ebook page)
+        const canonicalUrl = `https://www.gutenberg.org/ebooks/${book.id}`;
+        if (!canonicalUrl) {
           skipped++;
           continue;
         }
@@ -185,7 +178,7 @@ async function main() {
 
         const doc = {
           title: book.title,
-          url: downloadUrl,
+          url: canonicalUrl,
           tags: ["notes", "reference-book"],
           subject: mapped.subject,
           branch: mapped.branch,
@@ -200,6 +193,7 @@ async function main() {
           source: "project-gutenberg",
           author,
           downloadCount: book.download_count || 0,
+          license: "Public Domain",
         };
 
         const fileSlug = slugify(title) + "-" + book.id;

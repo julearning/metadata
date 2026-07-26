@@ -1,6 +1,6 @@
 {
   "title": "The Logic of Hegel",
-  "url": "https://www.gutenberg.org/ebooks/55108.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/55108",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hegel, Georg Wilhelm Friedrich",
-  "downloadCount": 2333
+  "downloadCount": 2333,
+  "license": "Public Domain"
 }

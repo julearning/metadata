@@ -1,6 +1,6 @@
 {
   "title": "A History of Mathematics",
-  "url": "https://www.gutenberg.org/files/31061/31061-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/31061",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Cajori, Florian",
-  "downloadCount": 727
+  "downloadCount": 727,
+  "license": "Public Domain"
 }

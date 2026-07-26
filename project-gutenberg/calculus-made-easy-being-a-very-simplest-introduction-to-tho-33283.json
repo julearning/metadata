@@ -1,6 +1,6 @@
 {
   "title": "Calculus Made Easy: Being a very-simplest introduction to those beautiful methods which are generally called by the terrifying names of the Differential Calculus and the Integral Calculus",
-  "url": "https://www.gutenberg.org/files/33283/33283-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/33283",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Thompson, Silvanus P. (Silvanus Phillips)",
-  "downloadCount": 25707
+  "downloadCount": 25707,
+  "license": "Public Domain"
 }

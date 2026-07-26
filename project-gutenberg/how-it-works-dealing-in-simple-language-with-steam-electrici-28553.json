@@ -1,6 +1,6 @@
 {
   "title": "How it Works: Dealing in simple language with steam, electricity, light, heat, sound, hydraulics, optics, etc., and with their applications to apparatus in common use",
-  "url": "https://www.gutenberg.org/ebooks/28553.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/28553",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Williams, Archibald",
-  "downloadCount": 1373
+  "downloadCount": 1373,
+  "license": "Public Domain"
 }

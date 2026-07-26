@@ -1,6 +1,6 @@
 {
   "title": "Archæological Essays, Vol. 1",
-  "url": "https://www.gutenberg.org/ebooks/27354.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/27354",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Simpson, James Young",
-  "downloadCount": 8884
+  "downloadCount": 8884,
+  "license": "Public Domain"
 }

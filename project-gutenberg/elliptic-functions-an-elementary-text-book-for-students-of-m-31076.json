@@ -1,6 +1,6 @@
 {
   "title": "Elliptic Functions: An Elementary Text-Book for Students of Mathematics",
-  "url": "https://www.gutenberg.org/files/31076/31076-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/31076",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Baker, Arthur Latham",
-  "downloadCount": 188
+  "downloadCount": 188,
+  "license": "Public Domain"
 }

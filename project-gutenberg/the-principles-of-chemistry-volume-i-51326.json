@@ -1,6 +1,6 @@
 {
   "title": "The Principles of Chemistry, Volume I",
-  "url": "https://www.gutenberg.org/ebooks/51326.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/51326",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Mendeleyev, Dmitry Ivanovich",
-  "downloadCount": 1240
+  "downloadCount": 1240,
+  "license": "Public Domain"
 }

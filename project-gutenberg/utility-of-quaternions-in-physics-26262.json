@@ -1,6 +1,6 @@
 {
   "title": "Utility of Quaternions in Physics",
-  "url": "https://www.gutenberg.org/files/26262/26262-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/26262",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "McAulay, Alex. (Alexander)",
-  "downloadCount": 2466
+  "downloadCount": 2466,
+  "license": "Public Domain"
 }

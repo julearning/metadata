@@ -1,6 +1,6 @@
 {
   "title": "Napoleon's Letters to Josephine, 1796-1812: For the First Time Collected and Translated, with Notes Social, Historical, and Chronological, from Contemporary Sources",
-  "url": "https://www.gutenberg.org/ebooks/37499.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/37499",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Napoleon I, Emperor of the French",
-  "downloadCount": 40942
+  "downloadCount": 40942,
+  "license": "Public Domain"
 }

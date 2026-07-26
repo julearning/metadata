@@ -1,6 +1,6 @@
 {
   "title": "A System of Logic, Ratiocinative and Inductive (Vol. 1 of 2)",
-  "url": "https://www.gutenberg.org/files/26495/26495-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/26495",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Mill, John Stuart",
-  "downloadCount": 11988
+  "downloadCount": 11988,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "A Theological-Political Treatise [Part III]",
-  "url": "https://www.gutenberg.org/ebooks/991.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/991",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Spinoza, Benedictus de",
-  "downloadCount": 761
+  "downloadCount": 761,
+  "license": "Public Domain"
 }

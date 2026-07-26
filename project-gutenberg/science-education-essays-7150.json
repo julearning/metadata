@@ -1,6 +1,6 @@
 {
   "title": "Science & Education: Essays",
-  "url": "https://www.gutenberg.org/ebooks/7150.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/7150",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Huxley, Thomas Henry",
-  "downloadCount": 802
+  "downloadCount": 802,
+  "license": "Public Domain"
 }

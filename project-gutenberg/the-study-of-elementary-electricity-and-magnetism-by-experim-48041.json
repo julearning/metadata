@@ -1,6 +1,6 @@
 {
   "title": "The Study of Elementary Electricity and Magnetism by Experiment: Containing Two Hundred Experiments Performed with Simple, Home-made Apparatus",
-  "url": "https://www.gutenberg.org/ebooks/48041.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/48041",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "St. John, Thomas M. (Thomas Matthew)",
-  "downloadCount": 477
+  "downloadCount": 477,
+  "license": "Public Domain"
 }

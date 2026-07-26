@@ -1,6 +1,6 @@
 {
   "title": "Physical science in the time of Nero : $b being a translation of the Quaestiones naturales of Seneca",
-  "url": "https://www.gutenberg.org/ebooks/76392.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/76392",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Seneca, Lucius Annaeus",
-  "downloadCount": 1015
+  "downloadCount": 1015,
+  "license": "Public Domain"
 }

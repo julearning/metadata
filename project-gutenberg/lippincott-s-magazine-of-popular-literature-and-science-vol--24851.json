@@ -1,6 +1,6 @@
 {
   "title": "Lippincott's Magazine of Popular Literature and Science, Vol. 26, August, 1880",
-  "url": "https://www.gutenberg.org/ebooks/24851.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/24851",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 3599
+  "downloadCount": 3599,
+  "license": "Public Domain"
 }

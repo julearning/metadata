@@ -1,6 +1,6 @@
 {
   "title": "Astronomy and General Physics Considered with Reference to Natural Theology",
-  "url": "https://www.gutenberg.org/ebooks/66406.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/66406",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Whewell, William",
-  "downloadCount": 553
+  "downloadCount": 553,
+  "license": "Public Domain"
 }

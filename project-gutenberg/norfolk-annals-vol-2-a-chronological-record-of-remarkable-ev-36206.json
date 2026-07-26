@@ -1,6 +1,6 @@
 {
   "title": "Norfolk Annals, Vol. 2: A Chronological Record of Remarkable Events in the Nineteeth Century",
-  "url": "https://www.gutenberg.org/ebooks/36206.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/36206",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Mackie, Charles",
-  "downloadCount": 1377
+  "downloadCount": 1377,
+  "license": "Public Domain"
 }

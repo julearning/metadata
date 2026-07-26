@@ -1,6 +1,6 @@
 {
   "title": "How to become a scientist : $b Giving interesting and instructive experiments in chemistry, mechanics, acoustics and pyrotechnics",
-  "url": "https://www.gutenberg.org/ebooks/71522.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/71522",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Warford, Aaron A.",
-  "downloadCount": 413
+  "downloadCount": 413,
+  "license": "Public Domain"
 }

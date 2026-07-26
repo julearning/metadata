@@ -1,6 +1,6 @@
 {
   "title": "Non-Euclidean Geometry",
-  "url": "https://www.gutenberg.org/files/13702/13702-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/13702",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Manning, Henry Parker",
-  "downloadCount": 286
+  "downloadCount": 286,
+  "license": "Public Domain"
 }

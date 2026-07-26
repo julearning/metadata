@@ -1,6 +1,6 @@
 {
   "title": "A History of Science — Volume 4",
-  "url": "https://www.gutenberg.org/ebooks/1708.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/1708",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Williams, Henry Smith, Williams, Edward Huntington",
-  "downloadCount": 834
+  "downloadCount": 834,
+  "license": "Public Domain"
 }

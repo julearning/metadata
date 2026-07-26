@@ -1,6 +1,6 @@
 {
   "title": "International Miscellany of Literature, Art and Science, Vol. 1,: No. 3, Oct. 1, 1850",
-  "url": "https://www.gutenberg.org/ebooks/14431.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/14431",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 968
+  "downloadCount": 968,
+  "license": "Public Domain"
 }

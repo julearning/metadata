@@ -1,6 +1,6 @@
 {
   "title": "The Book of Religions: Comprising the Views, Creeds, Sentiments, or Opinions, of All the Principal Religious Sects in the World, Particularly of All Christian Denominations in Europe and America, to Which are Added Church and Missionary Statistics, Together With Biographical Sketches",
-  "url": "https://www.gutenberg.org/files/30323/30323-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/30323",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hayward, John",
-  "downloadCount": 782
+  "downloadCount": 782,
+  "license": "Public Domain"
 }

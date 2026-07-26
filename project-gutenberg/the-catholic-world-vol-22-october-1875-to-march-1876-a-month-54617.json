@@ -1,6 +1,6 @@
 {
   "title": "The Catholic World, Vol. 22, October, 1875, to March, 1876: A Monthly Magazine of General Literature and Science",
-  "url": "https://www.gutenberg.org/ebooks/54617.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/54617",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 848
+  "downloadCount": 848,
+  "license": "Public Domain"
 }

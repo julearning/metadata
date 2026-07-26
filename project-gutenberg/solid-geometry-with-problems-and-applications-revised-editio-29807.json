@@ -1,6 +1,6 @@
 {
   "title": "Solid Geometry with Problems and Applications (Revised edition)",
-  "url": "https://www.gutenberg.org/files/29807/29807-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/29807",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Lennes, N. J. (Nels Johann), Slaught, H. E. (Herbert Ellsworth)",
-  "downloadCount": 565
+  "downloadCount": 565,
+  "license": "Public Domain"
 }

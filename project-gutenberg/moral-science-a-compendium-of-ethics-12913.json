@@ -1,6 +1,6 @@
 {
   "title": "Moral Science; a Compendium of Ethics",
-  "url": "https://www.gutenberg.org/ebooks/12913.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/12913",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Bain, Alexander",
-  "downloadCount": 726
+  "downloadCount": 726,
+  "license": "Public Domain"
 }

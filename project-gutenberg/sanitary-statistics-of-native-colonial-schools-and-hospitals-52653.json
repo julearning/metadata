@@ -1,6 +1,6 @@
 {
   "title": "Sanitary Statistics of Native Colonial Schools and Hospitals",
-  "url": "https://www.gutenberg.org/ebooks/52653.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/52653",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Nightingale, Florence",
-  "downloadCount": 476
+  "downloadCount": 476,
+  "license": "Public Domain"
 }

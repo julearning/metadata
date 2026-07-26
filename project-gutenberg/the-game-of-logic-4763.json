@@ -1,6 +1,6 @@
 {
   "title": "The Game of Logic",
-  "url": "https://www.gutenberg.org/ebooks/4763.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/4763",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Carroll, Lewis",
-  "downloadCount": 1056
+  "downloadCount": 1056,
+  "license": "Public Domain"
 }

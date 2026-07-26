@@ -1,6 +1,6 @@
 {
   "title": "The Geological History of Plants",
-  "url": "https://www.gutenberg.org/ebooks/51021.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/51021",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Dawson, John William, Sir",
-  "downloadCount": 677
+  "downloadCount": 677,
+  "license": "Public Domain"
 }

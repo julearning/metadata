@@ -1,6 +1,6 @@
 {
   "title": "A Treatise on Mechanics",
-  "url": "https://www.gutenberg.org/ebooks/66078.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/66078",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Lardner, Dionysius, Kater, Henry",
-  "downloadCount": 766
+  "downloadCount": 766,
+  "license": "Public Domain"
 }

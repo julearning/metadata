@@ -1,6 +1,6 @@
 {
   "title": "The conscience of a Conservative",
-  "url": "https://www.gutenberg.org/ebooks/74319.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/74319",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Goldwater, Barry M. (Barry Morris)",
-  "downloadCount": 723
+  "downloadCount": 723,
+  "license": "Public Domain"
 }

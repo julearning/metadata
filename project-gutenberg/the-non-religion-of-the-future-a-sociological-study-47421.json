@@ -1,6 +1,6 @@
 {
   "title": "The Non-religion of the Future: A Sociological Study",
-  "url": "https://www.gutenberg.org/ebooks/47421.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/47421",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Guyau, Jean-Marie",
-  "downloadCount": 637
+  "downloadCount": 637,
+  "license": "Public Domain"
 }

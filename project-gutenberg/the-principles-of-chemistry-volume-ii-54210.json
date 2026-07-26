@@ -1,6 +1,6 @@
 {
   "title": "The Principles of Chemistry, Volume II",
-  "url": "https://www.gutenberg.org/ebooks/54210.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/54210",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Mendeleyev, Dmitry Ivanovich",
-  "downloadCount": 936
+  "downloadCount": 936,
+  "license": "Public Domain"
 }

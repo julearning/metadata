@@ -1,6 +1,6 @@
 {
   "title": "An Outline of Occult Science",
-  "url": "https://www.gutenberg.org/files/30718/30718-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/30718",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Steiner, Rudolf",
-  "downloadCount": 1069
+  "downloadCount": 1069,
+  "license": "Public Domain"
 }

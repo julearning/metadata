@@ -1,6 +1,6 @@
 {
   "title": "The number-system of algebra treated theoretically and historically (2nd edition)",
-  "url": "https://www.gutenberg.org/files/17920/17920-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/17920",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Fine, Henry B. (Henry Burchard)",
-  "downloadCount": 242
+  "downloadCount": 242,
+  "license": "Public Domain"
 }

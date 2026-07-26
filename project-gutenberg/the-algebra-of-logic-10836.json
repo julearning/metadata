@@ -1,6 +1,6 @@
 {
   "title": "The Algebra of Logic",
-  "url": "https://www.gutenberg.org/files/10836/10836-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/10836",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Couturat, Louis",
-  "downloadCount": 240
+  "downloadCount": 240,
+  "license": "Public Domain"
 }

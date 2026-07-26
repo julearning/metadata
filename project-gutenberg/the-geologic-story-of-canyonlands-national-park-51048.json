@@ -1,6 +1,6 @@
 {
   "title": "The Geologic Story of Canyonlands National Park",
-  "url": "https://www.gutenberg.org/ebooks/51048.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/51048",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Lohman, Stanley William",
-  "downloadCount": 623
+  "downloadCount": 623,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The Romance of Mathematics: Being the Original Researches of a Lady Professor of Girtham College in Polemical Science, with some Account of the Social Properties of a Conic; Equations to Brain Waves; Social Forces; and the Laws of Political Motion.",
-  "url": "https://www.gutenberg.org/ebooks/26481.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/26481",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Ditchfield, P. H. (Peter Hampson)",
-  "downloadCount": 2528
+  "downloadCount": 2528,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The Microscope. Its History, Construction, and Application 15th ed.: Being a familiar introduction to the use of the instrument, and the study of microscopical science",
-  "url": "https://www.gutenberg.org/ebooks/61233.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/61233",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hogg, Jabez",
-  "downloadCount": 923
+  "downloadCount": 923,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Tongues of Conscience",
-  "url": "https://www.gutenberg.org/ebooks/25986.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/25986",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hichens, Robert",
-  "downloadCount": 8387
+  "downloadCount": 8387,
+  "license": "Public Domain"
 }

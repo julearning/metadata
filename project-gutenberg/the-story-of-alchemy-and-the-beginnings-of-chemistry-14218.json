@@ -1,6 +1,6 @@
 {
   "title": "The Story of Alchemy and the Beginnings of Chemistry",
-  "url": "https://www.gutenberg.org/ebooks/14218.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/14218",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Muir, M. M. Pattison (Matthew Moncrieff Pattison)",
-  "downloadCount": 776
+  "downloadCount": 776,
+  "license": "Public Domain"
 }

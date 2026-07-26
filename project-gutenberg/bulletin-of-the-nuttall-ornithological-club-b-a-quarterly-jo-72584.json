@@ -1,6 +1,6 @@
 {
   "title": "Bulletin of the Nuttall Ornithological Club : $b A quarterly journal of ornithology, Volume VII (1882)",
-  "url": "https://www.gutenberg.org/ebooks/72584.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/72584",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Nuttall Ornithological Club",
-  "downloadCount": 971
+  "downloadCount": 971,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "The Florist and Horticultural Journal, Vol. II. No. 7, July, 1853: A Monthly Magazine of Horticulture, Agriculture, Botany, Agricultural Chemistry, Entomology, &c.",
-  "url": "https://www.gutenberg.org/ebooks/58276.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/58276",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 324
+  "downloadCount": 324,
+  "license": "Public Domain"
 }

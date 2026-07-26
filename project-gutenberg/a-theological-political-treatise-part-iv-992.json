@@ -1,6 +1,6 @@
 {
   "title": "A Theological-Political Treatise [Part IV]",
-  "url": "https://www.gutenberg.org/ebooks/992.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/992",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Spinoza, Benedictus de",
-  "downloadCount": 855
+  "downloadCount": 855,
+  "license": "Public Domain"
 }

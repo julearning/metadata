@@ -1,6 +1,6 @@
 {
   "title": "Isis unveiled, Volume 2 (of 2), Theology : $b A master-key to the mysteries of ancient and modern science and theology",
-  "url": "https://www.gutenberg.org/ebooks/75871.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/75871",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Blavatsky, H. P. (Helena Petrovna)",
-  "downloadCount": 1023
+  "downloadCount": 1023,
+  "license": "Public Domain"
 }

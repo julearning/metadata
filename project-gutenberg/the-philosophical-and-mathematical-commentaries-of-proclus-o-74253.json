@@ -1,6 +1,6 @@
 {
   "title": "The philosophical and mathematical commentaries of Proclus on the first book of Euclid's elements (Vol. 1 of 2) : $b To which are added, A history of the restoration of Platonic theology, by the latter Platonists: And a translation from the Greek of Proclus's Theological elements",
-  "url": "https://www.gutenberg.org/ebooks/74253.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/74253",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Proclus",
-  "downloadCount": 924
+  "downloadCount": 924,
+  "license": "Public Domain"
 }

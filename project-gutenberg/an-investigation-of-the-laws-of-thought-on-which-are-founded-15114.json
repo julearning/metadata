@@ -1,6 +1,6 @@
 {
   "title": "An Investigation of the Laws of Thought: On which are founded the mathematical theories of logic and probabilities",
-  "url": "https://www.gutenberg.org/files/15114/15114-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/15114",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Boole, George",
-  "downloadCount": 2915
+  "downloadCount": 2915,
+  "license": "Public Domain"
 }

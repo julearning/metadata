@@ -1,6 +1,6 @@
 {
   "title": "Scientific American, Vol. XXXIX.—No. 24. [New Series.], December 14, 1878: A Weekly Journal of Practical Information, Art, Science, Mechanics, Chemistry, and Manufactures",
-  "url": "https://www.gutenberg.org/ebooks/38480.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/38480",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 425
+  "downloadCount": 425,
+  "license": "Public Domain"
 }

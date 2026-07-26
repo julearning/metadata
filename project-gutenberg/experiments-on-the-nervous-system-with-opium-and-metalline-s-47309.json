@@ -1,6 +1,6 @@
 {
   "title": "Experiments on the Nervous System with Opium and Metalline Substances: Made Chiefly with the View of Determining the Nature and Effects of Animal Electricity",
-  "url": "https://www.gutenberg.org/ebooks/47309.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/47309",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Monro, Alexander",
-  "downloadCount": 303
+  "downloadCount": 303,
+  "license": "Public Domain"
 }

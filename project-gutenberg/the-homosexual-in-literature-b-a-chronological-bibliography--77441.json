@@ -1,6 +1,6 @@
 {
   "title": "The homosexual in literature : $b a chronological bibliography, circa 700 B.C.-1958",
-  "url": "https://www.gutenberg.org/ebooks/77441.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/77441",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Garde, Noel I.",
-  "downloadCount": 768
+  "downloadCount": 768,
+  "license": "Public Domain"
 }

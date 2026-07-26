@@ -1,6 +1,6 @@
 {
   "title": "A Review of Algebra",
-  "url": "https://www.gutenberg.org/ebooks/38536.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/38536",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Rivenburg, Romeyn Henry",
-  "downloadCount": 507
+  "downloadCount": 507,
+  "license": "Public Domain"
 }

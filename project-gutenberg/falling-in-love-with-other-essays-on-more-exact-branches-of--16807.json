@@ -1,6 +1,6 @@
 {
   "title": "Falling in Love; With Other Essays on More Exact Branches of Science",
-  "url": "https://www.gutenberg.org/ebooks/16807.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/16807",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Allen, Grant",
-  "downloadCount": 775
+  "downloadCount": 775,
+  "license": "Public Domain"
 }

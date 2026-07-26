@@ -1,6 +1,6 @@
 {
   "title": "Elementary Illustrations of the Differential and Integral Calculus",
-  "url": "https://www.gutenberg.org/files/39041/39041-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/39041",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "De Morgan, Augustus",
-  "downloadCount": 1804
+  "downloadCount": 1804,
+  "license": "Public Domain"
 }

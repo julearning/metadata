@@ -1,6 +1,6 @@
 {
   "title": "Scientific  American, Volume XXIV., No. 12,  March 18, 1871: A Weekly Journal of Practical Information, Art, Science,; Mechanics, Chemistry, and Manufactures.",
-  "url": "https://www.gutenberg.org/ebooks/19180.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/19180",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
-  "downloadCount": 652
+  "downloadCount": 652,
+  "license": "Public Domain"
 }

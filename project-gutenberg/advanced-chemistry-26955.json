@@ -1,6 +1,6 @@
 {
   "title": "Advanced Chemistry",
-  "url": "https://www.gutenberg.org/ebooks/26955.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/26955",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Huekels, Jack G.",
-  "downloadCount": 466
+  "downloadCount": 466,
+  "license": "Public Domain"
 }

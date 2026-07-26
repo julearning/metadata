@@ -1,6 +1,6 @@
 {
   "title": "The science of fairy tales : $b an inquiry into fairy mythology",
-  "url": "https://www.gutenberg.org/ebooks/24614.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/24614",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Hartland, Edwin Sidney",
-  "downloadCount": 924
+  "downloadCount": 924,
+  "license": "Public Domain"
 }

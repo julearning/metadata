@@ -1,6 +1,6 @@
 {
   "title": "An Introduction to Mathematics",
-  "url": "https://www.gutenberg.org/files/41568/41568-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/41568",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Whitehead, Alfred North",
-  "downloadCount": 1457
+  "downloadCount": 1457,
+  "license": "Public Domain"
 }

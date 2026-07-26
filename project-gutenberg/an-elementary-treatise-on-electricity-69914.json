@@ -1,6 +1,6 @@
 {
   "title": "An elementary treatise on electricity",
-  "url": "https://www.gutenberg.org/files/69914/69914.pdf",
+  "url": "https://www.gutenberg.org/ebooks/69914",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Maxwell, James Clerk",
-  "downloadCount": 293
+  "downloadCount": 293,
+  "license": "Public Domain"
 }

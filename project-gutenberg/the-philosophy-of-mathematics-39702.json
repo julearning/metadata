@@ -1,6 +1,6 @@
 {
   "title": "The philosophy of mathematics",
-  "url": "https://www.gutenberg.org/ebooks/39702.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/39702",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Comte, Auguste",
-  "downloadCount": 497
+  "downloadCount": 497,
+  "license": "Public Domain"
 }

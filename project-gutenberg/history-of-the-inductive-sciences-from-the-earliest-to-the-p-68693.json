@@ -1,6 +1,6 @@
 {
   "title": "History of the inductive sciences, from the earliest to the present time",
-  "url": "https://www.gutenberg.org/ebooks/68693.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/68693",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Whewell, William",
-  "downloadCount": 1039
+  "downloadCount": 1039,
+  "license": "Public Domain"
 }

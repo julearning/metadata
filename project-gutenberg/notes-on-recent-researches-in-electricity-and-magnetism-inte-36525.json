@@ -1,6 +1,6 @@
 {
   "title": "Notes on Recent Researches in Electricity and Magnetism: Intended as a Sequel to Professor Clerk-Maxwell's Treatise on Electricity and Magnetism",
-  "url": "https://www.gutenberg.org/files/36525/36525-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/36525",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Thomson, J. J. (Joseph John)",
-  "downloadCount": 158
+  "downloadCount": 158,
+  "license": "Public Domain"
 }

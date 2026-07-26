@@ -1,6 +1,6 @@
 {
   "title": "Old-Fashioned Ethics and Common-Sense Metaphysics: With Some of Their Applications",
-  "url": "https://www.gutenberg.org/ebooks/29917.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/29917",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Thornton, William Thomas",
-  "downloadCount": 508
+  "downloadCount": 508,
+  "license": "Public Domain"
 }

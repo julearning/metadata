@@ -1,6 +1,6 @@
 {
   "title": "Lectures on the Science of Language",
-  "url": "https://www.gutenberg.org/files/32856/32856-pdf.pdf",
+  "url": "https://www.gutenberg.org/ebooks/32856",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Müller, F. Max (Friedrich Max)",
-  "downloadCount": 1635
+  "downloadCount": 1635,
+  "license": "Public Domain"
 }

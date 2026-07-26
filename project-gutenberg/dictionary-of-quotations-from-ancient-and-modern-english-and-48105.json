@@ -1,6 +1,6 @@
 {
   "title": "Dictionary of Quotations from Ancient and Modern, English and Foreign Sources: Including Phrases, Mottoes, Maxims, Proverbs, Definitions, Aphorisms, and Sayings of Wise Men, in Their Bearing on Life, Literature, Speculation, Science, Art, Religion, and Morals, Especially in the Modern Aspects of Them",
-  "url": "https://www.gutenberg.org/ebooks/48105.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/48105",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Wood, James, Rev.",
-  "downloadCount": 4052
+  "downloadCount": 4052,
+  "license": "Public Domain"
 }

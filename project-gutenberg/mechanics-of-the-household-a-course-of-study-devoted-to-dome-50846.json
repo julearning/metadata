@@ -1,6 +1,6 @@
 {
   "title": "Mechanics of the Household: A Course of Study Devoted to Domestic Machinery and Household Mechanical Appliances",
-  "url": "https://www.gutenberg.org/ebooks/50846.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/50846",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Keene, E. S. (Edward Spencer)",
-  "downloadCount": 546
+  "downloadCount": 546,
+  "license": "Public Domain"
 }

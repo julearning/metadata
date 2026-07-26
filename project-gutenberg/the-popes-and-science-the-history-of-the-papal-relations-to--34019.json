@@ -1,6 +1,6 @@
 {
   "title": "The Popes and Science: The History of the Papal Relations to Science During the Middle Ages and Down to Our Own Time",
-  "url": "https://www.gutenberg.org/ebooks/34019.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/34019",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Walsh, James J. (James Joseph)",
-  "downloadCount": 791
+  "downloadCount": 791,
+  "license": "Public Domain"
 }

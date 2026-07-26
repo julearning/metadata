@@ -1,6 +1,6 @@
 {
   "title": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
-  "url": "https://www.gutenberg.org/ebooks/59.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/59",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Descartes, René",
-  "downloadCount": 6038
+  "downloadCount": 6038,
+  "license": "Public Domain"
 }

@@ -1,6 +1,6 @@
 {
   "title": "Taboo and genetics : $b A study of the biological, sociological and psychological foundation of the family",
-  "url": "https://www.gutenberg.org/ebooks/14325.epub3.images",
+  "url": "https://www.gutenberg.org/ebooks/14325",
   "tags": [
     "notes",
     "reference-book"
@@ -17,5 +17,6 @@
   "pages": 0,
   "source": "project-gutenberg",
   "author": "Knight, Melvin M. (Melvin Moses), Blanchard, Phyllis, Peters, Iva Lowther",
-  "downloadCount": 992
+  "downloadCount": 992,
+  "license": "Public Domain"
 }
