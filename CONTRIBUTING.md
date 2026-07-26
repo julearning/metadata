@@ -111,7 +111,35 @@ Name the file after the document title. Use lowercase with hyphens:
 | `reference-book` | Reference book / textbook |
 | `project-report` | Project report |
 
-## Getting the Drive file ID
+## Quick method: Bulk-generate from Google Drive
+
+If you have a folder of files on Google Drive, the fastest way is to use the **Drive automation tool** on the website.
+
+### Step 1: Get your Drive links
+
+1. Open your Google Drive folder in **List view** (View → List or press `Ctrl+Shift+6`)
+2. Install the [Google Drive Link Getter](https://chromewebstore.google.com/detail/Google%20Drive%20Link%20Getter/pcepfnopeaalfdibnbflpphaapbfoicl) Chrome extension
+3. Click the extension icon — it will list all files with their names and public URLs
+4. Copy the entire list (tab-separated: `FileName\tURL`)
+
+### Step 2: Generate JSON files
+
+1. Go to **julearning.vercel.app/automation/drive**
+2. Paste the copied list into the textarea
+3. Fill in default values (branch, semester, subject, contributor name, etc.)
+4. Click "Generate" and confirm
+5. Download each generated JSON file (or download all at once)
+
+### Step 3: Upload to this repo
+
+1. Drop each JSON file into the correct folder under `{Branch}/{Semester-N}/{Subject}/`
+2. Commit and open a pull request
+
+> The automation tool supports all Google URL formats: `/file/d/ID/view`, `/document/d/ID/edit`, `/spreadsheets/d/ID/edit`, `/presentation/d/ID/edit`. Videos and images are automatically skipped.
+
+---
+
+## Getting the Drive file ID (manual)
 
 1. Upload your file to Google Drive
 2. Set sharing to **"Anyone with the link"**
@@ -123,6 +151,18 @@ Name the file after the document title. Use lowercase with hyphens:
 5. In the `url` field, put the full link
 
 > **Tip**: You can also get a thumbnail preview automatically. The website converts your Drive link to a thumbnail at build time.
+
+---
+
+## Language notes
+
+This project is **language-agnostic**. Study materials in any language are welcome — English, Hindi, Urdu, Dogri, or mixed. Set the `language` field to the primary language of the document. If a document mixes multiple languages, use `"language": "mixed"` or the most dominant language.
+
+Examples:
+- Pure English → `"language": "English"`
+- Hindi notes → `"language": "Hindi"`
+- Mixed English + Hindi → `"language": "mixed"`
+- Regional language → `"language": "Dogri"` (or whatever applies)
 
 ## Reporting a broken link
 
