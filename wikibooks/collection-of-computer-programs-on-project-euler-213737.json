@@ -1,0 +1,19 @@
+{
+  "title": "Collection of Computer Programs on Project Euler",
+  "url": "https://en.wikibooks.org/wiki/Collection_of_Computer_Programs_on_Project_Euler",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This is a collection of \"solutions\" to \"Project Euler\" [1] problems using Mathematica and F# side by side. (HP48 calculator UserRPL is also added whenever possible)\nThe purpose is to demonstrate that these two languages can be very similar, though each bears its own accent, in solving computational ",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

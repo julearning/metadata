@@ -1,0 +1,19 @@
+{
+  "title": "WebObjects",
+  "url": "https://en.wikibooks.org/wiki/WebObjects",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "WO is a free Java framework for developing Internet applications. WO supports Rapid Application Development (RAD) of Ajax, web services, streaming media, file transfers, and many other web technologies. WO was originally developed by and for NeXT computers in the mid-1990's. Originally written in Ob",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

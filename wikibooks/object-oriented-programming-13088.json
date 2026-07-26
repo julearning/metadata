@@ -1,0 +1,19 @@
+{
+  "title": "Object Oriented Programming",
+  "url": "https://en.wikibooks.org/wiki/Object_Oriented_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Object-Oriented Programming (OOP) is a model of programming that uses Objects as representation of data and the data's properties. Objects can be defined as fields of data with unique properties, or attributes and methods (functions). At its heart, object-oriented programming is a mindset which resp",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

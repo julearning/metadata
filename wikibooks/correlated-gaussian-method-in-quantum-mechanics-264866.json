@@ -1,0 +1,19 @@
+{
+  "title": "Correlated Gaussian method in Quantum Mechanics",
+  "url": "https://en.wikibooks.org/wiki/Correlated_Gaussian_method_in_Quantum_Mechanics",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Engineering Physics",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Explicitly correlated Gaussian functions have been extensively used in quantum-mechanical variational calculations in atomic, molecular, and nuclear physics. This book is an attempt to collect the relevant information about this established tool in computational quantum mechanics.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

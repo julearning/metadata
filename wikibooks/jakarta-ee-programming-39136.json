@@ -1,0 +1,19 @@
+{
+  "title": "Jakarta EE Programming",
+  "url": "https://en.wikibooks.org/wiki/Jakarta_EE_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Jakarta EE was renamed from Java EE (Java Platform, Enterprise Edition) and J2EE (Java 2 Platform, Enterprise Edition). This book will describe how to build Jakarta EE based applications. The implementation is done with the help of XDoclet which simplifies the process of building an application.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

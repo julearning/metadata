@@ -1,0 +1,19 @@
+{
+  "title": "Windows Batch Scripting",
+  "url": "https://en.wikibooks.org/wiki/Windows_Batch_Scripting",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Operating Systems",
+  "branch": "CSE",
+  "semester": 4,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book describes and shows how to use the Microsoft-supplied command interpreter cmd.exe and the associated commands, and how to write Windows batch scripts for the interpreter. cmd.exe is the default interpreter on all Windows NT-based operating systems, including Windows XP, Windows 7 and Windo",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

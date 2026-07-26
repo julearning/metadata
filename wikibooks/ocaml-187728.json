@@ -1,0 +1,19 @@
+{
+  "title": "OCaml",
+  "url": "https://en.wikibooks.org/wiki/OCaml",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "OCaml is a powerful programming language from the functional programming family. Its main strengths are ease of use and type safety.\nThis book aims at being an introduction to functional programming with OCaml (or 'Objective Caml').\nFor learning more about the OCaml language and how it is linked to ",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

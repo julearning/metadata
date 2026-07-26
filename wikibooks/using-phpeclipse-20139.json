@@ -1,0 +1,19 @@
+{
+  "title": "Using PHPEclipse",
+  "url": "https://en.wikibooks.org/wiki/Using_PHPEclipse",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "PHPEclipse is a set of plug-ins for the Eclipse Framework which provide and integrated IDE for PHP developers. Eclipse, and PHPEclipse are written in Java, and will run on all graphical desktop environments. PHPEclipse is Open Source software, freely available under the Common Public Licence. This u",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

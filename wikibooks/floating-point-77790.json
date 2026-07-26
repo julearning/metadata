@@ -1,0 +1,19 @@
+{
+  "title": "Floating Point",
+  "url": "https://en.wikibooks.org/wiki/Floating_Point",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This wikibook discusses the IEEE 754 standard concerning floating-point numbers. Beginning chapters of this book focus on newcomers to the standard, who wish to understand and make use of floating point numbers, especially in a programming project. Later chapters of this book, however, focus more on",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

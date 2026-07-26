@@ -1,0 +1,19 @@
+{
+  "title": "Minix 3",
+  "url": "https://en.wikibooks.org/wiki/Minix_3",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Operating Systems",
+  "branch": "CSE",
+  "semester": 4,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "MINIX 3 is a new open-source operating system designed as highly reliable, flexible, and secure. It is loosely based somewhat on previous versions of MINIX, but is fundamentally different in many key ways. This is an attempt at creating a book about MINIX 3.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

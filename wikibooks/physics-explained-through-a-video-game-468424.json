@@ -1,0 +1,19 @@
+{
+  "title": "Physics Explained Through a Video Game",
+  "url": "https://en.wikibooks.org/wiki/Physics_Explained_Through_a_Video_Game",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Engineering Physics",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This textbook explains algebra-based high school leveled mechanical physics through Bonk.io, a multiplayer physics browser game that runs on the Box2D physics engine. Materials from this video game are used to explain real-world physics concepts.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

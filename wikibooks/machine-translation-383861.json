@@ -1,0 +1,19 @@
+{
+  "title": "Machine Translation",
+  "url": "https://en.wikibooks.org/wiki/Machine_Translation",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Data Structures & Algorithms",
+  "branch": "CSE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Machine translation (MT) is a discipline within Natural language processing (NLP) or more broadly Artificial intelligence (AI). It is one of the oldest computationals tasks: the first algorithms for MT were run on the first computers alongside with algorithms for cryptography and physical simulation",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

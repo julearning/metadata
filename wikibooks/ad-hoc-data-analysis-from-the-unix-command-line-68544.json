@@ -1,0 +1,19 @@
+{
+  "title": "Ad Hoc Data Analysis From The Unix Command Line",
+  "url": "https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Database Management Systems",
+  "branch": "CSE",
+  "semester": 4,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Once upon a time, I was working with a colleague who needed to do some quick data analysis to get a handle on the scope of a problem. He was considering importing the data into a database or writing a program to parse and summarize that data. Either of these options would have taken hours at least, ",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

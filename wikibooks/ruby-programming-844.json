@@ -1,0 +1,19 @@
+{
+  "title": "Ruby Programming",
+  "url": "https://en.wikibooks.org/wiki/Ruby_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Ruby is an interpreted, object-oriented programming language. Its creator, Yukihiro Matsumoto, aka “Matz”, released it to the public in 1995.  Its history is covered here.  Its many features are listed here.\nThe book is currently broken down into several sections and is intended to be read sequentia",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

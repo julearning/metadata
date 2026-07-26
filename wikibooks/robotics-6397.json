@@ -1,0 +1,19 @@
+{
+  "title": "Robotics",
+  "url": "https://en.wikibooks.org/wiki/Robotics",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Electronic Devices & Circuits",
+  "branch": "ECE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Robotics brings together several very different engineering areas and skills. There is metalworking for the body. There is mechanics for mounting the wheels on the axles, connecting them to the motors and keeping the body in balance. You need electronics to power the motors and connect the sensors t",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

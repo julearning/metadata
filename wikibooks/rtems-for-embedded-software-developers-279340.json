@@ -1,0 +1,19 @@
+{
+  "title": "RTEMS for Embedded Software Developers",
+  "url": "https://en.wikibooks.org/wiki/RTEMS_for_Embedded_Software_Developers",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Operating Systems",
+  "branch": "CSE",
+  "semester": 4,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "RTEMS (Real-Time Executive for Multiprocessor Systems) is a real-time operating system (RTOS) designed for embedded systems.\nThe long term goal of this book is to instruct the reader in:\n\nGetting Started (Getting to \"Hello World\") \nGetting the cross-toolset\nBuilding RTEMS\nRunning RTEMS\nContributing ",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Scribunto: An Introduction",
+  "url": "https://en.wikibooks.org/wiki/Scribunto%3A_An_Introduction",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Scribunto: An Introduction is a book for people who want to learn how to program using Scribunto. Scribunto enables users to embed the Lua programming language into wikis that use MediaWiki, the software that powers Wikipedia. This book covers how to get started, basic programming techniques, and ho",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

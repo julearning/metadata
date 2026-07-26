@@ -1,0 +1,19 @@
+{
+  "title": "PyKDE Programming",
+  "url": "https://en.wikibooks.org/wiki/PyKDE_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book introduces its readers to the KDE functions that can be accessed through the pyKDE package and how to create QT based user interfaces within the KDE environment. The reading requires a basic understanding of programming in python.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Shell Programming",
+  "url": "https://en.wikibooks.org/wiki/Shell_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book has an unclear focus but seems to be about Unix shell programming, prossibly of sh shell.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

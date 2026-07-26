@@ -1,0 +1,19 @@
+{
+  "title": "Data Structures",
+  "url": "https://en.wikibooks.org/wiki/Data_Structures",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Data Structures & Algorithms",
+  "branch": "CSE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book is about the creation and analysis of efficient data structures. It covers:\n\nthe primitive node structure;\nasymptotic notation for mathematically discussing performance characteristics;\nbuilt-in arrays;\nlist structures built from either nodes or arrays;\niterators as an abstract model of en",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

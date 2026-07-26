@@ -1,0 +1,19 @@
+{
+  "title": "General Ring Theory",
+  "url": "https://en.wikibooks.org/wiki/General_Ring_Theory",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Ring extensions\nIntegral elements and extensions\nIdeals and multiplicatively closed sets\nGreatest common divisors\nPrincipal ideals\nPrime ideals\nNoetherian rings\nKähler differentials",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Octave Programming Tutorial",
+  "url": "https://en.wikibooks.org/wiki/Octave_Programming_Tutorial",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "As per Octave website, \"Octave is a high-level language, primarily intended for numerical computations. It provides a convenient command line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that is mostly compatible wit",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

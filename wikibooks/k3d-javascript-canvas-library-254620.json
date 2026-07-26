@@ -1,0 +1,19 @@
+{
+  "title": "K3D JavaScript Canvas Library",
+  "url": "https://en.wikibooks.org/wiki/K3D_JavaScript_Canvas_Library",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The canvas K3D JavaScript programming library supports points, wireframes and polygons with depth-cue shading, simple animation with motion blur and texture mapping with a basic lighting model in three dimensions using HTML5 graphics. It does not require WebGL so it runs on most 2011 browsers includ",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

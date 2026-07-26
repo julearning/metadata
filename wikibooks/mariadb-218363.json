@@ -1,0 +1,19 @@
+{
+  "title": "MariaDB",
+  "url": "https://en.wikibooks.org/wiki/MariaDB",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Database Management Systems",
+  "branch": "CSE",
+  "semester": 4,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "MariaDB is a fork of MySQL. When MySQL was bought by Oracle, the original author of MySQL decided to start a new branch, which will always be Free Software and open to the contributions of the community.\nThe purpose of this book is to provide a user-friendly community-contributed manual for MariaDB.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

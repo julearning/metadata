@@ -1,0 +1,19 @@
+{
+  "title": "Harvard Chart Method",
+  "url": "https://en.wikibooks.org/wiki/Harvard_Chart_Method",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Electronic Devices & Circuits",
+  "branch": "ECE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Harvard Chart Method of Logical Equation Reduction was developed to address the need to automate the process of logical equation reduction in the early days of computer hardware and switching circuit development. Large scale production of computer circuitry entailed many more variables than could be",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

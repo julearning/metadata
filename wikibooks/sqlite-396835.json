@@ -1,0 +1,19 @@
+{
+  "title": "SQLite",
+  "url": "https://en.wikibooks.org/wiki/SQLite",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "SQLite is a relational database management system contained in a C programming library. In contrast to many other database management systems, SQLite is not a client–server database engine. Rather, it is embedded into the end program.\nSQLite is ACID-compliant and implements most of the SQL standard,",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

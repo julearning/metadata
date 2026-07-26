@@ -1,0 +1,19 @@
+{
+  "title": "ATS: Programming with Theorem-Proving",
+  "url": "https://en.wikibooks.org/wiki/ATS%3A_Programming_with_Theorem-Proving",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "ATS is a programming language that unifies specification and implementation. It is equipped with a highly expressive type system rooted in the framework Applied Type System, which also gives the language its name. In ATS, a variety of programming paradigms are supported, including functional program",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

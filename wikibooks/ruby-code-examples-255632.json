@@ -1,0 +1,19 @@
+{
+  "title": "Ruby Code Examples",
+  "url": "https://en.wikibooks.org/wiki/Ruby_Code_Examples",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This page illustrates the Ruby Code Examples, in a straight way than to lengthy explanations, this can be used like an immediate reference for both syntax and programming ideas. Concise methods attempting a problem with a pragmatic approach are also discussed.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

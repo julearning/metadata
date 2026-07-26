@@ -1,0 +1,19 @@
+{
+  "title": "PostgreSQL",
+  "url": "https://en.wikibooks.org/wiki/PostgreSQL",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Database Management Systems",
+  "branch": "CSE",
+  "semester": 4,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "PostgreSQL (or Postgres for short) is an open-source relational database management systems (RDBMS). The purpose of the wikibook on hand is an introduction to PostgreSQL's capabilities, architecture, installing procedure, maintenance, and optimization tasks. Such aspects differ greatly from RDBMS to",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

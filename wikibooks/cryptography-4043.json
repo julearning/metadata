@@ -1,0 +1,19 @@
+{
+  "title": "Cryptography",
+  "url": "https://en.wikibooks.org/wiki/Cryptography",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Computer Security",
+  "branch": "CSE",
+  "semester": 6,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Part I: Introducing Cryptography\n\nIntroduction to Cryptography\nHistory of Cryptography\nClassical Cryptography\nContemporary Cryptography\nCryptography in Popular Culture\nQuantum Cryptography\nTimeline of Notable Events\nFundamental Concepts\nGoals of Cryptography\nGoals of Cryptanalysis\nRole of Cryptograp",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

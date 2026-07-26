@@ -1,0 +1,19 @@
+{
+  "title": "Blender 3D: Blending Into Python",
+  "url": "https://en.wikibooks.org/wiki/Blender_3D%3A_Blending_Into_Python",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This is the start of a Blender/Python manual. At the moment the most useful areas are the optimization guide and the cookbook.\nPython is high-level, easy to learn scripting language, that can be applied to various aspects of Blender, and MANY other things. For an introduction, download it. Then goog",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

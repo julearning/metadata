@@ -1,0 +1,19 @@
+{
+  "title": "Lua Functional Programming",
+  "url": "https://en.wikibooks.org/wiki/Lua_Functional_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book is about the Lua programming language, inspired by and based on Paul Graham's work On Lisp. You should be familiar with the Lua language. Familiarity with the Lisp language is recommended but not required (I'm not too familiar with it myself but I've read introductory tutorials before and ",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

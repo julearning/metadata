@@ -1,0 +1,19 @@
+{
+  "title": "Application Development with Harbour",
+  "url": "https://en.wikibooks.org/wiki/Application_Development_with_Harbour",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Operating Systems",
+  "branch": "CSE",
+  "semester": 4,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Cross platform application development is a challenging task. Many script languages are designed to run on interpreters that are available for many operating systems. The harbour-project has a different approach. It is capable of compiling native applications for many operating systems like MS-DOS, ",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

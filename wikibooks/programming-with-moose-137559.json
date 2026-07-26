@@ -1,0 +1,19 @@
+{
+  "title": "Programming with Moose",
+  "url": "https://en.wikibooks.org/wiki/Programming_with_Moose",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Moose is a distribution (set of modules), that constitute a new framework for Perl 5. It addresses many of the criticisms about Perl's object orientation (OO) implementation, and brings new light to crufty old perl syntax.\nMoose was created by Stevan Little, the author of countless modules both usef",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

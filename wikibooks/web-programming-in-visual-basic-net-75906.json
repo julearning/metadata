@@ -1,0 +1,19 @@
+{
+  "title": "Web Programming in Visual Basic .NET",
+  "url": "https://en.wikibooks.org/wiki/Web_Programming_in_Visual_Basic_.NET",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Web Browsing functionality is available in the .Net Framework Class Library. In this article we will look at techniques for loading and manipulating web pages using Visual Basic .Net. You will need Microsoft Visual Basic .Net 2005 to use the example code.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

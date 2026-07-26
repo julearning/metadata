@@ -1,0 +1,19 @@
+{
+  "title": "FPI Script",
+  "url": "https://en.wikibooks.org/wiki/FPI_Script",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Machine Learning",
+  "branch": "CSE",
+  "semester": 6,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The FPI scripting language is a simple trigger-based artificial intelligence language used to program objects in games. It consist of a simple if/then syntax and a pre-defined list of conditional statements and commands.\n\ncondition,[second condition(optional)]:action,[second action(optional)]\nThe st",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

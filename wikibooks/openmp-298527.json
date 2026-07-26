@@ -1,0 +1,19 @@
+{
+  "title": "OpenMP",
+  "url": "https://en.wikibooks.org/wiki/OpenMP",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Welcome to the Wikibook Parallel Programming with OpenMP! This short book serves as a tutorial for the OpenMP framework for parallel programming, using the C programming language. It discusses how to easily create parallel programs in C, or add parallel constructs to existing sequential code to make",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "FLTK",
+  "url": "https://en.wikibooks.org/wiki/FLTK",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Thermodynamics",
+  "branch": "ME",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "FLTK ( http://www.fltk.org/ ) is a cross-platform application framework that natively supports OpenGL. It's lightweight, can be statically linked, and comes with a graphical GUI designer named FLUID.\nThis book is about FLTK 2.0 which is still under development. The current stable version (1.0) alrea",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Z80 Assembly",
+  "url": "https://en.wikibooks.org/wiki/Z80_Assembly",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Digital Logic & Design",
+  "branch": "CSE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The Zilog Z80 is an 8-bit processor that was used in a wide range of personal computers, and continues to be used in embedded devices to this day. Notable uses include:\n\nthe Amstrad CPC series of computers,\nthe MSX computer architecture,\nthe NEC PC-6000 and PC-8800 series of computers,\nthe Radio Sha",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

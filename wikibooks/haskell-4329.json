@@ -1,0 +1,19 @@
+{
+  "title": "Haskell",
+  "url": "https://en.wikibooks.org/wiki/Haskell",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Haskell is a functional programming language. It is distinct in a few ways:\n\nHaskell is pure. A function when invoked using the same arguments will return the same result every time.\nHaskell is lazy. Evaluations are performed only when needed.\nHaskell provides a modern type system with state-of-the-",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

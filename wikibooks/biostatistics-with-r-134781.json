@@ -1,0 +1,19 @@
+{
+  "title": "Biostatistics with R",
+  "url": "https://en.wikibooks.org/wiki/Biostatistics_with_R",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Probability & Statistics",
+  "branch": "CSE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Wayne W. Daniel's Biostatistics (ISBN: 9780471456544) is a standard textbook for a lot of Biostatistics courses around the world. Similar to other books on similar topics, the examples of statistical computing given in Daniel's book haven't cover R. (Even it gives the examples in MINITAB, SAS and SP",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

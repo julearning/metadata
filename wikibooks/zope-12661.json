@@ -1,0 +1,19 @@
+{
+  "title": "Zope",
+  "url": "https://en.wikibooks.org/wiki/Zope",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Zope is an open source web server built on top of Python. It is most commonly used for the content management systems Plone and CPS and the enterprise resource planning system ERP5. This textbook will help you install and operate a Zope server.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

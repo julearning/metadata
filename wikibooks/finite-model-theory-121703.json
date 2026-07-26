@@ -1,0 +1,19 @@
+{
+  "title": "Finite Model Theory",
+  "url": "https://en.wikibooks.org/wiki/Finite_Model_Theory",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Finite Model Theory (FMT) is a subarea of Model Theory (MT). MT is the branch of mathematical logic which deals with the relation between a formal language (syntax) and its interpretations (semantics).  FMT is a restriction of MT to finite structures, such as finite graphs or strings.  Since many ce",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

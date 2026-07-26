@@ -1,0 +1,19 @@
+{
+  "title": "Vala Programming",
+  "url": "https://en.wikibooks.org/wiki/Vala_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Vala is a new programming language that aims to bring modern programming language features to GNOME developers without imposing any additional runtime requirements or different Application Binary Intefaces (ABIs) compared to applications and libraries written in C.\nThis book aims to be a complete gu",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "EQUIP4J",
+  "url": "https://en.wikibooks.org/wiki/EQUIP4J",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This is the tutorial for Equip4j. In a few words equip4j implements (and not only) the concept of dataspace. A dataspace may be interpreted as a middleware solution for distributed computing.\nEquip4j is a Java library developed for the Equator project (http://www.equator.ac.uk/). The source code can",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

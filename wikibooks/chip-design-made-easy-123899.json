@@ -1,0 +1,19 @@
+{
+  "title": "Chip Design Made Easy",
+  "url": "https://en.wikibooks.org/wiki/Chip_Design_Made_Easy",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Electronic Devices & Circuits",
+  "branch": "ECE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "In this book Chip Design we tell how to build an integrated circuit (\"chip\") by integrating billions of transistors to achieve an application. An application could be suiting a particular requirement like microprocessor, router, cell phone,etc. An integrated circuit designed for a specific applicati",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

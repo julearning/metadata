@@ -1,0 +1,19 @@
+{
+  "title": "Programming in 1L a",
+  "url": "https://en.wikibooks.org/wiki/Programming_in_1L_a",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Programming in the minimal two-dimensional esoteric programming language 1L_a is pretty difficult, as there are only a few instructions. However, using some creative strategy, 1L_a has been proved to be Turing-Complete.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

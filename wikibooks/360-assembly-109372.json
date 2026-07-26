@@ -1,0 +1,19 @@
+{
+  "title": "360 Assembly",
+  "url": "https://en.wikibooks.org/wiki/360_Assembly",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book is about assembly language programming for the Fujitsu BS2000 Mainframe and the IBM 360, 370, ESA/390, 93xx and z/System family of mainframe computers.  The same assembly language was also used on the Univac 90/60, 90/70, and 90/80 mainframes. The machines generally provided upward compati",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

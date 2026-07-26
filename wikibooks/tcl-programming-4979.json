@@ -1,0 +1,19 @@
+{
+  "title": "Tcl Programming",
+  "url": "https://en.wikibooks.org/wiki/Tcl_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Tcl (Tool Command Language) is a dynamic programming/scripting language based on concepts of Lisp, C, and Unix shells. It can be used interactively, or by running scripts (programs) which can use a package system for structuring, hence allowing to do much with little code. Tcl is available for Linux",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

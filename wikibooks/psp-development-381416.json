@@ -1,0 +1,19 @@
+{
+  "title": "PSP Development",
+  "url": "https://en.wikibooks.org/wiki/PSP_Development",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This Wikibook goes over the different aspects of programming for the PlayStation Portable (PSP). Everything from getting started, to utilizing the default libraries for the PSP hardware infrastructure is included. Everything is based on PSPDEV. Please read Getting the Tools for insight on getting PS",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

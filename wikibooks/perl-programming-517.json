@@ -1,0 +1,19 @@
+{
+  "title": "Perl Programming",
+  "url": "https://en.wikibooks.org/wiki/Perl_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "These books describe and explain Perl, a high-level, general-purpose, interpreted, dynamic programming language. Perl is noted for its idiomatically rich syntax, its extensive use of regular expressions and the large module archive CPAN.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

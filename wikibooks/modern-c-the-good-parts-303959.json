@@ -1,0 +1,19 @@
+{
+  "title": "Modern C++: The Good Parts",
+  "url": "https://en.wikibooks.org/wiki/Modern_C%2B%2B%3A_The_Good_Parts",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Many tutorials for C++ are targeted to C++ as it was standardized in 2003 (C++03) or earlier. Recent progress has produced C++11 and now C++14, and these newer versions have improved the level of simplicity and readability that is feasible for beginners. Many of these improvements supplant older fea",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

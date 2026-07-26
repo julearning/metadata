@@ -1,0 +1,19 @@
+{
+  "title": "Scala",
+  "url": "https://en.wikibooks.org/wiki/Scala",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Scala is a general-purpose language designed to support clear, concise and type-safe programming as well as to scale from the smallest applications to the biggest. It does so by providing a sophisticated type system, a concise and flexible syntax supporting internal DSLs, and an integration of the f",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

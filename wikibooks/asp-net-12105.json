@@ -1,0 +1,19 @@
+{
+  "title": "ASP.NET",
+  "url": "https://en.wikibooks.org/wiki/ASP.NET",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "ASP.NET is a web programming platform developed by Microsoft.  It is the successor to Active Server Pages.  The term \"classic ASP\" is often used to distinguish previous versions of Active Server Pages with the .NET (pronounced \"dot net\") versions.  \nThis wikibook is an introduction to ASP.NET.  It a",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

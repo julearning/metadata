@@ -1,0 +1,19 @@
+{
+  "title": "Algorithm Implementation",
+  "url": "https://en.wikibooks.org/wiki/Algorithm_Implementation",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The purpose of this wikibook is to show how common algorithms are written in various programming languages, providing code implementations and explanation.\nThe plan for this book is initially to collect code from some Wikipedia articles.  Then the code can be expanded upon, perfected, and heavily co",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

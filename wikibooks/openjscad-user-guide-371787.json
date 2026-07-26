@@ -1,0 +1,19 @@
+{
+  "title": "OpenJSCAD User Guide",
+  "url": "https://en.wikibooks.org/wiki/OpenJSCAD_User_Guide",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Welcome to OpenJSCAD User and Programming Guide.\n\nJust for sake of providing context, OpenJSCAD.org is built on OpenJsCad (Github), which itself was inspired by OpenSCAD.org, and essentially provides a programmers approach to develop 3D models. In particular, this enhancement is tuned towards creati",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

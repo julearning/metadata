@@ -1,0 +1,19 @@
+{
+  "title": "Semiconductors",
+  "url": "https://en.wikibooks.org/wiki/Semiconductors",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Electronic Devices & Circuits",
+  "branch": "ECE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book is an introductory text on semiconductors. This book discusses the theoretical basis for semiconductors, and shows some examples of how semiconductors are used. Later chapters show some of the ways diodes and transistors are used both in digital circuits, and in analog circuits.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

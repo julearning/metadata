@@ -1,0 +1,19 @@
+{
+  "title": "Forth",
+  "url": "https://en.wikibooks.org/wiki/Forth",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The Forth language is a stack-based language designed for rapid interactive programming in limited-resource environments. Forth is interesting because it can be simple and small, yet it allows for remarkably powerful extensions to be written in Forth itself; most fully-fledged Forth systems are impl",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

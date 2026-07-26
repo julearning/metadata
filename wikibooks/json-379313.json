@@ -1,0 +1,19 @@
+{
+  "title": "JSON",
+  "url": "https://en.wikibooks.org/wiki/JSON",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "JSON or JavaScript Object Notation is an open-standard format for data exchange. It is used for mainly web applications to exchange data with the end-user's browser on-the-fly.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

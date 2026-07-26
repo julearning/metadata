@@ -1,0 +1,19 @@
+{
+  "title": "Type-oriented programming",
+  "url": "https://en.wikibooks.org/wiki/Type-oriented_programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Type-oriented programming is a paradigm spanning both object-oriented and functional approaches to writing statically typed code. Most programming languages in this category make extensive use of subtyping and parametric polymorphism.\nThis material introduces the basic concepts, most of them known f",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

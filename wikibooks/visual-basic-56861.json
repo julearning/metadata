@@ -1,0 +1,19 @@
+{
+  "title": "Visual Basic",
+  "url": "https://en.wikibooks.org/wiki/Visual_Basic",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book is written from a Visual Basic 6.0 perspective although much of what is said is also valid for Visual Basic 5.0 and Visual Basic 4.0. It does not cover VB.NET, a rather different language. It covers many different techniques and topics including object oriented programming, optimization of",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

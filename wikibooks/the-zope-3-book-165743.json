@@ -1,0 +1,19 @@
+{
+  "title": "The Zope 3 Book",
+  "url": "https://en.wikibooks.org/wiki/The_Zope_3_Book",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book is about Zope 3, a Python framework for web application development.  Zope 3 was developed by the Zope community with the leadership of Jim Fulton, the creator of original Zope.  Zope 3 consists of a number of small frameworks and libraries written in Python programming language and it is ",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

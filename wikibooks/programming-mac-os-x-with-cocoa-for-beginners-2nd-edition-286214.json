@@ -1,0 +1,19 @@
+{
+  "title": "Programming Mac OS X with Cocoa for Beginners 2nd Edition",
+  "url": "https://en.wikibooks.org/wiki/Programming_Mac_OS_X_with_Cocoa_for_Beginners_2nd_Edition",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book aims to provide beginners with an introduction to the programming of Mac OS X Apps using Cocoa, and XCode, the free developer tools provided by Apple, Inc. Examples of Mac apps are: iTunes, Safari, Mail, iCal, Address Book, Microsoft Word, Microsoft Excel, etc.  Using Objective-C, Cocoa an",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

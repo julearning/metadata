@@ -1,0 +1,19 @@
+{
+  "title": "Programming HP Calculators",
+  "url": "https://en.wikibooks.org/wiki/Programming_HP_Calculators",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Note: Everything mentioned in this manual should work with all Hewlett Packard graphical calculators unless otherwise stated, however this manual has only been tested for commands and variables compatible with the 38g series of calculators.\nThis book does not work with HP 28 or HP 48 series graphica",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Curl",
+  "url": "https://en.wikibooks.org/wiki/Curl",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Curl is a language for creating web documents with almost any sort of content, from simple formatted text to complex interactive applets.\nThe goal of Curl is to provide a smoother transition between formatting and programming.\nCurl, the programming language, is often confused with cURL.\nThe cURL ope",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

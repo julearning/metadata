@@ -1,0 +1,19 @@
+{
+  "title": "D Programming",
+  "url": "https://en.wikibooks.org/wiki/D_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The goal for this book is to create a complete, free, open-content, well-organized online book for the D programming language.\nD is a programming language being designed as a successor to C++.  Until this page gets better written and more informative, the D home can be found here.",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

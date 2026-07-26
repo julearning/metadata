@@ -1,0 +1,19 @@
+{
+  "title": "Linoleum",
+  "url": "https://en.wikibooks.org/wiki/Linoleum",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "L.In.O.L.E.U.M. (also called Linoleum or Lino) is a programming language developed by Alessandro Ghignola. It is an assembler, easier than native assembly, and twice as fast as C/C++. Uniquely it is designed to be recompilable across CPUs.\nCompilers are free. Versions exist for Linux and Windows, al",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

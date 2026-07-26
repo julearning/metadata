@@ -1,0 +1,19 @@
+{
+  "title": "MySQL",
+  "url": "https://en.wikibooks.org/wiki/MySQL",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Database Management Systems",
+  "branch": "CSE",
+  "semester": 4,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "MySQL is a free, widely used SQL engine. It can be used as a fast database as well as a rock-solid DBMS using a modular engine architecture.\nThe purpose of this wikibook is to provide a practical knowledge on using the database from two points of view:\n\napplication developer: learn about SQL basics,",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

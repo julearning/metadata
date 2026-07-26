@@ -1,0 +1,19 @@
+{
+  "title": "Mathematica",
+  "url": "https://en.wikibooks.org/wiki/Mathematica",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Probability & Statistics",
+  "branch": "CSE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Mathematica is a powerful technical programming language developed by Wolfram Research. It encompases computer algebra, numerical computation, visualization and statistics capabilities.\nIt can be used on all kinds of mathematical analysis, from simple plotting to signal processing. The aim of this w",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "OpenGL Programming",
+  "url": "https://en.wikibooks.org/wiki/OpenGL_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Welcome to the OpenGL Programming book. OpenGL is an API used for drawing 3D graphics. OpenGL is not a programming language; an OpenGL application is typically written in C or C++. What OpenGL does allow you to do is draw attractive, realistic 3D graphics with minimal effort. The API is typically us",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

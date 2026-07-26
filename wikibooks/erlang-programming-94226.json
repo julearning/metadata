@@ -1,0 +1,19 @@
+{
+  "title": "Erlang Programming",
+  "url": "https://en.wikibooks.org/wiki/Erlang_Programming",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Erlang is a general purpose, concurrency-oriented functional programming language suited for fault-tolerant, distributed, soft real-time systems. It features strong dynamic typing, lightweight concurrency, eager evaluation and prolog like pattern matching. Erlang was developed in the 1980s at the Er",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

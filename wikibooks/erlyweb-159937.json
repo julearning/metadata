@@ -1,0 +1,19 @@
+{
+  "title": "ErlyWeb",
+  "url": "https://en.wikibooks.org/wiki/ErlyWeb",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Erlyweb is an open-source web application framework written in Erlang and released under the GPL. ErlyWeb was created by Yariv Sadan. It builds upon Yariv's earlier modules that he created for Erlang: Smerl (Simple Metaprogramming for Erlang), ErlyDB (a database abstraction layer for Erlang), and Er",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

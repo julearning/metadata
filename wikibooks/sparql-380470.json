@@ -1,0 +1,19 @@
+{
+  "title": "SPARQL",
+  "url": "https://en.wikibooks.org/wiki/SPARQL",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Database Management Systems",
+  "branch": "CSE",
+  "semester": 4,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "SPARQL (pronounced \"sparkle\", acronym for SPARQL Protocol And RDF Query Language) is an RDF query language, that is, a semantic query language for databases. With SPARQL you can extract any kind of data, with a query composed of logical combinations of triples.\nWikidata provides an SPARQL endpoint i",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

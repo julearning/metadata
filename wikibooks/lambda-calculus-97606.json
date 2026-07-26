@@ -1,0 +1,19 @@
+{
+  "title": "Lambda Calculus",
+  "url": "https://en.wikibooks.org/wiki/Lambda_Calculus",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Lambda Calculus is a theory of computable functions, i.e. a formal system which formalize the abstract notion of computable functions. This calculus was developed by Alonzo Church in the 1930s at the same time which other researchers developed other models of computation which later were proved to b",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}

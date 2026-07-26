@@ -1,0 +1,19 @@
+{
+  "title": "Set Theory",
+  "url": "https://en.wikibooks.org/wiki/Set_Theory",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Set Theory is the study of sets. Essentially, a set is a collection of mathematical objects. Set Theory forms the foundation of all of mathematics.\nIn Naive Set Theory, there is an axiom which is known as the unrestricted comprehension schema axiom. It states that there exists a set \n  \n    \n      \n",
+  "language": "English",
+  "pages": 0,
+  "source": "wikibooks"
+}
