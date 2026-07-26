@@ -72,6 +72,19 @@ jobs:
                 https://*) ;;
                 *) echo "❌ $file doc $((i+1)): url must start with https"; exit 1 ;;
               esac
+              # Validate thumbnailUrl if present
+              THUMB=$(jq -r ".[$i].thumbnailUrl // empty" "$file")
+              if [ -n "$THUMB" ]; then
+                case "$THUMB" in
+                  https://*) ;;
+                  *) echo "❌ $file doc $((i+1)): thumbnailUrl must start with https if provided"; exit 1 ;;
+                esac
+              fi
+              # Validate source (informal — may be missing, which is fine)
+              SOURCE="${file%%/*}"
+              if [ "$SOURCE" != "jammu-university" ] && [ "$SOURCE" != "wikibooks" ] && [ "$SOURCE" != "bulk" ]; then
+                echo "  (non-standard source: $SOURCE — accepted)"
+              fi
             done
 
             echo "✅ $file: $COUNT valid document(s)"

@@ -1,0 +1,332 @@
+[
+  {
+    "title": "C Programming",
+    "description": "A comprehensive guide to programming in C, covering basics to advanced topics.",
+    "url": "https://en.wikibooks.org/wiki/C_Programming"
+  },
+  {
+    "title": "C++ Programming",
+    "description": "Complete guide to C++ programming including OOP, STL, and modern C++ features.",
+    "url": "https://en.wikibooks.org/wiki/C%2B%2B_Programming"
+  },
+  {
+    "title": "Java Programming",
+    "description": "Learn Java from fundamentals to advanced topics including Swing and networking.",
+    "url": "https://en.wikibooks.org/wiki/Java_Programming"
+  },
+  {
+    "title": "Python Programming",
+    "description": "A comprehensive introduction to Python programming language and its applications.",
+    "url": "https://en.wikibooks.org/wiki/Python_Programming"
+  },
+  {
+    "title": "JavaScript",
+    "description": "Client-side and server-side JavaScript programming guide.",
+    "url": "https://en.wikibooks.org/wiki/JavaScript"
+  },
+  {
+    "title": "Data Structures",
+    "description": "Implementation and analysis of fundamental data structures and algorithms.",
+    "url": "https://en.wikibooks.org/wiki/Data_Structures"
+  },
+  {
+    "title": "Algorithm Implementation",
+    "description": "Practical implementation of common algorithms in multiple programming languages.",
+    "url": "https://en.wikibooks.org/wiki/Algorithm_Implementation"
+  },
+  {
+    "title": "Linear Algebra",
+    "description": "Vectors, matrices, linear transformations, and applications in engineering.",
+    "url": "https://en.wikibooks.org/wiki/Linear_Algebra"
+  },
+  {
+    "title": "Calculus",
+    "description": "Differential and integral calculus with engineering applications.",
+    "url": "https://en.wikibooks.org/wiki/Calculus"
+  },
+  {
+    "title": "Discrete Mathematics",
+    "description": "Logic, set theory, combinatorics, graph theory for computer science.",
+    "url": "https://en.wikibooks.org/wiki/Discrete_Mathematics"
+  },
+  {
+    "title": "Statistics",
+    "description": "Probability theory, statistical inference, and data analysis methods.",
+    "url": "https://en.wikibooks.org/wiki/Statistics"
+  },
+  {
+    "title": "Ordinary Differential Equations",
+    "description": "Solution methods for ODEs with engineering applications.",
+    "url": "https://en.wikibooks.org/wiki/Ordinary_Differential_Equations"
+  },
+  {
+    "title": "Partial Differential Equations",
+    "description": "PDE solution techniques for engineering and physics problems.",
+    "url": "https://en.wikibooks.org/wiki/Partial_Differential_Equations"
+  },
+  {
+    "title": "Numerical Methods",
+    "description": "Computational methods for solving mathematical problems in engineering.",
+    "url": "https://en.wikibooks.org/wiki/Numerical_Methods"
+  },
+  {
+    "title": "Digital Electronics",
+    "description": "Digital logic design, Boolean algebra, combinational and sequential circuits.",
+    "url": "https://en.wikibooks.org/wiki/Digital_Electronics"
+  },
+  {
+    "title": "Microprocessor Design",
+    "description": "Architecture and design of microprocessors and embedded systems.",
+    "url": "https://en.wikibooks.org/wiki/Microprocessor_Design"
+  },
+  {
+    "title": "Embedded Systems",
+    "description": "Design and programming of embedded systems and microcontrollers.",
+    "url": "https://en.wikibooks.org/wiki/Embedded_Systems"
+  },
+  {
+    "title": "Computer Networks",
+    "description": "Network protocols, architectures, and technologies from physical to application layer.",
+    "url": "https://en.wikibooks.org/wiki/Computer_Networks"
+  },
+  {
+    "title": "Operating Systems",
+    "description": "Process management, memory management, file systems, and OS design principles.",
+    "url": "https://en.wikibooks.org/wiki/Operating_Systems"
+  },
+  {
+    "title": "Database Design",
+    "description": "Relational database design, SQL, normalization, and transaction management.",
+    "url": "https://en.wikibooks.org/wiki/Database_Design"
+  },
+  {
+    "title": "Compiler Design",
+    "description": "Lexical analysis, parsing, code generation, and optimization techniques.",
+    "url": "https://en.wikibooks.org/wiki/Compiler_Design"
+  },
+  {
+    "title": "Software Engineering",
+    "description": "Software development methodologies, requirements, design, and testing.",
+    "url": "https://en.wikibooks.org/wiki/Software_Engineering"
+  },
+  {
+    "title": "Artificial Intelligence",
+    "description": "Search algorithms, knowledge representation, machine learning, and NLP.",
+    "url": "https://en.wikibooks.org/wiki/Artificial_Intelligence"
+  },
+  {
+    "title": "Machine Learning",
+    "description": "Supervised and unsupervised learning, neural networks, and deep learning.",
+    "url": "https://en.wikibooks.org/wiki/Machine_Learning"
+  },
+  {
+    "title": "Data Science",
+    "description": "Data analysis, visualization, and statistical modeling with Python and R.",
+    "url": "https://en.wikibooks.org/wiki/Data_Science"
+  },
+  {
+    "title": "Cybersecurity",
+    "description": "Network security, cryptography, ethical hacking, and security best practices.",
+    "url": "https://en.wikibooks.org/wiki/Cybersecurity"
+  },
+  {
+    "title": "Cloud Computing",
+    "description": "Cloud architecture, virtualization, containerization, and major cloud platforms.",
+    "url": "https://en.wikibooks.org/wiki/Cloud_Computing"
+  },
+  {
+    "title": "Internet of Things",
+    "description": "IoT architecture, sensors, communication protocols, and embedded connectivity.",
+    "url": "https://en.wikibooks.org/wiki/Internet_of_Things"
+  },
+  {
+    "title": "Digital Signal Processing",
+    "description": "Signal analysis, Fourier transforms, filters, and DSP applications.",
+    "url": "https://en.wikibooks.org/wiki/Digital_Signal_Processing"
+  },
+  {
+    "title": "Image Processing",
+    "description": "Digital image processing techniques including filtering, segmentation, and compression.",
+    "url": "https://en.wikibooks.org/wiki/Image_Processing"
+  },
+  {
+    "title": "Computer Architecture",
+    "description": "CPU design, memory hierarchy, pipelining, and parallel architectures.",
+    "url": "https://en.wikibooks.org/wiki/Computer_Architecture"
+  },
+  {
+    "title": "Theory of Computation",
+    "description": "Automata theory, formal languages, computability, and complexity theory.",
+    "url": "https://en.wikibooks.org/wiki/Theory_of_Computation"
+  },
+  {
+    "title": "Communication Systems",
+    "description": "Analog and digital communication, modulation, coding, and information theory.",
+    "url": "https://en.wikibooks.org/wiki/Communication_Systems"
+  },
+  {
+    "title": "Control Systems",
+    "description": "Feedback control, transfer functions, stability analysis, and PID controllers.",
+    "url": "https://en.wikibooks.org/wiki/Control_Systems"
+  },
+  {
+    "title": "Power Electronics",
+    "description": "Power semiconductor devices, converters, inverters, and motor drives.",
+    "url": "https://en.wikibooks.org/wiki/Power_Electronics"
+  },
+  {
+    "title": "Engineering Thermodynamics",
+    "description": "Laws of thermodynamics, heat engines, refrigeration, and energy systems.",
+    "url": "https://en.wikibooks.org/wiki/Engineering_Thermodynamics"
+  },
+  {
+    "title": "Fluid Mechanics",
+    "description": "Fluid properties, statics, dynamics, flow measurement, and applications.",
+    "url": "https://en.wikibooks.org/wiki/Fluid_Mechanics"
+  },
+  {
+    "title": "Engineering Mechanics",
+    "description": "Statics and dynamics, force analysis, equilibrium, and motion.",
+    "url": "https://en.wikibooks.org/wiki/Engineering_Mechanics"
+  },
+  {
+    "title": "Strength of Materials",
+    "description": "Stress, strain, bending, torsion, and failure analysis of materials.",
+    "url": "https://en.wikibooks.org/wiki/Strength_of_Materials"
+  },
+  {
+    "title": "Engineering Physics",
+    "description": "Quantum mechanics, optics, electromagnetism, and modern physics for engineers.",
+    "url": "https://en.wikibooks.org/wiki/Engineering_Physics"
+  },
+  {
+    "title": "Engineering Chemistry",
+    "description": "Chemical thermodynamics, electrochemistry, polymers, and material science.",
+    "url": "https://en.wikibooks.org/wiki/Engineering_Chemistry"
+  },
+  {
+    "title": "Engineering Biology",
+    "description": "Biotechnology, genetics, bioinformatics, and biological systems for engineers.",
+    "url": "https://en.wikibooks.org/wiki/Engineering_Biology"
+  },
+  {
+    "title": "Environmental Engineering",
+    "description": "Water treatment, air pollution control, waste management, and sustainability.",
+    "url": "https://en.wikibooks.org/wiki/Environmental_Engineering"
+  },
+  {
+    "title": "Structural Engineering",
+    "description": "Structural analysis, design of beams, columns, and frameworks.",
+    "url": "https://en.wikibooks.org/wiki/Structural_Engineering"
+  },
+  {
+    "title": "Transportation Engineering",
+    "description": "Highway, railway, airport design, traffic engineering, and planning.",
+    "url": "https://en.wikibooks.org/wiki/Transportation_Engineering"
+  },
+  {
+    "title": "Geotechnical Engineering",
+    "description": "Soil mechanics, foundation design, slope stability, and earth structures.",
+    "url": "https://en.wikibooks.org/wiki/Geotechnical_Engineering"
+  },
+  {
+    "title": "Hydrology",
+    "description": "Water cycle, precipitation, runoff, groundwater, and hydrological modeling.",
+    "url": "https://en.wikibooks.org/wiki/Hydrology"
+  },
+  {
+    "title": "Engineering Economics",
+    "description": "Cost analysis, project evaluation, depreciation, and financial decision making.",
+    "url": "https://en.wikibooks.org/wiki/Engineering_Economics"
+  },
+  {
+    "title": "Engineering Ethics",
+    "description": "Professional ethics, social responsibility, and ethical decision making in engineering.",
+    "url": "https://en.wikibooks.org/wiki/Engineering_Ethics"
+  },
+  {
+    "title": "Technical Writing",
+    "description": "Writing technical reports, documentation, proposals, and research papers.",
+    "url": "https://en.wikibooks.org/wiki/Technical_Writing"
+  },
+  {
+    "title": "LaTeX",
+    "description": "Document preparation system for technical and scientific writing.",
+    "url": "https://en.wikibooks.org/wiki/LaTeX"
+  },
+  {
+    "title": "MATLAB Programming",
+    "description": "Scientific computing, data analysis, and visualization with MATLAB.",
+    "url": "https://en.wikibooks.org/wiki/MATLAB_Programming"
+  },
+  {
+    "title": "R Programming",
+    "description": "Statistical computing, data analysis, and visualization with R.",
+    "url": "https://en.wikibooks.org/wiki/R_Programming"
+  },
+  {
+    "title": "HTML5",
+    "description": "Modern web development with HTML5, semantic markup, and multimedia.",
+    "url": "https://en.wikibooks.org/wiki/HTML5"
+  },
+  {
+    "title": "CSS",
+    "description": "Cascading Style Sheets for web design, layouts, and responsive design.",
+    "url": "https://en.wikibooks.org/wiki/CSS"
+  },
+  {
+    "title": "SQL",
+    "description": "Structured Query Language for database management and data manipulation.",
+    "url": "https://en.wikibooks.org/wiki/SQL"
+  },
+  {
+    "title": "VHDL",
+    "description": "Hardware description language for digital circuit design and FPGA programming.",
+    "url": "https://en.wikibooks.org/wiki/VHDL"
+  },
+  {
+    "title": "Parallel Computing",
+    "description": "Parallel architectures, programming models, MPI, OpenMP, and GPU computing.",
+    "url": "https://en.wikibooks.org/wiki/Parallel_Computing"
+  },
+  {
+    "title": "Blockchain",
+    "description": "Blockchain technology, cryptocurrencies, smart contracts, and distributed ledgers.",
+    "url": "https://en.wikibooks.org/wiki/Blockchain"
+  },
+  {
+    "title": "Quantum Computing",
+    "description": "Quantum bits, quantum gates, quantum algorithms, and quantum information.",
+    "url": "https://en.wikibooks.org/wiki/Quantum_Computing"
+  },
+  {
+    "title": "Robotics",
+    "description": "Robot kinematics, sensors, actuators, control, and programming.",
+    "url": "https://en.wikibooks.org/wiki/Robotics"
+  },
+  {
+    "title": "Computer Graphics",
+    "description": "Rendering, shading, ray tracing, and graphics programming with OpenGL.",
+    "url": "https://en.wikibooks.org/wiki/Computer_Graphics"
+  },
+  {
+    "title": "Game Design",
+    "description": "Game development principles, game engines, and interactive design.",
+    "url": "https://en.wikibooks.org/wiki/Game_Design"
+  },
+  {
+    "title": "Assembly Language",
+    "description": "Low-level programming, CPU architecture, and system programming.",
+    "url": "https://en.wikibooks.org/wiki/Assembly_Language"
+  },
+  {
+    "title": "Web Development",
+    "description": "Full-stack web development, frameworks, APIs, and deployment.",
+    "url": "https://en.wikibooks.org/wiki/Web_Development"
+  },
+  {
+    "title": "Mobile App Development",
+    "description": "iOS and Android app development, cross-platform frameworks, and UI design.",
+    "url": "https://en.wikibooks.org/wiki/Mobile_App_Development"
+  }
+]
