@@ -145,13 +145,7 @@ async function main() {
       continue;
     }
 
-    // Get ISBN for cover image lookup
-    const isbn = book.isbn13 || book.isbn10 || book.isbn || "";
-    const thumbnailUrl = isbn
-      ? `https://covers.openlibrary.org/b/isbn/${isbn}-M.jpg`
-      : "";
-
-    // Build the atomic JSON
+    // Build the atomic JSON — no thumbnail for OTL books, website shows graceful fallback
     const doc = {
       title: book.title,
       url: downloadUrl,
@@ -167,7 +161,6 @@ async function main() {
       language: book.language || "English",
       pages: 0,
       source: "open-textbook-library",
-      thumbnailUrl,
     };
 
     const slug = slugify(title) + "-" + book.id;
