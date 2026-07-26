@@ -173,16 +173,47 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Auto-merge PR
+        id: merge
         uses: actions/github-script@v7
         with:
           script: |
             try {
-              await github.rest.pulls.merge({
+              const pr = await github.rest.pulls.merge({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 pull_number: context.issue.number,
                 merge_method: "squash",
               });
+              // Store the head branch name so next step can delete it
+              const { data: prData } = await github.rest.pulls.get({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+              });
+              core.exportVariable('HEAD_BRANCH', prData.head.ref);
             } catch (err) {
               // Branch protection or other issues — PR stays open for manual merge
             }
+
+      - name: Delete merged branch
+        if: success()
+        run: |
+          BRANCH="$HEAD_BRANCH"
+          if [ -n "$BRANCH" ] && [ "$BRANCH" != "main" ]; then
+            curl -s -L -X DELETE "https://api.github.com/repos/${{ github.repository }}/git/refs/heads/$BRANCH" \
+              -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}"
+            echo "Deleted branch: $BRANCH"
+          fi
+
+      - name: Trigger website redeploy
+        if: success()
+        run: |
+          HOOK_URL="${{ secrets.VERCEL_DEPLOY_HOOK }}"
+          if [ -n "$HOOK_URL" ]; then
+            curl -s -L -X POST "$HOOK_URL"
+            echo "Website redeploy triggered."
+          else
+            echo "VERCEL_DEPLOY_HOOK not set — skipping website redeploy."
+            echo "To enable: Go to Vercel project → Settings → Git → Deploy Hooks → create a hook, then add it as"
+            echo "a GitHub Actions secret named VERCEL_DEPLOY_HOOK in this repository."
+          fi
