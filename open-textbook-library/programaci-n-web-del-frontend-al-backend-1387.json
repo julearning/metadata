@@ -1,19 +1,11 @@
 {
   "title": "Programación Web del Frontend al Backend",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/view/18/23/111",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "En este libro se investigó los fundamentos de la programación web, así como las tecnologías esenciales para lograr crear aplicaciones web, tales como HTML y CSS. Se documentó los conceptos básicos de la programación Frontend utilizando el lenguaje de programación JavaScript, se documentó también los",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

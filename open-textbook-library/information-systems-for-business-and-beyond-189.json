@@ -1,19 +1,11 @@
 {
   "title": "Information Systems for Business and Beyond",
   "url": "https://www.jstor.org/stable/community.39516295",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is written as an introductory text, meant for those with little or no experience with computers or information systems. While sometimes the descriptions can get a little bit technical, every effort has been made to convey the information essential to understanding a topic while not getting",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

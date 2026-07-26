@@ -1,19 +1,11 @@
 {
   "title": "Learning Statistics with jamovi: A Tutorial for Beginners in Statistical Analysis",
   "url": "https://www.openbookpublishers.com/books/10.11647/obp.0333",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Based on Danielle Navarro’s widely acclaimed and prize-winning book Learning Statistics with R, this elegantly designed textbook offers undergraduate students a thorough and accessible introduction to jamovi, as well as how to get to grips with statistics and data manipulation. Lucid and easy to und",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

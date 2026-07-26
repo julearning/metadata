@@ -1,19 +1,11 @@
 {
   "title": "The Primacy of the Public",
   "url": "https://pressbooks.ulib.csuohio.edu/principles-of-engineering-ethics/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Primacy of the Public presents a framework for engineering and technology ethics focused around three core ethical principles: the principle of welfare, the autonomy principle, and the fairness principle. To support this framework, the book begins with an examination of multiple perspectives we ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

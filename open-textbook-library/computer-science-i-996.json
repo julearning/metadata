@@ -1,19 +1,11 @@
 {
   "title": "Computer Science I",
   "url": "https://bitbucket.org/chrisbourke/computersciencei/raw/44fb9b39be3221dc02c1b5d0712f9b9f03260e46/ComputerScienceOne.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This textbook covers the traditional introductory Computer Science I topics but takes a unique approach. Topics are covered in a language-agnostic manner in the first part with supplemental parts that cover the same concepts in a specific language. The current version covers C, Java, and PHP. This t",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

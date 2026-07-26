@@ -1,19 +1,11 @@
 {
   "title": "Business Law I Essentials",
   "url": "https://openstax.org/details/books/business-law-i-essentials?Book%20details",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Structural Analysis",
   "branch": "CE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Business Law I Essentials is a brief introductory textbook designed to meet the scope and sequence requirements of courses on Business Law or the Legal Environment of Business. The concepts are presented in a streamlined manner, and cover the key concepts necessary to establish a strong foundation i",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

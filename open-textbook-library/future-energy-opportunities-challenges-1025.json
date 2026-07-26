@@ -1,19 +1,11 @@
 {
   "title": "Future Energy: Opportunities & Challenges",
   "url": "https://trace.tennessee.edu/openbooks/1/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "How can we produce enough sustainable energy while avoiding unacceptable environmental consequences? To evaluate the various energy options, we must understand the science of each potential energy source and energy use technology. This book presents the science in an easy-to-understand way to enable",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

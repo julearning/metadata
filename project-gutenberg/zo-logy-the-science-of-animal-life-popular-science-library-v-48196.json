@@ -1,22 +1,14 @@
 {
   "title": "Zoölogy: The Science of Animal Life: Popular Science Library, Volume XII (of 16), P. F. Collier & Son Company, 1922",
   "url": "https://www.gutenberg.org/ebooks/48196",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Animals; Zoology",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Ingersoll, Ernest",
   "downloadCount": 839,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

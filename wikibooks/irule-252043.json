@@ -1,19 +1,11 @@
 {
   "title": "IRule",
   "url": "https://en.wikibooks.org/wiki/IRule",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "iRule is an app that may be used to control a variety of home electronics including amplifiers, preamps and processors, TV, projectors, satellite dishes and cable boxes, and just about any other device that can be controlled with either infrared (IR), RS 232, or Ethernet networks. The app itself is ",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

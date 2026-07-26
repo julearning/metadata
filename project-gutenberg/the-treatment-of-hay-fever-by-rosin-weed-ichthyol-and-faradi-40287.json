@@ -1,22 +1,14 @@
 {
   "title": "The Treatment of Hay Fever by rosin-weed, ichthyol and faradic electricity: With a discussion of the old theory of gout and the new theory of anaphylaxis",
   "url": "https://www.gutenberg.org/ebooks/40287",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Hay fever",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Laidlaw, George Frederick",
   "downloadCount": 330,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

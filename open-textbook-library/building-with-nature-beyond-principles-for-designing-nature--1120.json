@@ -1,19 +1,11 @@
 {
   "title": "Building with Nature & Beyond: Principles for designing nature based engineering solutions",
   "url": "https://doi.org/10.5074/T.2021.006",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is based upon the edX MOOCs Engineering: Building with Nature and Beyond Engineering: Building with Nature. The Engineering: Building with Nature MOOC, explores the use of natural materials and ecological processes in achieving effective and sustainable hydraulic infrastructure designs, di",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

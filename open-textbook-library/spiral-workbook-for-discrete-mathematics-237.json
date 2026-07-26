@@ -1,19 +1,11 @@
 {
   "title": "Spiral Workbook for Discrete Mathematics",
   "url": "https://milneopentextbooks.org/download/swdm-pdf/?tmstv=1672250814",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is a text that covers the standard topics in a sophomore-level course in discrete mathematics: logic, sets, proof techniques, basic number theory, functions, relations, and elementary combinatorics, with an emphasis on motivation. It explains and clarifies the unwritten conventions in mathemati",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

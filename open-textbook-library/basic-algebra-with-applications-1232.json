@@ -1,19 +1,11 @@
 {
   "title": "Basic Algebra with Applications",
   "url": "http://melikamp.com/math/basic-algebra-text/basic-algebra-web.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Basic Algebra with Applications",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

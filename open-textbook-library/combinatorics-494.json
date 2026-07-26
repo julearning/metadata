@@ -1,19 +1,11 @@
 {
   "title": "Combinatorics",
   "url": "https://www.cs.uleth.ca/~morris/Combinatorics/Combinatorics.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Combinatorics is an upper-level introductory course in enumeration, graph theory, and design theory.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

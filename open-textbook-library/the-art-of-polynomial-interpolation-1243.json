@@ -1,19 +1,11 @@
 {
   "title": "The Art of Polynomial Interpolation",
   "url": "https://psu.pb.unizin.org/polynomialinterpretation/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The inspiration for this text grew out of a simple question that emerged over a number of years of teaching math to Middle School, High School and College students. Practically speaking, what is the origin of a particular polynomial? So much time is spent analyzing, factoring, simplifying and graphi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

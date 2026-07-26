@@ -1,19 +1,11 @@
 {
   "title": "IIS and FastCGI",
   "url": "https://en.wikibooks.org/wiki/IIS_and_FastCGI",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Computer Networks",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Internet Information Services 6.0 (herein IIS6) is Microsoft's web-server application, it runs only on Microsoft Windows 2003. FastCGI permits properly designed scripts to execute without the overhead of starting up the interpreter on each HTTP request. This wikibook functions to teach the user how ",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

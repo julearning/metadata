@@ -1,22 +1,14 @@
 {
   "title": "Tongues of Conscience",
   "url": "https://www.gutenberg.org/ebooks/25986",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Manners and customs -- Fiction",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Hichens, Robert",
   "downloadCount": 8387,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

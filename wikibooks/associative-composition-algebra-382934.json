@@ -1,19 +1,11 @@
 {
   "title": "Associative Composition Algebra",
   "url": "https://en.wikibooks.org/wiki/Associative_Composition_Algebra",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is on associative composition algebras, structures that have been used in kinematics and mathematical physics.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

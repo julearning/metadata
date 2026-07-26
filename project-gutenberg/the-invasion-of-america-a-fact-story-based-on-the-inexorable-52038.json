@@ -1,22 +1,14 @@
 {
   "title": "The Invasion of America: a fact story based on the inexorable mathematics of war",
   "url": "https://www.gutenberg.org/ebooks/52038",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Imaginary wars and battles; United States -- Defenses",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Muller, J. W. (Julius Washington)",
   "downloadCount": 339,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

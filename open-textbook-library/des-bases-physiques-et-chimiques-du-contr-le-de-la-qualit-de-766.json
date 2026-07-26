@@ -1,19 +1,11 @@
 {
   "title": "Des Bases Physiques Et Chimiques Du Contrôle De La Qualité Des Médicaments",
   "url": "https://repository.rudn.ru/en/records/manual/record/37854/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Le manuel est un résumé des principales activités du cours de conférences sur la chimie physique et colloïdale (en 2 parties) et constitue la base théorique des méthodes de contrôle de la qualité des médicaments et vise à acquérir les connaissances et les compétences nécessaires pour travailler dans",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

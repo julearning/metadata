@@ -1,19 +1,11 @@
 {
   "title": "SQL\\400",
   "url": "https://en.wikibooks.org/wiki/SQL%5C400",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Database Management Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "SQL\\400 — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

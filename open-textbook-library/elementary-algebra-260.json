@@ -1,19 +1,11 @@
 {
   "title": "Elementary Algebra",
   "url": "http://cnx.org/exports/7bd5c2b7-22c5-450f-b218-36d260eec58f%403.9.pdf/elementary-algebra-3.9.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Elementary Algebra is a work text that covers the traditional topics studied in a modern elementary algebra course. Use of this book will help the student develop the insight and intuition necessary to master algebraic techniques and manipulative skills.Elementary Algebra is a work text that covers ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

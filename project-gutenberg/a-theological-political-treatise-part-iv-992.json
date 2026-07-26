@@ -1,22 +1,14 @@
 {
   "title": "A Theological-Political Treatise [Part IV]",
   "url": "https://www.gutenberg.org/ebooks/992",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Free thought -- Early works to 1800; Philosophy and religion -- Early works to 1800; Political science -- Early works to 1800",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Spinoza, Benedictus de",
   "downloadCount": 855,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

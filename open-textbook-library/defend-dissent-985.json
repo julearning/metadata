@@ -1,19 +1,11 @@
 {
   "title": "Defend Dissent",
   "url": "https://open.oregonstate.education/defenddissent/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Defend Dissent is an introduction to cryptography paired with the social impacts of surveillance and the protective potential of encryption, with a focus on US social movements. Each chapter ends with a story that brings social context to the material—from surveillance used against contemporary US p",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

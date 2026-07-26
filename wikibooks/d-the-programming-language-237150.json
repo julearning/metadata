@@ -1,19 +1,11 @@
 {
   "title": "D (The Programming Language)",
   "url": "https://en.wikibooks.org/wiki/D_(The_Programming_Language)",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Welcome to the D programming lesson-based wikibook, a free resource on the D programming language. This page links to lessons on programming in D.\nNote: If you have some experience in D, you are welcome to contribute to this very unfinished book.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

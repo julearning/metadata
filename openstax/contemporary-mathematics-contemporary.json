@@ -1,21 +1,13 @@
 {
   "title": "Contemporary Mathematics",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/contemporary-mathematics_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"3uodr\"><i>Contemporary Mathematics</i> is designed to meet the scope and sequence requirements for a liberal arts mathematics course. This resource provides stand-alone sections with a focus on showing relevance in the features as well as the examples, exercises, and exposition. <",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

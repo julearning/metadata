@@ -1,19 +1,11 @@
 {
   "title": "TeX",
   "url": "https://en.wikibooks.org/wiki/TeX",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "TeX is a language used to typeset documents, especially ones containing mathematics. It has both programming and mark-up features. In this book we will describe \"primitive TeX\"—the basic engine for the macro languages plain TeX, LaTeX, ConTeXt, and so on. If you are new to TeX, then this is probably",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

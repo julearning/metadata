@@ -1,21 +1,13 @@
 {
   "title": "College Algebra 2e",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/college-algebra-2e_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"3w7u3\"><i>College Algebra 2e</i> provides a comprehensive exploration of algebraic principles and meets scope and sequence requirements for a typical introductory algebra course. The modular approach and richness of content ensure that the book addresses the needs of a variety of ",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

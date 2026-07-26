@@ -1,19 +1,11 @@
 {
   "title": "A Mixed Course-Based Research Approach to Human Physiology",
   "url": "https://iastate.pressbooks.pub/curehumanphysiology/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Biology 256 Laboratory course was designed to provide students with hands-on access to modern techniques in human physiological analyses using the course-based research pedagogical approach. In this course, students will learn how to perform literature searches; generate research questions and h",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

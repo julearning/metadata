@@ -1,19 +1,11 @@
 {
   "title": "ActionScript Programming",
   "url": "https://en.wikibooks.org/wiki/ActionScript_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "ActionScript is a scripting language developed by Adobe (formerly Macromedia) for its Flash animation studio. ActionScript is similar to JavaScript with its syntax and functionality. The latest version, ActionScript 3.0, released together with Flash CS3, emphasizes Object oriented programming more s",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

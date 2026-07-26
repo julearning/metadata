@@ -1,19 +1,11 @@
 {
   "title": "Calculus: Early Transcendentals",
   "url": "https://collection.bccampus.ca/textbooks/calculus-early-transcendentals-2021a-lyryx-63/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Calculus: Early Transcendentals, originally by D. Guichard, has been redesigned by the Lyryx editorial team. Substantial portions of the content, examples, and diagrams have been redeveloped, with additional contributions provided by experienced and practicing instructors. This approachable text pro",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "PSP Programming",
   "url": "https://en.wikibooks.org/wiki/PSP_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Welcome to the fascinating and often rewarding world of PlayStation Portable Programming. This set of Learning Modules will provide you with the basic knowledge necessary to apprehend, acquire, install, and configure a PlayStation Portable Programming Laboratory from which all sorts of useful and en",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

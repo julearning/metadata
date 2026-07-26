@@ -1,19 +1,11 @@
 {
   "title": "General Biology Laboratory Booklet",
   "url": "https://paadopt.org/bookshelf/general-biology-laboratory-booklet/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This laboratory manual provides a diverse collection of experiments designed to immerse students in techniques mirroring those used in professional biomedical research. Students will explore fundamental enzyme kinetics, investigating how varying amylase concentrations and the introduction of chemica",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

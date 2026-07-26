@@ -1,19 +1,11 @@
 {
   "title": "The Essence of Mathematics Through Elementary Problems",
   "url": "https://www.openbookpublishers.com/product/979",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "It is increasingly clear that the shapes of reality – whether of the natural world, or of the built environment – are in some profound sense mathematical. Therefore it would benefit students and educated adults to understand what makes mathematics itself ‘tick’, and to appreciate why its shapes, pat",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

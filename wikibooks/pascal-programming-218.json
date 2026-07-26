@@ -1,19 +1,11 @@
 {
   "title": "Pascal Programming",
   "url": "https://en.wikibooks.org/wiki/Pascal_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Pascal is an influential computer programming language named after the mathematician Blaise Pascal.\nIt was invented by Niklaus Wirth in 1968 as a research project into the nascent field of compiler theory.\nThe backronym PASCAL standing for primary algorithmic scientific commercial application langua",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Elementary Calculus",
   "url": "http://www.mecmath.net/calculus/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This textbook covers calculus of a single variable, suitable for a year-long (or two-semester) course. Chapters 1-5 cover Calculus I, while Chapters 6-9 cover Calculus II. The book is designed for students who have completed courses in high-school algebra, geometry, and trigonometry. Though designed",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

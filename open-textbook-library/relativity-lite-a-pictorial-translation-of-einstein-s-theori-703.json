@@ -1,19 +1,11 @@
 {
   "title": "Relativity Lite: A Pictorial Translation of Einstein’s Theories of Motion and Gravity",
   "url": "https://pdxscholar.library.pdx.edu/pdxopen/30/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Relativity Lite is designed for courses like my 100-student General Astronomy sequence. Relativity Lite translates the mathematical equations conventional relativity texts rely upon into pictures that are readily understood and contain within them the mathematical essentials. This new book would pro",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

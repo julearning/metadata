@@ -1,19 +1,11 @@
 {
   "title": "Statistics for Ecologists: A Frequentist and Bayesian Treatment of Modern Regression Models",
   "url": "https://conservancy.umn.edu/handle/11299/260227",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Ecological data pose many challenges to statistical inference. Most data come from observational studies rather than designed experiments; observational units are frequently sampled repeatedly over time, resulting in multiple, non-independent measurements; response data are often binary (e.g., prese",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

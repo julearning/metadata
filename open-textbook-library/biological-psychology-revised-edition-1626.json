@@ -1,19 +1,11 @@
 {
   "title": "Biological Psychology [Revised Edition]",
   "url": "https://rotel.pressbooks.pub/biologicalpsychology/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Biological psychology is the study of the biological bases of behavior and mental processes. It explores how biological factors like genes, hormones, neurotransmitters, and brain structures influence psychological components like thoughts, emotions, memories, and actions. This free and open textbook",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

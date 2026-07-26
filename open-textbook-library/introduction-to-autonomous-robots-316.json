@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Autonomous Robots",
   "url": "https://github.com/correll/Introduction-to-Autonomous-Robots/releases",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book introduces concepts in mobile, autonomous robotics to 3rd-4th year students in Computer Science or a related discipline. The book covers principles of robot motion, forward and inverse kinematics of robotic arms and simple wheeled platforms, perception, error propagation, localization and ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

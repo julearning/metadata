@@ -1,19 +1,11 @@
 {
   "title": "Measure, Integration & Real Analysis",
   "url": "https://measure.axler.net/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book seeks to provide students with a deep understanding of the definitions, examples, theorems, and proofs related to measure, integration, and real analysis. The content and level of this book fit well with the first-year graduate course on these topics at most American universities. This tex",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

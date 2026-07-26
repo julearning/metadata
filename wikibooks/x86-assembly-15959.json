@@ -1,19 +1,11 @@
 {
   "title": "X86 Assembly",
   "url": "https://en.wikibooks.org/wiki/X86_Assembly",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book covers assembly language programming for the x86 family of microprocessors. The objective is to teach how to program in x86 assembly, as well as the history and basic architecture of x86 processor family.\nWhen referring to x86 we address the complete range of x86-based processors (since th",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

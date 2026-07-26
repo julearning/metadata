@@ -1,19 +1,11 @@
 {
   "title": "APEX Calculus",
   "url": "https://drive.google.com/file/d/1bDsqf4u3rNz_dVnlViE_AXrhWpJoBi3H/view",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This text comprises a three–text series on Calculus. The first part covers material taught in many “Calc 1” courses: limits, derivatives, and the basics of integration, found in Chapters 1 through 6.1. The second text covers material often taught in “Calc 2:” integration and its applications, along ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

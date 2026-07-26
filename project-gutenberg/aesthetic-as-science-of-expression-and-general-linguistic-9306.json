@@ -1,22 +1,14 @@
 {
   "title": "Aesthetic as Science of Expression and General Linguistic",
   "url": "https://www.gutenberg.org/ebooks/9306",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Aesthetics; Language and languages -- Philosophy; Philosophy",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Croce, Benedetto",
   "downloadCount": 708,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

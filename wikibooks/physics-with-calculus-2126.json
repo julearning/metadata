@@ -1,19 +1,11 @@
 {
   "title": "Physics with Calculus",
   "url": "https://en.wikibooks.org/wiki/Physics_with_Calculus",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This textbook is designed for use with first- and second-year college level physics for engineers and scientists. While the content is not mathematically complicated or very advanced, the students are expected to be familiar with differential calculus and some integral calculus.\nUnlike the Modern Ph",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Proofs and Concepts: The Fundamentals of Abstract Mathematics",
   "url": "https://people.uleth.ca/~dave.morris/books/proofs+concepts.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This free undergraduate textbook provides an introduction to proofs, logic, sets, functions, and other fundamental topics of abstract mathematics. It is designed to be the textbook for a bridge course that introduces undergraduates to abstract mathematics, but it is also suitable for independent stu",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

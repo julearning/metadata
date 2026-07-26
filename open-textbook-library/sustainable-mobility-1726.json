@@ -1,19 +1,11 @@
 {
   "title": "Sustainable Mobility",
   "url": "https://uta.pressbooks.pub/sustainablemobility/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Structural Analysis",
   "branch": "CE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This textbook and OER material cover tools and basic knowledge required to prepare transportation engineers and planners to contribute towards a carbon-neutral mobility future. In addition, we will explore the potential for vehicle electrification, automation, connectivity, and ridesharing to reduce",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "ColdFusion Programming",
   "url": "https://en.wikibooks.org/wiki/ColdFusion_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "ColdFusion is a JVM-based programming language that supports scripting and templating and was developed by J.J. Allaire in 1995 to make development of CGI scripts easier and faster.  It has matured over the years to include many interfaces with other languages and environments.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

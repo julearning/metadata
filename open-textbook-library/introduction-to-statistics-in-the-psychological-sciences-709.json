@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Statistics in the Psychological Sciences",
   "url": "https://irl.umsl.edu/cgi/viewcontent.cgi?article=1024&context=oer",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Introduction to Statistics in the Psychological Sciences provides an accessible introduction to the fundamentals of statistics, and hypothesis testing as need for psychology students. The textbook introduces the fundamentals of statistics, an introduction to hypothesis testing, and t Tests. Related ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

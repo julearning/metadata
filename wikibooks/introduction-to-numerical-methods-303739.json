@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Numerical Methods",
   "url": "https://en.wikibooks.org/wiki/Introduction_to_Numerical_Methods",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Data Structures & Algorithms",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The target audience of this book are computer science students wanting to learn numerical algorithms and apply them in scientific computing.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

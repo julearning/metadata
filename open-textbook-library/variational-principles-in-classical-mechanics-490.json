@@ -1,19 +1,11 @@
 {
   "title": "Variational Principles in Classical Mechanics",
   "url": "http://classicalmechanics.lib.rochester.edu/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Two dramatically different philosophical approaches to classical mechanics were proposed during the 17th – 18th centuries. Newton developed his vectorial formulation that uses time-dependent differential equations of motion to relate vector observables like force and rate of change of momentum. Eule",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

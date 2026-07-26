@@ -1,19 +1,11 @@
 {
   "title": "Calculus One",
   "url": "https://drive.google.com/file/d/16rj-jp4mlsRsO4NVwiacesYVCP6-D7Ru/view?usp=sharing",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Calculus is about the very large, the very small, and how things change—the surprise is that something seemingly so abstract ends up explaining the real world. This course is a first and friendly introduction to calculus, suitable for someone who has never seen the subject before, or for someone who",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

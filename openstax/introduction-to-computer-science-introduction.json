@@ -1,21 +1,13 @@
 {
   "title": "Introduction to Computer Science",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_To_Computer_Science_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"do82c\"><i>Introduction to Computer Science</i> provides a comprehensive foundation in core computer science concepts and principles, aligning with the scope and sequence of most introductory computer science courses. The offering serves as an engaging entry point for students purs",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "The handy manual: A veritable mine of useful and interesting statistics, information, etc.",
   "url": "https://www.gutenberg.org/ebooks/68711",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Reference works",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Anonymous",
   "downloadCount": 310,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

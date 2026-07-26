@@ -1,19 +1,11 @@
 {
   "title": "Precalculus",
   "url": "https://sites.math.washington.edu/~m120/TheBook/TB2011-12backup.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Prior to 1990, the performance of a student in precalculus at the University of Washington was not a predictor of success in calculus. For this reason, the mathematics department set out to create a new course with a specific set of goals in mind: A review of the essential mathematics needed to succ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

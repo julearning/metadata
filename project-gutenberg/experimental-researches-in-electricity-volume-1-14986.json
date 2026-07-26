@@ -1,22 +1,14 @@
 {
   "title": "Experimental Researches in Electricity, Volume 1",
   "url": "https://www.gutenberg.org/ebooks/14986",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Electricity; Electricity -- Early works to 1850",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Faraday, Michael",
   "downloadCount": 1376,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

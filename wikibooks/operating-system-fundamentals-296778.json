@@ -1,19 +1,11 @@
 {
   "title": "Operating System Fundamentals",
   "url": "https://en.wikibooks.org/wiki/Operating_System_Fundamentals",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Operating System Fundamentals — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "The Crystal Ball Instruction Manual",
   "url": "http://stephendavies.org/crystal2.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Welcome to Volume Two of the Crystal Ball series: Foundations for Data Science! I titled the first volume “Introduction to Data Science” because it led you through a dip-your-toes-in-the-water experience. You took a brief tour through the various elements in this diverse field and got a feel for wha",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

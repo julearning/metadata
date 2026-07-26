@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Aerospace Structures and Materials",
   "url": "https://doi.org/10.5074/t.2018.003",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book provides an introduction to the discipline of aerospace structures and materials. It is the first book to date that includes all relevant aspects of this discipline within a single monologue. These aspects range from materials, manufacturing and processing techniques, to structures, design",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

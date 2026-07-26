@@ -1,19 +1,11 @@
 {
   "title": "Microbiology: A Laboratory Experience",
   "url": "https://milneopentextbooks.org/download/microbiology-a-lab-experience/?tmstv=1672248897",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "As a group of organisms that are too small to see and best known for being agents of disease and death, microbes are not always appreciated for the numerous supportive and positive contributions they make to the living world. Designed to support a course in microbiology, Microbiology: A Laboratory E",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

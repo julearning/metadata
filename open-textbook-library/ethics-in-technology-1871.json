@@ -1,19 +1,11 @@
 {
   "title": "Ethics in Technology",
   "url": "https://manifold.open.umn.edu/projects/ethics-in-technology",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The purpose of this text is to serve as an Open Education Resource (OER) designed initially to be used in a secondary or post-secondary education setting. It is intended to be a guide to facilitate focused discussions about contemporary issues of the ethical considerations related to technology evol",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

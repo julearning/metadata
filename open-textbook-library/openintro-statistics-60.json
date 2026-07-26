@@ -1,19 +1,11 @@
 {
   "title": "OpenIntro Statistics",
   "url": "https://www.openintro.org/go?id=os4_for_screen_readers&referrer=/book/os/index.php",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "OpenIntro Statistics covers a first course in statistics, providing a rigorous introduction to appliedstatistics that is clear, concise, and accessible. This book was written with the undergraduate levelin mind, but it’s also popular in high schools and graduate courses.We hope readers will take awa",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

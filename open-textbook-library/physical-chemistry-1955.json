@@ -1,19 +1,11 @@
 {
   "title": "Physical Chemistry",
   "url": "https://drive.google.com/drive/folders/1-Gg37fc7LConC7_UWC-Lcw59IMw7GAUB",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This Physical Chemistry textbook by Yingbin Ge is an open-access resource meticulously crafted for undergraduate students in chemistry, biochemistry, and related STEM fields. The text strikes a precise balance between conceptual clarity and mathematical rigor, ensuring students build a deep understa",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

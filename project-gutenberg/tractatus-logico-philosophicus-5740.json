@@ -1,22 +1,14 @@
 {
   "title": "Tractatus Logico-Philosophicus",
   "url": "https://www.gutenberg.org/ebooks/5740",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Language and languages -- Philosophy; Logic, Symbolic and mathematical",
-  "language": "German",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Wittgenstein, Ludwig",
   "downloadCount": 11826,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

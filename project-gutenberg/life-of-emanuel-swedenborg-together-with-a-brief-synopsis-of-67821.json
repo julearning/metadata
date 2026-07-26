@@ -1,22 +1,14 @@
 {
   "title": "Life of Emanuel Swedenborg: Together with a brief synopsis of his writings, both philosophical and theological",
   "url": "https://www.gutenberg.org/ebooks/67821",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Mystics -- Sweden -- Biography; Swedenborg, Emanuel, 1688-1772",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "White, William",
   "downloadCount": 659,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

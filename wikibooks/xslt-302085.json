@@ -1,19 +1,11 @@
 {
   "title": "XSLT",
   "url": "https://en.wikibooks.org/wiki/XSLT",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Web Technologies",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "XSLT (Extensible Stylesheet Language Transformations) is a language for transforming XML documents into other XML documents (of the same XML schema or not), or other objects such as HTML for web pages, or plain text for other uses, or many other txt-based formats (ex. RTF or any SGML document).\n\nWhe",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

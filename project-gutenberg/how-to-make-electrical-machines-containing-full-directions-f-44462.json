@@ -1,22 +1,14 @@
 {
   "title": "How to Make Electrical Machines: Containing Full Directions for Making Electrical Machines, Induction Coils, Dynamos, and Many Novel Toys to Be Worked by Electricity",
   "url": "https://www.gutenberg.org/ebooks/44462",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Electric apparatus and appliances; Electric apparatus and appliances -- Amateurs' manuals; Electric motors; Electricity -- Handbooks, manuals, etc.",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Bennett, R. A. R. (Reginald Arthur Renaud)",
   "downloadCount": 396,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

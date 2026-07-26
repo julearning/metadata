@@ -1,19 +1,11 @@
 {
   "title": "Tutorials of Visual Graphic Communication Programs for Interior Design",
   "url": "https://iastate.pressbooks.pub/visualgraphiccomm/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is for the beginning level of both architecture and interior design students who learn computer graphic communication software. The author developed multiple tutorials to teach three computer graphic applications, AutoCAD, Revit, and Enscape. AutoCAD is an essential computer drafting softw",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

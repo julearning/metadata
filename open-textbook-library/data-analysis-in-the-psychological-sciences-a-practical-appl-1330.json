@@ -1,19 +1,11 @@
 {
   "title": "Data Analysis in the Psychological Sciences: A Practical, Applied, Multimedia Approach",
   "url": "https://iro.uiowa.edu/view/pdfCoverPage?instCode=01IOWA_INST&filePid=13873834230002771&download=true",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This open resources textbook contains 10 Units that describe and explain the main concepts in statistical analysis of psychological data. In addition to conceptual descriptions and explanations of the basic analyses for descriptive statistics, this textbook also explains how to conduct those analyse",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

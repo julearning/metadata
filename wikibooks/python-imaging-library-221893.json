@@ -1,19 +1,11 @@
 {
   "title": "Python Imaging Library",
   "url": "https://en.wikibooks.org/wiki/Python_Imaging_Library",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Python Imaging Library, or PIL, is an external library for the Python 2x programming language that allows images to be easily manipulated using high-level commands.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "Legal Chemistry: A Guide to the Detection of Poisons, Examination of Tea, Stains, Etc., as Applied to Chemical Jurisprudence",
   "url": "https://www.gutenberg.org/ebooks/44048",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Chemistry, Forensic; Poisons",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Naquet, Alfred",
   "downloadCount": 428,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

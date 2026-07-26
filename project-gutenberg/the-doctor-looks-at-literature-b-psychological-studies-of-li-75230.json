@@ -1,22 +1,14 @@
 {
   "title": "The doctor looks at literature : $b Psychological studies of life and letters",
   "url": "https://www.gutenberg.org/ebooks/75230",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Authors -- Psychology; Literature, Modern -- 19th century -- History and criticism; Literature, Modern -- 20th century -- History and criticism; Psychological fiction -- History and criticism",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Collins, Joseph",
   "downloadCount": 1059,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

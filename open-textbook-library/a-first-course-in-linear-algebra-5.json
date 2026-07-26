@@ -1,19 +1,11 @@
 {
   "title": "A First Course in Linear Algebra",
   "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2d126254474e43b7d300ef5e60752d5e19f287c3",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-II",
   "branch": "CSE",
   "semester": 2,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "A First Course in Linear Algebra is an introductory textbook aimed at college-level sophomores and juniors. Typically students will have taken calculus, but it is not a prerequisite. The book begins with systems of linear equations, then covers matrix algebra, before taking up finite-dimensional vec",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

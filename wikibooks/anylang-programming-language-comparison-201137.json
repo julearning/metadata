@@ -1,19 +1,11 @@
 {
   "title": "AnyLang Programming Language Comparison",
   "url": "https://en.wikibooks.org/wiki/AnyLang_Programming_Language_Comparison",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is a general-purpose comparison of a few mainstream programming languages. The purpose of this book is to illustrate some very basic similarities and differences between languages; as well as to explain some common basic principles and concepts.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

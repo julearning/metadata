@@ -1,19 +1,11 @@
 {
   "title": "Radiobiology Textbook",
   "url": "https://link.springer.com/book/10.1007/978-3-031-18810-7",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This open access textbook focuses on the various aspects of radiobiology. The goal of radiobiological research is to better understand the effects of radiation exposure at the cellular and molecular levels in order to determine the impact on health. This book offers a unique perspective, by covering",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

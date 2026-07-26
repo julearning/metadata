@@ -1,19 +1,11 @@
 {
   "title": "Radio Systems Engineering",
   "url": "https://doi.org/10.21061/radiosystemsengineering-revised1st",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Using a systems framework, this textbook provides a clear and comprehensive introduction to the performance, analysis, and design of radio systems for students and practicing engineers. Presented within a consistent framework, the first part of the book describes the fundamentals of the subject: pro",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

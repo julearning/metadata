@@ -1,19 +1,11 @@
 {
   "title": "Data Compression",
   "url": "https://en.wikibooks.org/wiki/Data_Compression",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Data Structures & Algorithms",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "There are many algorithms—and even more implementations of those algorithms—that accept unencoded (plain) information and encode it to use fewer bits. Perhaps even more important is the paired algorithm that accepts the encoded bits and extracts the information.\nEach pair of algorithms—one that crea",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

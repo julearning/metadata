@@ -1,19 +1,11 @@
 {
   "title": "Direct Energy",
   "url": "https://www.trine.edu/books/documents/de_text1.0.0.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Direct Energy Conversion discusses both the physics behind energy conversion processes and a wide variety of energy conversion devices. A direct energy conversion process converts one form of energy to another through a single process. The first half of this book surveys multiple devices that conver",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Structured Electronics Design: A Conceptual Approach to Amplifier Design",
   "url": "https://doi.org/10.59490/t.2023.005",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Many people consider analog electronic circuit design complex. This is because designers can achieve the desired performance of a circuit in many ways. Together, theoretical concepts, circuit topologies, electronic devices, their operating conditions, and the system's physical construction constitut",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

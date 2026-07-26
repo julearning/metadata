@@ -1,19 +1,11 @@
 {
   "title": "Java Web Application Development With Click Framework",
   "url": "https://en.wikibooks.org/wiki/Java_Web_Application_Development_With_Click_Framework",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Click Framework is a modern Jakarta EE web application framework, providing a natural rich client style programming model. Click is designed to be very easy to learn and use, with developers getting up and running within a day.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

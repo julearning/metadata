@@ -1,19 +1,11 @@
 {
   "title": "Organic Chemistry I",
   "url": "https://kpu.pressbooks.pub/organicchemistry/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "An open textbook that is suitable for the first semester of Organic Chemistry. Basic concepts of the structures and reactivities of organic molecules are covered in this open textbook. Besides the fundamental discussions of organic acids-bases, stereochemistry, IR and NMR, this book also includes th",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

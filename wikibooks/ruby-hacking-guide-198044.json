@@ -1,19 +1,11 @@
 {
   "title": "Ruby Hacking Guide",
   "url": "https://en.wikibooks.org/wiki/Ruby_Hacking_Guide",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The RHG is a book that explains how the ruby 1.7.x-1.8.x interpreter (the official C implementation of the Ruby language) works internally. The original book was based on the source code of ruby 1.7.3 so there are a few small differences to the current version of ruby. However, these differences may",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "Practical Mechanics for Boys",
   "url": "https://www.gutenberg.org/ebooks/22298",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Mechanics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Handicraft for boys; Tools",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Zerbe, James Slough",
   "downloadCount": 13893,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Structured Query Language",
   "url": "https://en.wikibooks.org/wiki/Structured_Query_Language",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Structured Query Language (SQL) is a widely-used programming language for working with relational databases. The name of the language is generally pronounced as the three letters of its abbreviation  ˈɛs kjuː ˈɛl or, in some people's usage, as  ˈsiːkwəl.\nThis Wikibook provides a short description of",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

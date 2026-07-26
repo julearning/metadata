@@ -1,19 +1,11 @@
 {
   "title": "XML - Managing Data Exchange",
   "url": "https://en.wikibooks.org/wiki/XML_-_Managing_Data_Exchange",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "eXtensible Markup Language (XML) is a widely used computer language for creating and designing pages on the World Wide Web, and for defining other languages with more specialized purposes.  This Wikibook provides a detailed description of XML, its origins, its programming, and its uses on the Intern",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

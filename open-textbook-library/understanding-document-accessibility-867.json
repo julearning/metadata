@@ -1,19 +1,11 @@
 {
   "title": "Understanding Document Accessibility",
   "url": "https://pressbooks.library.ryerson.ca/docs/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "With much of the world gone digital, learning to create documents that are accessible to everyone is becoming a necessary skill. Intended for a general audience, this free resource reviews a wide range of document authoring applications, including the tools they contain for creating accessible docum",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

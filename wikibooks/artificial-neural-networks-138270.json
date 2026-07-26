@@ -1,19 +1,11 @@
 {
   "title": "Artificial Neural Networks",
   "url": "https://en.wikibooks.org/wiki/Artificial_Neural_Networks",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Machine Learning",
   "branch": "CSE",
   "semester": 6,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Artificial neural networks are a computational tool, based on the properties of biological neural systems. Neural networks excel in a number of problem areas where conventional von Neumann computer systems have traditionally been slow and inefficient. This book is going to discuss the creation and u",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

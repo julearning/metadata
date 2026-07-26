@@ -1,22 +1,14 @@
 {
   "title": "Short-Title Catalog of Publications and Importations of Scientific and Engineering Books: (August 1910)",
   "url": "https://www.gutenberg.org/ebooks/53911",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Booksellers' catalogs -- New York (State) -- New York; D. Van Nostrand Company -- Catalogs; Engineering -- Bibliography -- Catalogs; Publishers' catalogs -- New York (State) -- New York; Science -- Bibliography -- Catalogs",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "D. Van Nostrand Company",
   "downloadCount": 371,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

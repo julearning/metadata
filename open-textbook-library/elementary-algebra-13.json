@@ -1,19 +1,11 @@
 {
   "title": "Elementary Algebra",
   "url": "http://www.saylor.org/site/textbooks/Elementary%20Algebra.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "It is essential to lay a solid foundation in mathematics if a student is to be competitive in today's global market. The importance of algebra, in particular, cannot be overstated, as it is the basis of all mathematical modeling used in applications found in all disciplines. Traditionally, the study",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

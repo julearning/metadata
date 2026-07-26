@@ -1,19 +1,11 @@
 {
   "title": "Grasduinen in waterbouw",
   "url": "https://books.open.tudelft.nl/home/catalog/book/234",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Structural Analysis",
   "branch": "CE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Dit boek is bedoeld als een eerste kennismaking met het vakgebied waterbouwkunde, zonder de pretentie volledig te zijn. Het is gemotiveerd vanuit de ervaring van de auteur dat het heerlijk is om in het vakgebied te grasduinen. Er is gegrasduind in enkele fundamentele aspecten van het vakgebied met v",
-  "language": "dut",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

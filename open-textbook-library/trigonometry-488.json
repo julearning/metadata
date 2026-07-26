@@ -1,19 +1,11 @@
 {
   "title": "Trigonometry",
   "url": "https://scholarworks.gvsu.edu/books/12/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This trigonometry textbook is different than other trigonometry books in that it is free to download, and the reader is expected to do more than read the book and is expected to study the material in the book by working out examples rather than just reading about them. So this book is not just about",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

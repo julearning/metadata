@@ -1,22 +1,14 @@
 {
   "title": "Endless Amusement: A Collection of Nearly 400 Entertaining Experiments in Various Branches of Science; Including Acoustics, Electricity, Magnetism, Arithmetic, Hydraulics, Mechanics, Chemistry, Hydrostatics, Optics; Wonders of the Air-Pump; All the Popular Tricks and Changes of the Cards, &c., &c. to Which is Added, a Complete System of Pyrotechny; Or, the Art of Making Fire-works.",
   "url": "https://www.gutenberg.org/ebooks/32492",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Card tricks; Fireworks; Magic tricks; Science -- Experiments; Scientific recreations",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Unknown",
   "downloadCount": 541,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

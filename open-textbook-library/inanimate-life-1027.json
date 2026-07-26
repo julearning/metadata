@@ -1,19 +1,11 @@
 {
   "title": "Inanimate Life",
   "url": "https://milneopentextbooks.org/download/inanimate-life-2022-pdf/?tmstv=1672237198",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Inanimate Life is an open textbook covering a very traditional biological topic, botany, in a non-traditional way. Rather than a phylogenetic approach, going group by group, the book considers what defines organisms and examines four general areas of their biology: structure (their composition and h",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

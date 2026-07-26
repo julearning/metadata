@@ -1,19 +1,11 @@
 {
   "title": "Cat burglars, yeast races, and other hypothesis-driven bioscience practicals",
   "url": "https://sheffield.pressbooks.pub/hypothesisbasedbiosciencepracticals/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is aimed at fellow academics teaching biosciences students (probably in the first or second year of an undergraduate degree). It contains materials from eight different sets of practicals that colleagues have developed here at the University of Sheffield, concerning different areas of mole",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

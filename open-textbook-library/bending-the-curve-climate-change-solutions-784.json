@@ -1,19 +1,11 @@
 {
   "title": "Bending the Curve: Climate Change Solutions",
   "url": "https://escholarship.org/uc/item/6kr8p5rq",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Climate change is an urgent problem. Because it is causing new weather extremes and fatal catastrophes, climate change is better termed climate disruption. Bending the curve to flatten the upward trajectory of pollution emissions responsible for climate disruption is essential in order to protect bi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

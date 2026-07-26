@@ -1,22 +1,14 @@
 {
   "title": "Clerambault : $b Histoire d'une conscience libre pendant la guerre",
   "url": "https://www.gutenberg.org/ebooks/70956",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "World War, 1914-1918 -- Fiction",
-  "language": "French",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Rolland, Romain",
   "downloadCount": 772,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

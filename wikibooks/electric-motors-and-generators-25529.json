@@ -1,19 +1,11 @@
 {
   "title": "Electric Motors And Generators",
   "url": "https://en.wikibooks.org/wiki/Electric_Motors_And_Generators",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Electrical motors and generators are machines which either convert electrical energy inputs into forces or applied kinetic energy inputs into electrical energy. In principle, any electrical generator can also be operated as a motor and vice-versa. In practice they will often be optimized for one app",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

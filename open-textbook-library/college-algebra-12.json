@@ -1,19 +1,11 @@
 {
   "title": "College Algebra",
   "url": "http://stitz-zeager.com/szca07042013.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "College Algebra is an introductory text for a college algebra survey course. The material is presented at a level intended to prepare students for Calculus while also giving them relevant mathematical skills that can be used in other classes. The authors describe their approach as \"Functions First,\"",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

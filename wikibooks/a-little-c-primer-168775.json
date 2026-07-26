@@ -1,19 +1,11 @@
 {
   "title": "A Little C Primer",
   "url": "https://en.wikibooks.org/wiki/A_Little_C_Primer",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This document is a quick introduction to the C programming language. It is written by a novice, and is intended for use by a novice. However, it does assume familiarity with a programming language.\nThe C programming language is a \"middle-level\" language.  It provides low-level programming capability",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

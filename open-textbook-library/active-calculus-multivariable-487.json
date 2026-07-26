@@ -1,19 +1,11 @@
 {
   "title": "Active Calculus Multivariable",
   "url": "https://scholarworks.gvsu.edu/books/19/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Active Calculus Multivariable is the continuation of Active Calculus to multivariable functions. The Active Calculus texts are different from most existing calculus texts in at least the following ways: the texts are free for download by students and instructors in .pdf format; in the electronic for",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

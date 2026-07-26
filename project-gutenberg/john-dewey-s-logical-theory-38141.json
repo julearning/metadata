@@ -1,22 +1,14 @@
 {
   "title": "John Dewey's logical theory",
   "url": "https://www.gutenberg.org/ebooks/38141",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Dewey, John, 1859-1952; Logic",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Howard, Delton Thomas",
   "downloadCount": 707,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

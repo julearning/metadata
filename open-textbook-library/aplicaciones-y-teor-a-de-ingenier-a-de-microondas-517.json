@@ -1,19 +1,11 @@
 {
   "title": "Aplicaciones y Teoría de Ingeniería de Microondas",
   "url": "https://mountainscholar.org/handle/20.500.11785/593",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Teoria, analisis y sintesis de tecnicas de diseño para sistemas de teleomunicaciones que operan en el rango de 1GHz a 100 GHZ",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

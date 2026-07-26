@@ -1,19 +1,11 @@
 {
   "title": "A Neutral Look at Operating Systems",
   "url": "https://en.wikibooks.org/wiki/A_Neutral_Look_at_Operating_Systems",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The purpose of this book is to provide a neutral view of as many Operating Systems as possible. This book strives to provide solid information on Operating Systems without the ever-prevalent \"distribution/Operating System bias\".\nWikipedia has a comparison of operating systems.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

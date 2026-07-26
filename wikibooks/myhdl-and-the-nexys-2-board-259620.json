@@ -1,19 +1,11 @@
 {
   "title": "MyHDL and the NEXYS 2 Board",
   "url": "https://en.wikibooks.org/wiki/MyHDL_and_the_NEXYS_2_Board",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This wikibook is about MyHDL and the NEXYS 2 board. MyHDL is a Python system for designing digital logic circuits in the Python language. The NEXYS 2 board, manufactured by Digilent Inc., is a prototyping board for Xilinx FPGAs (field programmable gate arrays). If you have some experience with the P",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,21 +1,13 @@
 {
   "title": "Principles of Economics 3e",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-economics-3e_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Economics for Engineers",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"ssfm8\"><i>Principles of Economics 3e</i> covers the scope and sequence of most introductory economics courses. The third edition takes a balanced approach to the theory and application of economics concepts. The text uses conversational language and ample illustrations to explore ",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

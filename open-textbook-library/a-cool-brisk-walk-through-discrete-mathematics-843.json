@@ -1,19 +1,11 @@
 {
   "title": "A Cool Brisk Walk Through Discrete Mathematics",
   "url": "http://stephendavies.org/brisk.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "A Cool Brisk Walk Through Discrete Mathematics - and its companion site \"allthemath\" - are completely-and-forever-free-and-open-source educational materials dedicated to the mathematics that budding computer science practitioners actually need to know. They feature the fun and addictive teaching of ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

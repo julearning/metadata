@@ -1,19 +1,11 @@
 {
   "title": "Scientific Calculations with Julia",
   "url": "https://en.wikibooks.org/wiki/Scientific_Calculations_with_Julia",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Julia is an open-source programming language for numerical calculations and scientific applications, published since 2012 and released under the MIT License. It can be an excellent alternative to Matlab, which has a commercial license.\nYou can install additional packages for Julia to perform specifi",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

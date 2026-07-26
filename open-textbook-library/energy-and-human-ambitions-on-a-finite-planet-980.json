@@ -1,19 +1,11 @@
 {
   "title": "Energy and Human Ambitions on a Finite Planet",
   "url": "https://escholarship.org/uc/item/9js5291m",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Where is humanity going? How realistic is a future of fusion and space colonies? What constraints are imposed by physics, by resource availability, and by human psychology? Are default expectations grounded in reality? This textbook, written for a general-education audience, aims to address these qu",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

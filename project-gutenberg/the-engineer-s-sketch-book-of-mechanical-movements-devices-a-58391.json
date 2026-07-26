@@ -1,22 +1,14 @@
 {
   "title": "The engineer's sketch-book of mechanical movements, devices, appliances, contrivances and details employed in the design and construction of machinery for every purpose : $b classified & arranged for reference for the use of engineers, mechanical draughtsmen, managers, mechanics, inventors, patent agents, and all engaged in the mechanical arts",
   "url": "https://www.gutenberg.org/ebooks/58391",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Mechanics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Mechanical movements",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Barber, Thomas Walter",
   "downloadCount": 762,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "Michael Faraday, Man of Science",
   "url": "https://www.gutenberg.org/ebooks/46763",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Faraday, Michael, 1791-1867; Physicists -- Great Britain -- Biography",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Jerrold, Walter",
   "downloadCount": 785,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

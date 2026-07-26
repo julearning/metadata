@@ -1,19 +1,11 @@
 {
   "title": "Making Games with Python & Pygame",
   "url": "https://inventwithpython.com/makinggames.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book will teach you how to make graphical computer games in the Python programming language using the Pygame library.This book assumes you know a little bit about Python or programming in general. If you don’t know how to program, you can learn by downloading the free book \"Invent Your Own Comp",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

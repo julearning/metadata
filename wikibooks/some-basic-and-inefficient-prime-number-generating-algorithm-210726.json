@@ -1,19 +1,11 @@
 {
   "title": "Some Basic and Inefficient Prime Number Generating Algorithms",
   "url": "https://en.wikibooks.org/wiki/Some_Basic_and_Inefficient_Prime_Number_Generating_Algorithms",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Data Structures & Algorithms",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Some Basic and Inefficient Prime Number Generating Algorithms — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

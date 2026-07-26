@@ -1,19 +1,11 @@
 {
   "title": "Concurrent Clean",
   "url": "https://en.wikibooks.org/wiki/Concurrent_Clean",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Concurrent Clean is a general-purpose purely functional programming language. This Wikibook is meant to be a companion Part I of Functional Programming in Clean. \"Concurrent\" refers to Clean's ability to run the same process on several computers, similar to Ada. The language is often just referred t",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

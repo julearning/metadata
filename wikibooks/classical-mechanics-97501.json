@@ -1,19 +1,11 @@
 {
   "title": "Classical Mechanics",
   "url": "https://en.wikibooks.org/wiki/Classical_Mechanics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Classical mechanics is the study of the motion of bodies based upon Isaac Newton's famous laws of mechanics. There are no new physical concepts in classical mechanics that are not already extant in other areas of physics. What classical mechanics does is mathematically reformulate Newtonian physics ",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "India and Indian Engineering.: Three lectures delivered at the Royal Engineer Institute, Chatham, in July 1872",
   "url": "https://www.gutenberg.org/ebooks/56245",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Building -- India -- 19th century; Engineering -- India -- History -- 19th century; India -- Buildings, structures, etc.; Public works -- India -- History -- 19th century",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Medley, J. G. (Julius George)",
   "downloadCount": 355,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

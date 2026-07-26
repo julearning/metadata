@@ -1,19 +1,11 @@
 {
   "title": "A Contemporary Approach to Research and Statistics in Psychology",
   "url": "https://jcu.pressbooks.pub/psychology-statistics/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is designed as a short and introductory resource specifically aimed to help students grasp key concepts typically found in undergraduate psychology statistics subjects. It was initially developed for online and intensive programs, which are becoming increasingly popular in psychology educa",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

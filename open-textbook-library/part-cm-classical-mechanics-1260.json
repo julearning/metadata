@@ -1,19 +1,11 @@
 {
   "title": "Part CM: Classical Mechanics",
   "url": "https://commons.library.stonybrook.edu/cgi/viewcontent.cgi?article=1003&context=egp",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Essential Graduate Physics, Lecture Notes and Problems This Book is brought to you for free and open access by the Department of Physics and Astronomy at Academic Commons. It has been accepted for inclusion in Essential Graduate Physics by an authorized administrator of Academic Commons. For more in",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

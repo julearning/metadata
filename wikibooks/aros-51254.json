@@ -1,19 +1,11 @@
 {
   "title": "Aros",
   "url": "https://en.wikibooks.org/wiki/Aros",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "AROS is an recursive acronym for the AROS Research Operating System, an AmigaOS (TM) API compatible OS, with certain improvements, that is portable and freely available. It is developed as a collaborative project, with the source code being available under an open source license.\nAROS is not tied to",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

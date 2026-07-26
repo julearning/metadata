@@ -1,19 +1,11 @@
 {
   "title": "Assembly Language and Computer Organization",
   "url": "https://en.wikibooks.org/wiki/Assembly_Language_and_Computer_Organization",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Digital Logic & Design",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Assembly Language and Computer Organization — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

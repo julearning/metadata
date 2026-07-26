@@ -1,19 +1,11 @@
 {
   "title": "Diseno e Implementación de Bases de Datos desde una Perspectiva Prática",
   "url": "https://mountainscholar.org/handle/20.500.11785/586",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Modelado Conceptual y Lógico de Bases de Datos a través de ejemplos",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

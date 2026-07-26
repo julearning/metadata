@@ -1,19 +1,11 @@
 {
   "title": "Biology Laboratory Manual: Introduction to Molecular, Cellular, and Physiological Principles",
   "url": "https://www.iastatedigitalpress.com/plugins/books/205/format/128/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This lab manual is designed for students enrolled in the second lab course in the introductory biology sequence at Iowa State University. It is a semester-long lab course, required by most life-science-related majors at ISU, and includes activities on the scientific method, molecular and cellular bi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

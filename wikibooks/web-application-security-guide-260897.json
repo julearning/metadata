@@ -1,19 +1,11 @@
 {
   "title": "Web Application Security Guide",
   "url": "https://en.wikibooks.org/wiki/Web_Application_Security_Guide",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This guide attempts to provide a comprehensive overview of web application security. Common web application security issues and methods how to prevent them are explained. Web server and operating system security are not covered. The guide is intended mainly for web application developers, but can al",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "The Science of Plants",
   "url": "https://open.lib.umn.edu/horticulture/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "An approachable guide to the fundamentals of plant science. Created for horticulture students, gardeners, science teachers, and anyone interested in understanding plants and how they grow. This is the required text for HORT 1001/6001 Plant Propagation at the University of Minnesota Department of Hor",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

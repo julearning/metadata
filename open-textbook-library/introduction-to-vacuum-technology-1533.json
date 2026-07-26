@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Vacuum Technology",
   "url": "https://milneopentextbooks.org/introduction-to-vacuum-technology/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Vacuum systems are critical to many industries. They are vital to establishing required process pressures, establishing a clean process environment, and removing reaction by-products from the process chamber. This text, a revision and expansion of David Hata’s Introduction to Vacuum Technology publi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

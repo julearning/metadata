@@ -1,19 +1,11 @@
 {
   "title": "CLUE: Chemistry, Life, the Universe and Everything",
   "url": "https://clue.chemistry.msu.edu/clue.html",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This text is intended to provide an in-depth introduction to the key ideas in chemistry. We have designed the book to show how these ideas are developed from simple to complex systems and how they relate to each other. We consider three ideas central to an understanding of chemistry: the structure o",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

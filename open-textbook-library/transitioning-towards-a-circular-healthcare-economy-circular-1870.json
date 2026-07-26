@@ -1,19 +1,11 @@
 {
   "title": "Transitioning towards a circular (healthcare) economy: Circular Economy principles, leadership, policy and decision-making",
   "url": "https://books.open.tudelft.nl/home/catalog/book/217",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book offers a comprehensive roadmap toward a circular and sustainable healthcare system, structured into three distinct parts. Part I describes circular principles and policy tactics. Chapter 1 outlines the essentials of sustainable healthcare and designates the paradox in daily practice of sus",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

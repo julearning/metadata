@@ -1,19 +1,11 @@
 {
   "title": "Nutrition: Science and Everyday Application",
   "url": "https://openoregon.pressbooks.pub/nutritionscience2e/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is designed as an Open Education Resource (OER) for introductory nutrition courses and has been adopted for use in high schools and colleges. Topics covered include basic nutrition and metabolism, information literacy, body weight and health, nutrition across life stages, dietary supplemen",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "General Biology II: Survey of Molecular Life and Genetics",
   "url": "https://openoregon.pressbooks.pub/mhccbiology102/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "BI102: Survey of Molecular Life and Genetics is intended for one term of the introductory biology course for non-science majors taught at many two- and four-year colleges. The concepts of genetics, as they apply to the study of life, are introduced, including the principles of inheritance, genetics,",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

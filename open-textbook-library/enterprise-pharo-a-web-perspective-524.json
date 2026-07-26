@@ -1,19 +1,11 @@
 {
   "title": "Enterprise Pharo a Web Perspective",
   "url": "https://books.pharo.org/enterprise-pharo/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Enterprise Pharo is the third volume of the series, following Pharo by Example and Deep into Pharo. It covers enterprise libraries and frameworks, and in particular those useful for doing web development. The book is structured in five parts. The first part talks about simple web applications, start",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

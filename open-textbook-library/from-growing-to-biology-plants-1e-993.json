@@ -1,19 +1,11 @@
 {
   "title": "From Growing to Biology: Plants 1e",
   "url": "https://manifold.lib.fsu.edu/system/actioncallout/2703250c-bcda-43e7-9bd9-a38ac04b849a/attachment/original-78fd06b0810504015e26dfc09f7da3de.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Ready to find out how plants are grown and function? Take a fantastic voyage through plants. From Growing to Biology: Plants 1e brings the latest information for understanding of traditional and modern plant growing, form, and production. Topics covered in 30 chapters include concise and up-to-date ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

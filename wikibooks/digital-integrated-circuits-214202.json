@@ -1,19 +1,11 @@
 {
   "title": "Digital Integrated Circuits",
   "url": "https://en.wikibooks.org/wiki/Digital_Integrated_Circuits",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Digital integrated circuits represent the practical side of digital electronics - digital functions are constructed using analogue technologies such as doped silicon. This complicates the previously neat digital technologies that are divorced from the real world. This book deals with the design of d",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

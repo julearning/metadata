@@ -1,19 +1,11 @@
 {
   "title": "Haxe Programming",
   "url": "https://en.wikibooks.org/wiki/Haxe_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is an introduction to Haxe, a high-level, open source programming language and compiler.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

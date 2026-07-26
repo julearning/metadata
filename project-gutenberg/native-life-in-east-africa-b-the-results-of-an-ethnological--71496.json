@@ -1,22 +1,14 @@
 {
   "title": "Native life in East Africa : $b the results of an ethnological research expedition",
   "url": "https://www.gutenberg.org/ebooks/71496",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Africa, East -- Description and travel; Ethnology -- Africa, East; Ethnology -- Tanzania",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Weule, Karl",
   "downloadCount": 716,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

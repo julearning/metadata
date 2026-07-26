@@ -1,19 +1,11 @@
 {
   "title": "Building Information - Representation and Management: Principles and Foundations for the Digital Era",
   "url": "https://doi.org/10.5074/T.2022.001",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The book presents a coherent theory of building information, focusing on its representation and management in the digital era. It addresses issues such as the information explosion and the structure of analogue building representations to propose a parsimonious approach to the deployment and utiliza",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

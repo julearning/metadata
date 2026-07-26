@@ -1,19 +1,11 @@
 {
   "title": "Web Programming",
   "url": "https://en.wikibooks.org/wiki/Web_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Web programming is arguably the most important programming skill today. In this book we will introduce basic web programming concepts and development techniques using HTML, CSS, JavaScript, and PHP.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

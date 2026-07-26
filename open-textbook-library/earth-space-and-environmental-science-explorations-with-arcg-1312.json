@@ -1,19 +1,11 @@
 {
   "title": "Earth, Space, and Environmental Science Explorations with ArcGIS Pro",
   "url": "https://docs.google.com/document/d/1TOvvHjVRXJ5s_10S_dgsJ961-z0_jp7A/edit",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "When I first started teaching Geographic Information Systems (GIS) over 15 years ago, there were only a handful of GIS tutorial books on the market. While a few of them focused on a particular theme, many of them were mainly technical publications with no unifying theme. These publications are perfe",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

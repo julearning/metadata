@@ -1,19 +1,11 @@
 {
   "title": "Conversational bots",
   "url": "https://en.wikibooks.org/wiki/Conversational_bots",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Conversational bots are programs that carry out a conversation with users.\nThis tutorial will guide you through the basics of creating a simple conversational bot that analyses natural language input.\nIn what follows we will use the Go programming language in code examples.\nTo test out your code, yo",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

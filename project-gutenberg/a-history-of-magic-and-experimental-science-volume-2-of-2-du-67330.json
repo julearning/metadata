@@ -1,22 +1,14 @@
 {
   "title": "A History of Magic and Experimental Science, Volume 2 (of 2): During the First Thirteen Centuries of Our Era",
   "url": "https://www.gutenberg.org/ebooks/67330",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Magic -- History; Science -- History",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Thorndike, Lynn",
   "downloadCount": 1942,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

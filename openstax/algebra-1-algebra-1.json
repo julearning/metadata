@@ -1,21 +1,13 @@
 {
   "title": "Algebra 1",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/algebra-1_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"ndx98\"><i>Algebra 1</i> is a complete high school algebra curriculum that is 100% aligned with the Texas Essential Knowledge and Skills (TEKS) and the English Language Proficiency Standards (ELPS). OpenStax <i>Algebra 1</i> is a high-quality instructional material (HQIM) that is f",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Objective-C Programming",
   "url": "https://en.wikibooks.org/wiki/Objective-C_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Objective-C is an object-oriented programming language. It was named after the concept of adding objects to the C language.\nObjective C was introduced with NeXTSTEP and OPENSTEP, and was considerably extended in application due to its use with the Cocoa libraries under Mac OS X or the GNUstep librar",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

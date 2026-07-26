@@ -1,19 +1,11 @@
 {
   "title": "Beginning Java",
   "url": "https://en.wikibooks.org/wiki/Beginning_Java",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Java programming language is used widely in education and industry, and is a great choice as a first programming language. \nThe aim of this book is to provide a starting point for readers not only new to Java but to programming in general in a progressive order with examples they can follow.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

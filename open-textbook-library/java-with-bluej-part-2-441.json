@@ -1,19 +1,11 @@
 {
   "title": "Java with BlueJ Part 2",
   "url": "http://www.acs.uwinnipeg.ca/rmcfadyen/CreativeCommons/Part%202%20Chapters%201%202%203%204%205%206%207%208%209%2010.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is Part II of a two-part set that introduces the Java programming language. The text assumes the student will be using the BlueJ development environment and provides some introductory BlueJ material. Our experience has been that BlueJ is easy to learn and provides a good programming enviro",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

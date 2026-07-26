@@ -1,19 +1,11 @@
 {
   "title": "Torts: Cases and Contexts",
   "url": "https://www.cali.org/sites/default/files/Dec272016_FINAL_Cover_Volume2.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Structural Analysis",
   "branch": "CE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Plain-spoken and convivial, this casebook makes a deliberate effort to explain the law, rather than to provide a mere compilation of readings and questions. Simple concepts are presented simply. Complex concepts are broken down and accompanied by examples and problems. By being clear and straightfor",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

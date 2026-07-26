@@ -1,19 +1,11 @@
 {
   "title": "The Adventure of Physics - Vol. IV: The Quantum of Change",
   "url": "https://www.motionmountain.net/#chocobot:~:text=Download%20the%20files%20separately%20here%3A",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is written for anybody who is curious about nature and motion. Have you ever asked: Why do people, animals, things, images and space move? The answer leads to many adventures; this volume presents those due to the discovery that there is a smallest change value in nature. This smallest cha",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

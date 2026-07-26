@@ -1,19 +1,11 @@
 {
   "title": "PyGTK For GUI Programming",
   "url": "https://en.wikibooks.org/wiki/PyGTK_For_GUI_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "PyGTK For GUI Programming is an in-depth tutorial on the python bindings to the GTK+ toolkit, assuming no previous knowledge of GTK+.  The reader is expected to know enough about the Python programming language to be able to understand the examples, although experience with building GUI interfaces i",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

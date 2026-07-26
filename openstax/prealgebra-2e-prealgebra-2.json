@@ -1,21 +1,13 @@
 {
   "title": "Prealgebra 2e",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/prealgebra-2e_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"0qvxp\"><i>Prealgebra 2e</i> is designed to meet scope and sequence requirements for a one-semester prealgebra or basic math course. The book’s organization makes it easy to adapt to a variety of course syllabi. The text introduces the fundamental concepts of algebra while addressi",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Linear Transformations on Vector Spaces",
   "url": "https://palsave.hykucommons.org/downloads/c7c6c818-1085-4bc4-8713-6bdd5128e47d?locale=en",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Linear Transformations on Vector Spaces serves primarily as a textbook for undergraduate Linear Algebra courses. While standard Linear Algebra books begin by focusing on solving systems of linear equations and associated procedural skills, our book begins by developing a conceptual framework for the",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

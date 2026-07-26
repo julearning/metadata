@@ -1,19 +1,11 @@
 {
   "title": "Calculo diferencial e integral",
   "url": "https://mountainscholar.org/handle/20.500.11785/598",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Esta comunidad tiene como fin construir un texto base, que pretende ser la puerta de entrada al mundo de las matemáticas superiores y sus aplicaciones en el campo de las Ciencias de la Ingeniería.",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

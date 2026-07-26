@@ -1,19 +1,11 @@
 {
   "title": "Inteligencia Artificial",
   "url": "https://mountainscholar.org/handle/20.500.11785/589",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Este libro es una introducción al area de la Inteligencia Artificial y presenta algunas de las aplicaciones que puede tener en la vida real en diversos campos de aplicación, El libro esta compuesto de ocho capítulos los cuales abarcan los antededentes, algunos conceptos importantes para la resolució",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

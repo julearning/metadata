@@ -1,19 +1,11 @@
 {
   "title": "Coastal Dynamics",
   "url": "https://doi.org/10.5074/T.2021.001",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This textbook on Coastal Dynamics focuses on the interrelation between physical wave, flow and sediment transport phenomena and the resulting morphodynamics of a wide variety of coastal systems. The textbook is unique in that it explicitly connects the dynamics of open coasts and tidal basins; not o",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

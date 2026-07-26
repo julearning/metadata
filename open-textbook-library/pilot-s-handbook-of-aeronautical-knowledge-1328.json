@@ -1,19 +1,11 @@
 {
   "title": "Pilot’s Handbook of Aeronautical Knowledge",
   "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/faa-h-8083-25c.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Pilot’s Handbook of Aeronautical Knowledge (PHAK) is an essential book for any Remote, Sport, Recreational, Private, Commercial, and Instructor Pilot. It provides basic knowledge that is vital for all pilots. This handbook introduces pilots to the broad spectrum of knowledge that will be needed ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

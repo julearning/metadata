@@ -1,19 +1,11 @@
 {
   "title": "Thermodynamics and Chemistry",
   "url": "http://www2.chem.umd.edu/thermobook/downloads.htm",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Thermodynamics and Chemistry is designed primarily as a textbook for a one-semester course in classical chemical thermodynamics at the graduate or undergraduate level. It can also serve as a supplementary text and thermodynamics reference source.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

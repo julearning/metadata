@@ -1,19 +1,11 @@
 {
   "title": "Fundamentals of Physics",
   "url": "https://en.wikibooks.org/wiki/Fundamentals_of_Physics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Physics is an essential subject for many professions like astronomy, engineering, rocket science, architecture, and so on. A good free text book is absolutely essential. A book like Fundamentals of Physics ISBN 978-0-471-32000-5 by Halliday, Resnick, and Walker is the standard for many schools and c",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

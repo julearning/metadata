@@ -1,19 +1,11 @@
 {
   "title": "Linux Networking",
   "url": "https://en.wikibooks.org/wiki/Linux_Networking",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Linux Operating System boasts kernel based networking support written almost entirely from scratch. The performance of the tcp/ip implementation in recent kernels makes it a worthy alternative to even the best of its peers. This document aims to describe how to install and configure the Linux ne",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

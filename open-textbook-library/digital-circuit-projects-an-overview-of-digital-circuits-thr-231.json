@@ -1,19 +1,11 @@
 {
   "title": "Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits",
   "url": "https://cupola.gettysburg.edu/oer/1/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Digital circuits, often called Integrated Circuits or ICs, are the central building blocks of a Central Processing Unit (CPU). To understand how a computer works, it is essential to understand the digital circuits which make up the CPU. This text introduces the most important of these digital circui",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

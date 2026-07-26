@@ -1,19 +1,11 @@
 {
   "title": "Human Anatomy Lab Manual",
   "url": "https://uta.pressbooks.pub/anatomylab/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is a lab manual for a college-level human anatomy course. Mastery of anatomy requires a fair amount of memorization and recall skills. The activities in this manual encourage students to engage with new vocabulary in many ways, including grouping key terms, matching terms to structures, recalli",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

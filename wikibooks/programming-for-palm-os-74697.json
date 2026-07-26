@@ -1,19 +1,11 @@
 {
   "title": "Programming for Palm OS",
   "url": "https://en.wikibooks.org/wiki/Programming_for_Palm_OS",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Programming the Palm using SuperWaba\nProgramming the Palm using PRC-Tools\nUsing the PalmOS Emulator, POSE\nProgramming the Palm using C\nPilRC - the PILot Resource Compiler\nSmall fonts",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

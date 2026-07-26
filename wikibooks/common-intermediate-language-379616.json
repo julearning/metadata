@@ -1,19 +1,11 @@
 {
   "title": "Common Intermediate Language",
   "url": "https://en.wikibooks.org/wiki/Common_Intermediate_Language",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Common Intermediate Language (CIL) is a low-level programming language defined by the Common Language Infrastructure (CLI) specification and is used in both the .NET Framework and Mono. This Wikibook is meant to be both an introduction to CIL and a useful reference.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

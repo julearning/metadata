@@ -1,19 +1,11 @@
 {
   "title": "X Window Programming",
   "url": "https://en.wikibooks.org/wiki/X_Window_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book describes how to program the X Window System, a server application for Unix-like operating systems that lays ground for displaying graphics and gathering user input. The book assumes some basic knowledge on how to use a computer, how to set up and use The X Window System, how to use a comp",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

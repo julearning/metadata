@@ -1,19 +1,11 @@
 {
   "title": "Proof by Mathematical Induction",
   "url": "https://en.wikibooks.org/wiki/Proof_by_Mathematical_Induction",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Proof by Mathematical Induction — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

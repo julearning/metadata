@@ -1,19 +1,11 @@
 {
   "title": "An Open Guide to Data Structures and Algorithms",
   "url": "https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This textbook serves as a gentle introduction for undergraduates to theoretical concepts in data structures and algorithms in computer science while providing coverage of practical implementation (coding) issues. The field of computer science (CS) supports a multitude of essential technologies in sc",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

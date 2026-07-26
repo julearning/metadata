@@ -1,19 +1,11 @@
 {
   "title": "Molecular Techniques: A Project-Based Undergraduate Laboratory",
   "url": "https://milneopentextbooks.org/molecular-techniques/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Molecular biology, examining the structures and functions of nucleic acids and proteins, is crucial to advancing biological science and improving human life, particularly in agriculture and medicine. Advances in the field can transform a crop to resist disease or uncover clues to fight illness by ma",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

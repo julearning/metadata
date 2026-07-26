@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Behavioral Neuroscience",
   "url": "https://openstax.org/details/books/introduction-behavioral-neuroscience",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Introduction to Behavioral Neuroscience aligns to the topics and objectives of introductory behavioral neuroscience courses taught in psychology, biology, neuroscience, and similar departments. This offering is intended for undergraduates with no presumed college-level science coursework, and presen",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

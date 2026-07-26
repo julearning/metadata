@@ -1,19 +1,11 @@
 {
   "title": "Electromagnetics",
   "url": "https://vtechworks.lib.vt.edu/handle/10919/84164",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Electromagnetics Volume 1 by Steven W. Ellingson is a 238-page, peer-reviewed open educational resource intended for electrical engineering students in the third year of a bachelor of science degree program. It is intended as a primary textbook for a one-semester first course in undergraduate engine",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

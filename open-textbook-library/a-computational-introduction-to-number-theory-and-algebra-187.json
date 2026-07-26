@@ -1,19 +1,11 @@
 {
   "title": "A Computational Introduction to Number Theory and Algebra",
   "url": "http://shoup.net/ntb/ntb-v2.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "All of the mathematics required beyond basic calculus is developed “from scratch.” Moreover, the book generally alternates between “theory” and “applications”: one or two chapters on a particular set of purely mathematical concepts are followed by one or two chapters on algorithms and applications; ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

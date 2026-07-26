@@ -1,19 +1,11 @@
 {
   "title": "Mathematics Methods for Early Childhood",
   "url": "https://fhsu.pressbooks.pub/ecumath/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Welcome to Early Childhood Mathematics! This course satisfies the Early Childhood Unified requirements in the state of Kansas for a teaching license Birth to Grade 3. Most people agree that early childhood includes the period from infancy until eight years of age, characterized by rapid and complex ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "Essays of an Americanist: I. Ethnologic and Archæologic. II. Mythology and Folk Lore. III. Graphic Systems and Literature. IV. Linguistic.",
   "url": "https://www.gutenberg.org/ebooks/58464",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "America -- Antiquities; Indians",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Brinton, Daniel G. (Daniel Garrison)",
   "downloadCount": 1944,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

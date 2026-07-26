@@ -1,19 +1,11 @@
 {
   "title": "Basic Engineering Data Collection and Analysis",
   "url": "https://www.iastatedigitalpress.com/plugins/books/127/format/106/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "In Basic Engineering Data Collection and Analysis, Stephen B. Vardeman and J. Marcus Jobe stress the practical over the theoretical. Step by step, students get real engineering data and scenario examples along with chapter-long case studies that illustrate concepts in realistic, thoroughly detailed ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

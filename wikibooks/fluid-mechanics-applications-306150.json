@@ -1,19 +1,11 @@
 {
   "title": "Fluid Mechanics Applications",
   "url": "https://en.wikibooks.org/wiki/Fluid_Mechanics_Applications",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Fluid mechanics is the branch of physics which involves the study of fluids (liquids, gases, and plasmas) and the forces on them. Fluid mechanics can be divided into fluid statics, the study of fluids at rest; and fluid dynamics, the study of the effect of forces on fluid motion. It is a branch of c",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

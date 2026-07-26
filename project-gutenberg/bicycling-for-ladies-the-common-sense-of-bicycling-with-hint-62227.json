@@ -1,22 +1,14 @@
 {
   "title": "Bicycling for Ladies: The Common Sense of Bicycling; with Hints as to the Art of Wheeling—Advice to Beginners—Dress—Care of the Bicycle—Mechanics—Training—Exercise, etc., etc.",
   "url": "https://www.gutenberg.org/ebooks/62227",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Mechanics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Cycling; Cycling for women",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Ward, Maria E.",
   "downloadCount": 561,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

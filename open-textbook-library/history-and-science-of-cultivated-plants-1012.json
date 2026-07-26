@@ -1,19 +1,11 @@
 {
   "title": "History and Science of Cultivated Plants",
   "url": "https://open.oregonstate.education/cultivatedplants/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "History and Science of Cultivated Plants narrates how humans transitioned from foragers to farmers and have arrived at present-day industrial agriculture-based civilization. It entails myths, historical accounts, and scientific concepts to describe how human efforts have shaped and produced easier t",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

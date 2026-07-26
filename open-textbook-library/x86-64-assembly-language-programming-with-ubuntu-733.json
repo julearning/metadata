@@ -1,19 +1,11 @@
 {
   "title": "x86-64 Assembly Language Programming with Ubuntu",
   "url": "http://www.egr.unlv.edu/~ed/assembly64.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The purpose of this text is to provide a reference for University level assembly language and systems programming courses. Specifically, this text addresses the x86-64 instruction set for the popular x86-64 class of processors using the Ubuntu 64-bit Operating System (OS). While the provided code an",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

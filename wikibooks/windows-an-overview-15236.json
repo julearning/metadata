@@ -1,19 +1,11 @@
 {
   "title": "Windows: An Overview",
   "url": "https://en.wikibooks.org/wiki/Windows%3A_An_Overview",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "At the time of this era, the Microsoft Windows family of operating systems runs the vast majority of the world's home computers. How did Windows rapidly become the dominant operating system for home use on the planet?",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

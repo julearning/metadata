@@ -1,19 +1,11 @@
 {
   "title": "Python book of magic",
   "url": "https://en.wikibooks.org/wiki/Python_book_of_magic",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book teaches Python 3 for Blender users. It is also for people that just want to learn Python the easy and quick way.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

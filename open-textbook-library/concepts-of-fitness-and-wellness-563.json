@@ -1,19 +1,11 @@
 {
   "title": "Concepts of Fitness and Wellness",
   "url": "https://oer.galileo.usg.edu/cgi/viewcontent.cgi?article=1005&context=health-textbooks",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This open textbook for Concepts of Fitness and Wellness at Georgia Highlands College was created through a Round Seven ALG Textbook Transformation Grant.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

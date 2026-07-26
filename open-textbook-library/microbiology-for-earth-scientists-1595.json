@@ -1,19 +1,11 @@
 {
   "title": "Microbiology for Earth Scientists",
   "url": "https://newprairiepress.org/ebooks/53/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Microorganisms are the most abundant form of life on Earth and in recent decades it has become increasingly clear that their collective activities are one of the dominant forces shaping the Earth. This book provides earth scientists with an introduction to microbiology and a look at the ways microor",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

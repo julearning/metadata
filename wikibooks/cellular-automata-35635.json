@@ -1,19 +1,11 @@
 {
   "title": "Cellular Automata",
   "url": "https://en.wikibooks.org/wiki/Cellular_Automata",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Theory of Computation",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book aims to become a graduate to postgraduate level schoolbook on cellular automata. For those looking for a short informal introduction, see the Wikipedia page Cellular automaton.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

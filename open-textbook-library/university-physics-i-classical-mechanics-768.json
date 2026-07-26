@@ -1,19 +1,11 @@
 {
   "title": "University Physics I: Classical Mechanics",
   "url": "https://scholarworks.uark.edu/oer/3/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is a “minimalist” textbook for a first semester of university, calculus-based physics, covering classical mechanics (including one chapter on mechanical waves, but excluding fluids), plus a brief introduction to thermodynamics. The presentation owes much to Mazur’s The Principles and Practice o",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

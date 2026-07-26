@@ -1,19 +1,11 @@
 {
   "title": "Linear Algebra with Applications",
   "url": "https://collection.bccampus.ca/textbooks/linear-algebra-with-applications-2023-a-d-vretta-lyryx-inc-446/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-II",
   "branch": "CSE",
   "semester": 2,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The aim of this textbook is to achieve a balance among computational skills, theory, and applications of linear algebra. It is a relatively advanced introduction to the ideas and techniques of linear algebra targeted for science and engineering students who need to understand not only how to use the",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

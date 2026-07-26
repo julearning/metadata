@@ -1,19 +1,11 @@
 {
   "title": "Game Based and Adaptive Learning Strategies",
   "url": "https://mlpp.pressbooks.pub/gamebasedlearning/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is designed to accompany a graduate-level instructional design course: Game-Based and Adaptive Learning, but could also be used for undergraduate teacher education or instructional design courses. The original texts and material for this book came from the development of a course for Brand",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

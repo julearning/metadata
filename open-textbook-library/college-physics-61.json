@@ -1,19 +1,11 @@
 {
   "title": "College Physics",
   "url": "https://openstax.org/details/books/college-physics-2e",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "College Physics 2e introduces topics conceptually and progresses through clear explanations in the context of career-oriented, practical applications, and meets the scope and sequence of an algebra-based physics course. The narrative of physics and scientific discovery has been even further expanded",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

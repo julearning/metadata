@@ -1,22 +1,14 @@
 {
   "title": "Geology, Vol. 1 [of 3] : $b Geologic processes and their results",
   "url": "https://www.gutenberg.org/ebooks/74316",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Geology",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Salisbury, Rollin D., Chamberlin, Thomas C. (Thomas Chrowder)",
   "downloadCount": 713,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

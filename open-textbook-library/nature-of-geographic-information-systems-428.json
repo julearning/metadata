@@ -1,19 +1,11 @@
 {
   "title": "Nature of Geographic Information Systems",
   "url": "https://opentextbc.ca/natureofgeographicinformation/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The purpose of this text is to promote understanding of the Geographic Information Science and Technology enterprise (GIS&T, also known as “geospatial”).",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

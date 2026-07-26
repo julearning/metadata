@@ -1,19 +1,11 @@
 {
   "title": "Elements of Airplane Performance",
   "url": "https://books.open.tudelft.nl/home/catalog/book/235",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Elements of Airplane Performance provides a comprehensive introduction to the principles governing the flight performance of fixed-wing aircraft. After covering fundamental concepts related to atmospheric properties, equations of motion, aerodynamics, propeller and jet propulsion, electric powertrai",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

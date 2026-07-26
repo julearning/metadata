@@ -1,19 +1,11 @@
 {
   "title": "Big Data for Epidemiology: Applied Data Analysis Using National Health Surveys",
   "url": "https://uta.pressbooks.pub/bigdataforepidemiology/open/download?type=print_pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "National data sets provide an avenue for students to practice data analytic skills while also answering meaningful research questions. This open education resource was developed to train future public health professionals how to conduct secondary data analysis of national health surveys using SAS st",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

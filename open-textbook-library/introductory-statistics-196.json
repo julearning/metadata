@@ -1,19 +1,11 @@
 {
   "title": "Introductory Statistics",
   "url": "https://openstax.org/details/books/introductory-statistics-2e?Book%20details",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Introductory Statistics 2e provides an engaging, practical, and thorough overview of the core concepts and skills taught in most one-semester statistics courses. The text focuses on diverse applications from a variety of fields and societal contexts, including business, healthcare, sciences, sociolo",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

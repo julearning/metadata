@@ -1,19 +1,11 @@
 {
   "title": "Algorithms and Data Structures With Applications to Graphics and Geometry",
   "url": "https://www.dropbox.com/sh/fcd01oy6h102fn7/AACglU-e5UVHmYtCfE-nFpMwa?dl=0&preview=algorithms+and+data+structures.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "An introductory coverage of algorithms and data structures with application to graphics and geometry.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

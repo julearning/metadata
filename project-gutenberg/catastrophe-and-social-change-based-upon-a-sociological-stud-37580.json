@@ -1,22 +1,14 @@
 {
   "title": "Catastrophe and Social Change: Based Upon a Sociological Study of the Halifax Disaster",
   "url": "https://www.gutenberg.org/ebooks/37580",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Disasters; Halifax (N.S.) -- History; Halifax Explosion, Halifax, N.S., 1917; Social psychology",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Prince, Samuel Henry",
   "downloadCount": 752,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

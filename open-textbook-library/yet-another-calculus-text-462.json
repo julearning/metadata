@@ -1,19 +1,11 @@
 {
   "title": "Yet Another Calculus Text",
   "url": "http://yact.synechism.org/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "I intend this book to be, firstly, a introduction to calculus based on the hyperrealnumber system. In other words, I will use infinitesimal and infinite numbers freely. Just as most beginning calculus books provide no logical justification for the real number system, I will provide none for the hype",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

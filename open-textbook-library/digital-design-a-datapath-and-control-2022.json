@@ -1,19 +1,11 @@
 {
   "title": "Digital Design: A Datapath and Control",
   "url": "https://github.com/coulston/Digital-Design/blob/main/README.md",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Digital Logic & Design",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This text was written for faculty and students wanting a structured approach to the design of complex digital systems. It guides students and faculty through the process by exposing critical skills gradually through the text.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

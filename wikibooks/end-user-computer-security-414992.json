@@ -1,19 +1,11 @@
 {
   "title": "End-user Computer Security",
   "url": "https://en.wikibooks.org/wiki/End-user_Computer_Security",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Computer Security",
   "branch": "CSE",
   "semester": 6,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "End-user Computer Security — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Applied Robotics",
   "url": "https://en.wikibooks.org/wiki/Applied_Robotics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Robots are devices that can sense their environment, reason about the acquired information, and act on their environment. This course is a multidisciplinary hardware project design experience in which small teams of electrical and computer engineering, mechanical engineering, and computer science st",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

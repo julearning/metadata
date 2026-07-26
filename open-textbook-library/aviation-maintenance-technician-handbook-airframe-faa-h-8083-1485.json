@@ -1,19 +1,11 @@
 {
   "title": "Aviation Maintenance Technician Handbook – Airframe (FAA-H-8083-31B)",
   "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Aviation Maintenance Technician Handbook—Airframe (FAA-H-8083-31B) is one of a series of three handbooks for persons preparing for certification as an airframe or powerplant mechanic. This handbook provides basic information on principles, fundamentals, and technical procedures in the subject ma",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

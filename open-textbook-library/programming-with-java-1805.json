@@ -1,19 +1,11 @@
 {
   "title": "Programming with Java",
   "url": "https://paadopt.org/bookshelf/programming-with-java/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Programming with Java is a beginner-friendly eTextbook that introduces readers to the fundamentals of Java, one of the most widely used programming languages. It covers key concepts like syntax, data types, control structures, and object-oriented programming, offering clear explanations and practica",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

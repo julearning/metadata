@@ -1,19 +1,11 @@
 {
   "title": "Engineering Acoustics",
   "url": "https://en.wikibooks.org/wiki/Engineering_Acoustics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Acoustics is the science of sound, particularly its production, transmission, and effects.  Sound is defined as a small mechanical disturbance that may propagate at a speed characteristic of the medium, provided the medium is of great extent compared to a typical size of the disturbance.  Sound may ",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "A First Course in Linear Algebra",
   "url": "https://collection.bccampus.ca/textbooks/a-first-course-in-linear-algebra-2023-b-d-vretta-lyryx-inc-448/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-II",
   "branch": "CSE",
   "semester": 2,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This text, originally by K. Kuttler, has been redesigned by the Lyryx editorial team as a first course in linear algebra for science and engineering students who have an understanding of basic algebra. All major topics of linear algebra are available in detail, as well as proofs of important theorem",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

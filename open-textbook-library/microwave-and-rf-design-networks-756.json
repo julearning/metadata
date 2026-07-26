@@ -1,19 +1,11 @@
 {
   "title": "Microwave and RF Design: Networks",
   "url": "https://repository.lib.ncsu.edu/handle/1840.20/36776",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Microwave and RF Design: Networks presents the tools and techniques required to analyze and design microwave and RF circuits. Because of the finite speed of light, microwave circuits must be considered to be spatially distributed and so there is not a single ground. As such metrics that can be used ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

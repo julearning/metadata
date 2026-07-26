@@ -1,22 +1,14 @@
 {
   "title": "Electricity and Progress: Opening of the New York Electrical Show",
   "url": "https://www.gutenberg.org/ebooks/10209",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Electricity",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Edison, Thomas A. (Thomas Alva)",
   "downloadCount": 77,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

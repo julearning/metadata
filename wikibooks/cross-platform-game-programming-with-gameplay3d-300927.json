@@ -1,19 +1,11 @@
 {
   "title": "Cross-Platform Game Programming with gameplay3d",
   "url": "https://en.wikibooks.org/wiki/Cross-Platform_Game_Programming_with_gameplay3d",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Gameplay3d is a free and open-source C++/Lua programming framework which makes programming cross-platform games easier by handling many of the tasks which are common to all games, as well as providing a powerful library of classes. It supports both 3D and 2D and can be used to make games on the foll",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

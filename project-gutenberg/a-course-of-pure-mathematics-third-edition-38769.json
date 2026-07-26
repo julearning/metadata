@@ -1,22 +1,14 @@
 {
   "title": "A Course of Pure Mathematics: Third Edition",
   "url": "https://www.gutenberg.org/ebooks/38769",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Calculus; Functions",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Hardy, G. H. (Godfrey Harold)",
   "downloadCount": 2556,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

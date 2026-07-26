@@ -1,19 +1,11 @@
 {
   "title": "CORBA Programming",
   "url": "https://en.wikibooks.org/wiki/CORBA_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "CORBA stands for Common Object Request Broker Architecture. The original idea was to create a single universal standard for how objects across different platforms, programming languages, and network protocols can communicate with each other in a seamless manner. For example, an application developed",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Oz Programming",
   "url": "https://en.wikibooks.org/wiki/Oz_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Oz is a programming language which supports declarative programming, object-oriented programming, constraint programming, and concurrency as part of a coherent whole. For distribution, a common implementation (Mozart) provides a true network transparent implementation with support for network awaren",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

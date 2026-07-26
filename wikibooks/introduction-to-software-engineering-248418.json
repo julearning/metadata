@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Software Engineering",
   "url": "https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Software Engineering",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Preface",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

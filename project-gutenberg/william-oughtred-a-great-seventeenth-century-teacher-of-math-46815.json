@@ -1,22 +1,14 @@
 {
   "title": "William Oughtred: A Great Seventeenth-Century Teacher of Mathematics",
   "url": "https://www.gutenberg.org/ebooks/46815",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Mathematicians -- Biography; Mathematics -- Study and teaching -- History -- 17th century; Oughtred, William, 1575-1660",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Cajori, Florian",
   "downloadCount": 588,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

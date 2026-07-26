@@ -1,19 +1,11 @@
 {
   "title": "Logic for Computer Science",
   "url": "https://en.wikibooks.org/wiki/Logic_for_Computer_Science",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book discusses logic as a tool for computer science; a field that uses logic at all levels. It provides a survey of mathematical logic and its various applications. Some areas where it is particularly important include:                                                                            ",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

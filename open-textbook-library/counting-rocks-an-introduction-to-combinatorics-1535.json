@@ -1,19 +1,11 @@
 {
   "title": "Counting Rocks! An Introduction to Combinatorics",
   "url": "https://www.mathematicalgemstones.com/maria/OER.php",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This textbook, Counting Rocks!, is the written component of an interactive introduction to combinatorics at the undergradaute level. Throughout the text, we link to videos where we describe the material and provide examples; see the Youtube playlist on the Colorado State University (CSU) Mathematics",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

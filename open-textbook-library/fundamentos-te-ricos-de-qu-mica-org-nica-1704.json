@@ -1,19 +1,11 @@
 {
   "title": "Fundamentos teóricos de química orgánica",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/book/79",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Fundamentos teóricos de química orgánica es una obra integral que proporciona una comprensión sólida de los principios fundamentales de la química orgánica, dirigida tanto a estudiantes como a profesionales. El libro abarca desde los conceptos básicos de la química del carbono hasta la complejidad d",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

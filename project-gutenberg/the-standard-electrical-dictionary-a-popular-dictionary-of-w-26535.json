@@ -1,22 +1,14 @@
 {
   "title": "The Standard Electrical Dictionary: A Popular Dictionary of Words and Terms Used in the Practice of Electrical Engineering",
   "url": "https://www.gutenberg.org/ebooks/26535",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Electricity -- Dictionaries",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Sloane, T. O'Conor (Thomas O'Conor)",
   "downloadCount": 1926,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

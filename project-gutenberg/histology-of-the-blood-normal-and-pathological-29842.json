@@ -1,22 +1,14 @@
 {
   "title": "Histology of the Blood, Normal and Pathological",
   "url": "https://www.gutenberg.org/ebooks/29842",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Blood -- Examination; Blood Physiology; Blood cells -- Anatomy and histology; Hematologic Diseases -- Pathology",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Ehrlich, Paul, Lazarus, Adolf",
   "downloadCount": 618,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

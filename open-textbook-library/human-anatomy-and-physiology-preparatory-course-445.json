@@ -1,19 +1,11 @@
 {
   "title": "Human Anatomy and Physiology Preparatory Course",
   "url": "https://academicworks.cuny.edu/bx_oers/40/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The goal of this preparatory textbook is to give students a chance to become familiar with some terms and some basic concepts they will find later on in the Anatomy and Physiology course, especially during the first few weeks of the course. Organization and functioning of the human organism are gene",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

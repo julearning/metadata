@@ -1,19 +1,11 @@
 {
   "title": "SAT II Physics",
   "url": "https://en.wikibooks.org/wiki/SAT_II_Physics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Syllabus (as set by the College Board)\n\nCONTENT Approximate % of Test\nLevel of Concept Application\nRecall (20–33%)\nSingle-Concept Problem (40–53%)\nMultiple-Concept Problem (20–33%)\n\nThe purpose of this 'book' is to provide quick revision to students. It is  by no means a replacement for a typical sc",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

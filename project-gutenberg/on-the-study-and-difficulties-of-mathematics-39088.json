@@ -1,22 +1,14 @@
 {
   "title": "On the study and difficulties of mathematics",
   "url": "https://www.gutenberg.org/ebooks/39088",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Algebra; Geometry; Mathematics -- Study and teaching",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "De Morgan, Augustus",
   "downloadCount": 279,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "A Plea for the Criminal: Being a reply to Dr. Chapple's work: 'The Fertility of the Unfit', and an Attempt to explain the leading principles of Criminological and Reformatory Science",
   "url": "https://www.gutenberg.org/ebooks/28632",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Chapple, William Allan, 1864-1936. The fertility of the unfit; Crime; Criminals; Reformatories",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Kayll, James Leslie Allan",
   "downloadCount": 4790,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

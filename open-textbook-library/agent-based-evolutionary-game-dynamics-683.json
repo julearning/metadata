@@ -1,19 +1,11 @@
 {
   "title": "Agent-Based Evolutionary Game Dynamics",
   "url": "https://wisc.pb.unizin.org/agent-based-evolutionary-game-dynamics/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is a guide to implement and analyze simple agent-based evolutionary models using NetLogo. All the models we implement are agent-based, i.e. individual agents and their interactions are explicitly represented in the models. To formalise agents’ interactions we use the basic framework of Evo",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

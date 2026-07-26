@@ -1,19 +1,11 @@
 {
   "title": "Advanced High School Statistics",
   "url": "https://www.openintro.org/go?id=ahss3_for_screen_readers&referrer=/book/ahss/index.php",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "We hope readers will take away three ideas from this book in addition to forming a foundationof statistical thinking and methods. (1) Statistics is an applied field with a wide range of practical applications. (2) You don't have to be a math guru to learn from real, interesting data. (3) Data are me",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

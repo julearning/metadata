@@ -1,22 +1,14 @@
 {
   "title": "Electricity",
   "url": "https://www.gutenberg.org/ebooks/72062",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Electricity",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "McCormick, W. H. (William Henry)",
   "downloadCount": 533,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Data Science Using Python",
   "url": "https://paadopt.org/bookshelf/introduction-to-data-science-using-python/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book contains two parts, the first is designed to be used in an introductory programming course for students looking to learn Python, without having any prior experience with programming. Basic programming concepts are discussed, explained, and illustrated with a Python program. Ample programmi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

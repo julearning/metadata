@@ -1,19 +1,11 @@
 {
   "title": "An Introduction to Ontology Engineering",
   "url": "https://people.cs.uct.ac.za/~mkeet/files/OEbook.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This first general textbook An introduction to ontology engineering has as main aim to provide the reader with a comprehensive introductory overview of ontology engineering. A secondary aim is to provide hands-on experience in ontology development that illustrate the theory. The book is divided into",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

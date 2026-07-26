@@ -1,19 +1,11 @@
 {
   "title": "C++ Programming As A Set Of Problems",
   "url": "https://en.wikibooks.org/wiki/C%2B%2B_Programming_As_A_Set_Of_Problems",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "WE THE WRITERS of this book want to address an area where it seems programming books make a big mistake. From what we've seen, programming tutorials and books for C++ (and other languages, for that matter) are organized in the same old way. They start with \"basics\" like variables and control flow, e",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

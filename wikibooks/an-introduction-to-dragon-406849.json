@@ -1,19 +1,11 @@
 {
   "title": "An Introduction to Dragon",
   "url": "https://en.wikibooks.org/wiki/An_Introduction_to_Dragon",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Dragon is an innovative and practical general-purpose, multi-paradigm scripting language. It supports multiple programming paradigms such as imperative, object-oriented, functional, natural programming, procedural and declarative programming using nested structures. The language is portable (Windows",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

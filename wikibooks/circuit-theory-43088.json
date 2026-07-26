@@ -1,19 +1,11 @@
 {
   "title": "Circuit Theory",
   "url": "https://en.wikibooks.org/wiki/Circuit_Theory",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Most of electrical engineering was invented by 1925, reduced to practice by 1936, and mathematically analyzed and scientifically understood by 1945. So what makes this book different? Symbolic computation programs such as MATLAB, MuPAD, and Mathematica eliminate calculators and time consuming math. ",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

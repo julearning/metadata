@@ -1,22 +1,14 @@
 {
   "title": "The Cultural History of Marlborough, Virginia: An Archeological and Historical Investigation of the Port Town for Stafford County and the Plantation of John Mercer, Including Data Supplied by Frank M. Setzler and Oscar H. Darter",
   "url": "https://www.gutenberg.org/ebooks/40255",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Excavations (Archaeology) -- Virginia -- Marlborough; Marlborough (Va.) -- Antiquities; Mercer, John, 1704-1768; Plantation life -- Virginia",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Watkins, C. Malcolm",
   "downloadCount": 835,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

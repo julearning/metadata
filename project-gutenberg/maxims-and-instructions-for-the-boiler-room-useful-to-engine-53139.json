@@ -1,22 +1,14 @@
 {
   "title": "Maxims and Instructions for the Boiler Room: Useful to Engineers, Firemen & Mechanics; Relating to Steam Generators, Pumps, Appliances, Steam Heating, Practical Plumbing, etc.",
   "url": "https://www.gutenberg.org/ebooks/53139",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Mechanics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Steam-boilers -- Handbooks, manuals, etc.",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Hawkins, N. (Nehemiah)",
   "downloadCount": 555,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

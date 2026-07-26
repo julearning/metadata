@@ -1,21 +1,13 @@
 {
   "title": "Physics",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Physics_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"9qfdr\">This <i>Physics</i> resource was developed under the guidance and support of experienced high school teachers and subject matter experts. It is presented here in multiple formats: PDF, online, and low-cost print. Beginning with an introduction to physics and scientific proc",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

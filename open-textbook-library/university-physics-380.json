@@ -1,19 +1,11 @@
 {
   "title": "University Physics",
   "url": "https://cnx.org/contents/af275420-6050-4707-995c-57b9cc13c358",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "University Physics is a three-volume collection that meets the scope and sequence requirements for two- and three-semester calculus-based physics courses. Volume 1 covers mechanics, sound, oscillations, and waves. Volume 2 covers thermodynamics, electricity and magnetism, and Volume 3 covers optics ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

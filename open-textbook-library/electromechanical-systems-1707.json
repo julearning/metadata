@@ -1,19 +1,11 @@
 {
   "title": "Electromechanical Systems",
   "url": "https://shareok.org/handle/11244/316816",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This eBook was written as the third installment in the series that coincide with three engineering courses taught at the University of Oklahoma (ENGR 2431, ENGR 2531, and ENGR 3431). These courses were designed to provide non-major students – those not majoring in electrical or computer engineering ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

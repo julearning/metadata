@@ -1,19 +1,11 @@
 {
   "title": "Plant Molecular Genetics and Bioengineering",
   "url": "https://www.iastatedigitalpress.com/plugins/books/215/format/173/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This edited book presents an overview of the fundamental principles and applied methodologies used in the genetic improvement of crop plants. It covers the structure and function of genes controlling traits of agronomic importance, the regulation of gene expression and genetic pathways, and the role",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

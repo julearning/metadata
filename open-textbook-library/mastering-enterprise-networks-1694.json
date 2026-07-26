@@ -1,19 +1,11 @@
 {
   "title": "Mastering Enterprise Networks",
   "url": "https://eaglepubs.erau.edu/mastering-enterprise-networks-labs/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Mastering Enterprise Networks, is a comprehensive guide to building, defending, and attacking enterprise networks. It covers a wide range of topics, from network fundamentals to advanced security concepts. The book is well-organized and easy to follow, making it a valuable resource for both beginner",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

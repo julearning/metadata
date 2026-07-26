@@ -1,19 +1,11 @@
 {
   "title": "Measurement and Instrumentation: An Introduction to Concepts and Methods",
   "url": "https://shareok.org/handle/11244/325397.3",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Measurement and instrumentation are fundamental elements of many engineering projects. From research, to development, to manufacturing, to user products, engineers are constantly needing to measure things: brightness of a light, dimensions of an object, separation between things, frequency content, ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

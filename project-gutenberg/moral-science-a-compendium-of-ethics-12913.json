@@ -1,22 +1,14 @@
 {
   "title": "Moral Science; a Compendium of Ethics",
   "url": "https://www.gutenberg.org/ebooks/12913",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Ethics; Ethics -- History",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Bain, Alexander",
   "downloadCount": 726,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

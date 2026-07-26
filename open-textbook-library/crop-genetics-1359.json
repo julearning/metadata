@@ -1,19 +1,11 @@
 {
   "title": "Crop Genetics",
   "url": "https://iastate.pressbooks.pub/cropgenetics/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book provides an introduction to genetic concepts such as reproductive systems, recombination, mutation, segregation and linkage analysis, inbreeding, quantitative inheritance, fertility regulation, population genetics and polyploidy.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

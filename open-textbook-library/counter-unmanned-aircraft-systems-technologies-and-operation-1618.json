@@ -1,19 +1,11 @@
 {
   "title": "Counter Unmanned Aircraft Systems Technologies and Operations",
   "url": "https://newprairiepress.org/ebooks/31/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "As the quarter-century mark in the 21st Century nears, new aviation-related equipment has come to the forefront, both to help us and to haunt us. (Coutu, 2020). This is particularly the case with unmanned aerial vehicles (UAVs). These vehicles have grown in popularity and accessible to everyone. Of ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

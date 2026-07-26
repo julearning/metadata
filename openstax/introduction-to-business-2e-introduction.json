@@ -1,21 +1,13 @@
 {
   "title": "Introduction to Business 2e",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Business_2e_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Management Concepts",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"akecg\"><i>Introduction to Business 2e</i> provides a strong, multidimensional foundation in the concepts, skills, and real-world examples of contemporary business. Welcoming and relevant narratives support students as they engage in core themes such as decision making, ethics, cus",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

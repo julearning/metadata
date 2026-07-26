@@ -1,22 +1,14 @@
 {
   "title": "Ornithological biography, Vol. 1 (of 5) : $b An account of the habits of the birds of the United States of America",
   "url": "https://www.gutenberg.org/ebooks/56989",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Birds -- North America",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Audubon, John James",
   "downloadCount": 665,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

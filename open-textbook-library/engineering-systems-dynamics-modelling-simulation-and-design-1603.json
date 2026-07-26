@@ -1,19 +1,11 @@
 {
   "title": "Engineering Systems, Dynamics, Modelling, Simulation, and Design",
   "url": "https://collection.bccampus.ca/textbooks/engineering-systems-dynamics-modelling-simulation-and-design-lagrangian-and-bond-graph-methods-british-columbia-institute-of-technology-111/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This open educational resource presents effective system modelling methods, including Lagrangian and bond graph, and the application of a relevant engineering software tool, 20-sim. The content is designed for engineering students and professionals in the field to support their understanding and app",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,21 +1,13 @@
 {
   "title": "Principles of Macroeconomics for AP® Courses 2e",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/APMacroeconomics2e-OP_7sE2Bz3.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Economics for Engineers",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"8ch5a\"><i>Principles of Macroeconomics for AP</i><i><sup>®</sup></i><i> Courses 2e</i> covers the scope and sequence requirements for an Advanced Placement<sup>®</sup> macroeconomics course and is listed on the <a href=\"https://cb.collegeboard.org/ap-course-audit/courses/macroecon",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Sed",
   "url": "https://en.wikibooks.org/wiki/Sed",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "sed (\"stream editor\") is Unix utility for parsing and transforming text files, with ports available on a variety of operating systems. For many purposes, it has been superseded by perl (or the earlier AWK), but for simple transforms in shell scripts, sed retains some use.\nSed is line-oriented – it o",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

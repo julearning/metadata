@@ -1,19 +1,11 @@
 {
   "title": "Foundations of Epidemiology",
   "url": "https://open.oregonstate.education/epidemiology/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is intended to provide a basic introduction to epidemiologic methods and epidemiologic thinking. After reading this book, you should be able to read an epidemiologic study, understand what the authors did and why, and identify what they found. You will also have the tools to assess the qua",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

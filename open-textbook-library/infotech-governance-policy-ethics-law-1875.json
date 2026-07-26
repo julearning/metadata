@@ -1,19 +1,11 @@
 {
   "title": "InfoTech Governance, Policy, Ethics & Law",
   "url": "https://oercollective.caul.edu.au/infotech-governance-policy-ethics/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "A comprehensive guide to IT governance, policy, ethics and law for students, practitioners and researchers. Covers the latest developments and best practices in the field, with a focus on the ethical, legal and social implications of IT. The textbook is divided into nine chapters, each covering a ke",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

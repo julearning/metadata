@@ -1,22 +1,14 @@
 {
   "title": "Makers of Electricity",
   "url": "https://www.gutenberg.org/ebooks/45446",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Electricity -- Biography",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Walsh, James J. (James Joseph), Potamian, Brother",
   "downloadCount": 833,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Parrot Virtual Machine",
   "url": "https://en.wikibooks.org/wiki/Parrot_Virtual_Machine",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Parrot Virtual Machine is a runtime engine for use with dynamic programming languages such as Perl, Python, Ruby and PHP. While originally designed for use with version 6 of the Perl programming language, it has expanded to a general-purpose dynamic virtual machine to host multiple high-level la",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

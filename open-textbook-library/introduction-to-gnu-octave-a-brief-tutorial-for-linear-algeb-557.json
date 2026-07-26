@@ -1,19 +1,11 @@
 {
   "title": "Introduction to GNU Octave: A brief tutorial for linear algebra and calculus students",
   "url": "http://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This brief book provides a noncomprehensive introduction to GNU Octave, a free open source alternative to MatLab. The basic syntax and usage is explained through concrete examples from the mathematics courses a math, computer science, or engineering major encounters in the first two years of college",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

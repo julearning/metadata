@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Computer Graphics",
   "url": "http://math.hws.edu/graphicsbook/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Introduction to Computer Graphics is a free, on-line textbook covering the fundamentals of computer graphics and computer graphics programming. This book is meant for use as a textbook in a one-semester course that would typically be taken by undergraduate computer science majors in their third or f",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

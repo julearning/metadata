@@ -1,19 +1,11 @@
 {
   "title": "Anatomy and Physiology Laboratory Manual for Nursing and Allied Health",
   "url": "https://viva.pressbooks.pub/anatomyandphysiologylaboratorymanualfornursing/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Authors’ Institution: Norfolk State University, Norfolk, VA, USA Funding: Virtual Library of Virginia (VIVA) Course Redesign Grant, 2020 – 2023",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

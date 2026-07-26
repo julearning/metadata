@@ -1,19 +1,11 @@
 {
   "title": "Aviation Maintenance Technician Handbook – General (FAA-H-8083-30B)",
   "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/amtg_handbook.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Aviation Maintenance Technician Handbook–General (FAA-H-8083-30B) was developed as one of a series of three handbooks for persons preparing for mechanic certification with airframe or powerplant ratings, or both. It is intended that this handbook will provide basic information on principles, fun",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

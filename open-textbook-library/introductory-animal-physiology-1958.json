@@ -1,19 +1,11 @@
 {
   "title": "Introductory Animal Physiology",
   "url": "https://ecampusontario.pressbooks.pub/animalphysiology/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is an introduction to the diversity of structure and function in animals at the tissue and organ system level. The focus of this book is on principles and mechanisms that sustain life and maintain homeostasis, including water balance, gas exchange, acquisition and transport of oxygen and n",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

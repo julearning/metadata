@@ -1,22 +1,14 @@
 {
   "title": "Fables for Children, Stories for Children, Natural Science Stories, Popular Education, Decembrists, Moral Tales",
   "url": "https://www.gutenberg.org/ebooks/38025",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Russian literature -- Translations into English",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Tolstoy, Leo, graf",
   "downloadCount": 895,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

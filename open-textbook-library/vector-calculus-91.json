@@ -1,19 +1,11 @@
 {
   "title": "Vector Calculus",
   "url": "http://www.mecmath.net/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is a text on elementary multivariable calculus, designed for students who have completed courses in single-variable calculus. The traditional topics are covered: basic vector algebra; lines, planes and surfaces; vector-valued functions; functions of 2 or 3 variables; partial derivatives; optimi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

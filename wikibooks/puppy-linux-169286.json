@@ -1,19 +1,11 @@
 {
   "title": "Puppy Linux",
   "url": "https://en.wikibooks.org/wiki/Puppy_Linux",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Puppy Linux is an operating system like Microsoft Windows or Mac OS. More specifically it is a free distribution (distro) of Linux that can run live (without installation). It is specifically designed to be smaller than other distros (and faster or suitable for older hardware) but nevertheless fully",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

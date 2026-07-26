@@ -1,19 +1,11 @@
 {
   "title": "Lush",
   "url": "https://en.wikibooks.org/wiki/Lush",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Lush is a lisp-like object-oriented programming language designed for researchers, experimenters, and engineers interested in numerical applications, including computer vision and machine learning. Lush is designed to be used in situations where one would want to combine the flexibility of a high-le",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

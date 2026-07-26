@@ -1,19 +1,11 @@
 {
   "title": "Euclid's Elements Redux",
   "url": "https://archive.org/details/euclid-elements-redux_201809",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "\"Euclid's 'Elements' Redux\" is an open textbook on mathematical logic and geometry based on Euclid's \"Elements\" for use in grades 7-12 and in undergraduate college courses on proof writing. Many problem solvers throughout history wrestled with Euclid as part of their early education including Copern",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

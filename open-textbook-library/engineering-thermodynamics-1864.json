@@ -1,19 +1,11 @@
 {
   "title": "Engineering Thermodynamics",
   "url": "https://thermodynamicsbook.com/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This textbook offers a clear, progressive introduction to thermodynamics, tailored for university students and future engineers eager to understand the physical principles behind engines and refrigeration systems. With 59 fully-commented, step-by-step calculation examples and 96 problems with soluti",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

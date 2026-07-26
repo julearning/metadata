@@ -1,22 +1,14 @@
 {
   "title": "The Non-religion of the Future: A Sociological Study",
   "url": "https://www.gutenberg.org/ebooks/47421",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Irreligion and sociology; Religion; Social sciences",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Guyau, Jean-Marie",
   "downloadCount": 637,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

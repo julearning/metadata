@@ -1,22 +1,14 @@
 {
   "title": "A System of Logic: Ratiocinative and Inductive, 7th Edition, Vol. I",
   "url": "https://www.gutenberg.org/ebooks/35420",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Knowledge, Theory of; Logic; Science -- Methodology",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Mill, John Stuart",
   "downloadCount": 745,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

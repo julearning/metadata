@@ -1,19 +1,11 @@
 {
   "title": "Business Calculus with Excel",
   "url": "https://mathstat.slu.edu/~may/ExcelCalculus/LandingPage.html",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This text is intended for a one semester calculus course for business students with the equivalent of a college algebra prerequisite. Rather than being a three-semester engineering calculus course that has been watered down to fit into one semester it is designed for the business students.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

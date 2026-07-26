@@ -1,22 +1,14 @@
 {
   "title": "The Science of Human Nature: A Psychology for Beginners",
   "url": "https://www.gutenberg.org/ebooks/18477",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Educational psychology; Psychology",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Pyle, William Henry",
   "downloadCount": 1217,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

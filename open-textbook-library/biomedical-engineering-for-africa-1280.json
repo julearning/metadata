@@ -1,19 +1,11 @@
 {
   "title": "Biomedical Engineering for Africa",
   "url": "https://openbooks.uct.ac.za/uct/catalog/view/24/30/2309",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Health technology innovation in low- and middle-income countries (LMICs), including countries in Africa, falls far short of meeting the healthcare needs of these settings. The result is a heavy reliance on products and technologies imported from industrialised countries that are often not suited to,",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

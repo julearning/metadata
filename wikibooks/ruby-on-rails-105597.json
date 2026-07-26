@@ -1,19 +1,11 @@
 {
   "title": "Ruby on Rails",
   "url": "https://en.wikibooks.org/wiki/Ruby_on_Rails",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Welcome to the Ruby on Rails book.\nIf you are interested in learning more about the Ruby language, then please go to the Ruby Programming book.\nRuby on Rails, or often seen as RoR is a contemporary web framework used by many web companies such as Twitter, Hulu and Kongregate. It allows developers to",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

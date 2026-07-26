@@ -1,21 +1,13 @@
 {
   "title": "Elementary Algebra",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/ElementaryAlgebra-OP_Ft8T0ij.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"fp9d9\"><i>Elementary Algebra</i> is designed to meet the scope and sequence requirements of a one-semester elementary algebra course. The book’s organization makes it easy to adapt to a variety of course syllabi. The text expands on the fundamental concepts of algebra while addres",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

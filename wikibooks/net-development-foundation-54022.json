@@ -1,19 +1,11 @@
 {
   "title": ".NET Development Foundation",
   "url": "https://en.wikibooks.org/wiki/.NET_Development_Foundation",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Web Technologies",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Choose your navigation!\n\nYou can go directly to a chapter:\n\nChoose from the table of content on the right\nRead thru to read the preface and a resume of each chapter\nOr go to our All in one page where you will get the whole content on a single HTML page  with a consolidated TOC (a pretty big page act",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

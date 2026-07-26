@@ -1,19 +1,11 @@
 {
   "title": "Introducing Mathematical Biology",
   "url": "https://sheffield.pressbooks.pub/introducingmathematicalbiology/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Mathematical modelling plays an increasingly important role in almost any area of life sciences, and this interactive textbook focuses on the areas of population ecology, infectious diseases, immunology and cell dynamics, gene networks and pharmacokinetics. It is aimed at anyone who is interested in",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

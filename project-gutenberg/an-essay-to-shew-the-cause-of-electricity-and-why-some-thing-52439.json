@@ -1,22 +1,14 @@
 {
   "title": "An Essay to Shew the Cause of Electricity; and Why Some Things are Non-Electricable.: In Which Is Also Consider'd Its Influence in the Blasts on Human Bodies, in the Blights on Trees, in the Damps in Mines; And as It May Affect the Sensitive Plant, &c.",
   "url": "https://www.gutenberg.org/ebooks/52439",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Electricity -- Early works to 1850; Martin, Benjamin, 1705-1782. Essay on electricity",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Freke, John",
   "downloadCount": 321,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

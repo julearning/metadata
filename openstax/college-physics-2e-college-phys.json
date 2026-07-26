@@ -1,21 +1,13 @@
 {
   "title": "College Physics 2e",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/college-physics-2e_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"k4g94\"><i>College Physics 2e</i> introduces topics conceptually and progresses through clear explanations in the context of career-oriented, practical applications, and meets the scope and sequence of an algebra-based physics course. The narrative of physics and scientific discove",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

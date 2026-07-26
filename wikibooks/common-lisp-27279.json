@@ -1,19 +1,11 @@
 {
   "title": "Common Lisp",
   "url": "https://en.wikibooks.org/wiki/Common_Lisp",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Common Lisp (CL) is a modern, multi-paradigm, high-performance, compiled, ANSI-standardized, prominent descendant of the long-running family of Lisp programming languages.\nThe CL Hello World program reads as follows:\n\nWhich outputs:\n\nHello World!",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

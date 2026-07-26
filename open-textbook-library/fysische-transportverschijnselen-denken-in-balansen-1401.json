@@ -1,19 +1,11 @@
 {
   "title": "Fysische Transportverschijnselen - Denken in Balansen",
   "url": "https://doi.org/10.59490/mt.252",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "De transport- en overdrachtsprocessen van warmte, massa en impuls worden naar hun analogie behandeld. De processen worden beschreven met behulp van macro- en microbalansen die in veel gevallen leiden tot differentiaalvergelijkingen. Ook veel aspecten van stromingsleer komen op deze manier aan de ord",
-  "language": "dut",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Entropy for Beginners",
   "url": "https://en.wikibooks.org/wiki/Entropy_for_Beginners",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "In textbooks of thermodynamics the function of state ‘ENTROPY’ can be approached from first principles, making the study of thermodynamics well accessible.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

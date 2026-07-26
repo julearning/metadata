@@ -1,19 +1,11 @@
 {
   "title": "SQL Exercises",
   "url": "https://en.wikibooks.org/wiki/SQL_Exercises",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Data Structures & Algorithms",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The purpose of any exercise is to steadily develop skills and to acquire the automatic algorithms for fulfilling certain operations. As for the SQL language, practical exercises are intended to enable the database programmer to quickly devise SQL queries in order to solve practically any problem, by",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

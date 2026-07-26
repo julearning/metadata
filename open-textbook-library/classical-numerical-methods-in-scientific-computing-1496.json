@@ -1,19 +1,11 @@
 {
   "title": "Classical Numerical Methods in Scientific Computing",
   "url": "https://doi.org/10.59490/t.2023.007",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Partial differential equations are paramount in mathematical modelling with applications in engineering and science. The book starts with a crash course on partial differential equations in order to familiarize the reader with fundamental properties such as existence, uniqueness and possibly existin",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

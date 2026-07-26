@@ -1,19 +1,11 @@
 {
   "title": "Chipmunk Basic pocketManual",
   "url": "https://en.wikibooks.org/wiki/Chipmunk_Basic_pocketManual",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Chipmunk Basic pocketManual as supplied to freeware interpreter for Basic programming language called Chipmunk Basic (release 3 version 6 update 6 patch 0) for Mac OS X (Snow Leopard) or newer by Ron H Nicholson. Some statements work only in the GUI-version, other via the command line interface or b",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

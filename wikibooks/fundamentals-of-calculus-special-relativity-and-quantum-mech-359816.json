@@ -1,19 +1,11 @@
 {
   "title": "Fundamentals of Calculus, Special Relativity and Quantum mechanics",
   "url": "https://en.wikibooks.org/wiki/Fundamentals_of_Calculus%2C_Special_Relativity_and_Quantum_mechanics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Fundamentals of Calculus, Special Relativity and Quantum mechanics — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

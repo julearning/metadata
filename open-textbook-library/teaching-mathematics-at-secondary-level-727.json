@@ -1,19 +1,11 @@
 {
   "title": "Teaching Mathematics at Secondary Level",
   "url": "https://www.openbookpublishers.com/product/340",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Teaching Mathematics is nothing less than a mathematical manifesto. Arising in response to a limited National Curriculum, and engaged with secondary schooling for those aged 11 ̶ 14 (Key Stage 3) in particular, this handbook for teachers will help them broaden and enrich their students’ mathematical",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

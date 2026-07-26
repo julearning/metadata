@@ -1,22 +1,14 @@
 {
   "title": "Electricity for the 4-H Scientist",
   "url": "https://www.gutenberg.org/ebooks/38036",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Electricity -- Juvenile literature",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Wilson, Eric B.",
   "downloadCount": 349,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

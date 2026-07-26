@@ -1,19 +1,11 @@
 {
   "title": "Handbook of Software Engineering Methods",
   "url": "https://open.oregonstate.education/setextbook/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Software engineering can help people create sustainable, extensible programs that solve problems people care about.I won’t tell you how to be a software engineer; you’ll learn that over time by doing it. Instead, this book is about software engineering methods: Ways people achieve specific objective",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "Lippincott's Magazine of Popular Literature and Science, Vol. 22, November, 1878",
   "url": "https://www.gutenberg.org/ebooks/25030",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Literature, Modern -- 19th century -- Periodicals; Science -- Periodicals",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
   "downloadCount": 3003,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

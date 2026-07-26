@@ -1,19 +1,11 @@
 {
   "title": "Statistics with JASP: First Steps for Psychology Students",
   "url": "https://sheffield.pressbooks.pub/help4jasp/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "New to statistics software? This guide is designed just for you. Whether you are studying psychology or any subject that involves analysing data, this easy-to-follow introduction to JASP will help you get to grips with the basics—no previous experience needed. Originally written for first-year psych",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

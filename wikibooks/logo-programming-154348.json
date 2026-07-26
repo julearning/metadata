@@ -1,19 +1,11 @@
 {
   "title": "Logo Programming",
   "url": "https://en.wikibooks.org/wiki/Logo_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Logo inherits lists from Lisp, and they are its primary method of storing vectors. Arrays are also provided.\n\nOperators exist to convert words into lists, and lists into arrays and back again.\nThis data type has the advantage over arrays that it is infinitely expandable. Data are extracted using the",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

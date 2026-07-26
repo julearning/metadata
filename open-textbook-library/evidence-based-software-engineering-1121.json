@@ -1,19 +1,11 @@
 {
   "title": "Evidence-based Software Engineering",
   "url": "http://knosof.co.uk/ESEUR/ESEUR.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book discusses what is currently known about software engineering, based on an analysis of all the publicly available data. This aim is not as ambitious as it sounds, because there is not a great deal of data publicly available. The intent is to provide material that is useful to professional d",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

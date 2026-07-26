@@ -1,19 +1,11 @@
 {
   "title": "Message-Passing Interface",
   "url": "https://en.wikibooks.org/wiki/Message-Passing_Interface",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This guide assumes you have previous knowledge about C programming and will present you Message-Passing Interface (MPI) by several examples.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "GNU C Compiler Internals",
   "url": "https://en.wikibooks.org/wiki/GNU_C_Compiler_Internals",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Theory of Computation",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "GNU C Compiler Internals — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

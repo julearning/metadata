@@ -1,19 +1,11 @@
 {
   "title": "An Animated Introduction to Digital Logic Design",
   "url": "https://digitalcommons.njit.edu/oat/1/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Digital Logic & Design",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is designed for use in an introductory course on digital logic design, typically offered in computer engineering, electrical engineering, computer science, and other related programs. Such a course is usually offered at the sophomore level. This book makes extensive use of animation to ill",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

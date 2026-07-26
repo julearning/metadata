@@ -1,19 +1,11 @@
 {
   "title": "Foundations of Neuroscience",
   "url": "https://openbooks.lib.msu.edu/neuroscience/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Foundations of Neuroscience is aimed at undergraduate students new to the field of neuroscience. The first edition specifically targets students enrolled in Neurobiology at Michigan State University and primarily contains topics covered in that course.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

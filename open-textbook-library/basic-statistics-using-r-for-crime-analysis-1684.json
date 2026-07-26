@@ -1,19 +1,11 @@
 {
   "title": "Basic Statistics Using R for Crime Analysis",
   "url": "https://paadopt.org/bookshelf/basic-statistics-using-r-for-crime-analysis/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Limited access to subscription-based statistical software poses obstacles when students want to apply the skills they acquired in college. Although students may learn programs like SPSS or Stata while at the university, they often find themselves unable to continue using these programs after graduat",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

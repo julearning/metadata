@@ -1,19 +1,11 @@
 {
   "title": "Mathematical Reasoning and Investigation",
   "url": "https://deakin.pressbooks.pub/mathematicalreasoninginvestigation/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Mathematical Reasoning and Investigation is designed to help you develop the ability to use mathematics to solve the kinds of problems that don't come with answers in the back of the book. We like to think of it as a mathematics book for people who think they're not good at mathematics. The work wil",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

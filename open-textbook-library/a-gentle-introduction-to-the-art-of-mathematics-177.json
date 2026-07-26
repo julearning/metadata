@@ -1,19 +1,11 @@
 {
   "title": "A Gentle Introduction to the Art of Mathematics",
   "url": "https://osj1961.github.io/giam/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is designed for the transition course between calculus and differential equations and the upper division mathematics courses with an emphasis on proof and abstraction. The book has been used by the author and several other faculty at Southern Connecticut State University. There are nine ch",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

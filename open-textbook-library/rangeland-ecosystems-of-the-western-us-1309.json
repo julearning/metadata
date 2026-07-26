@@ -1,19 +1,11 @@
 {
   "title": "Rangeland Ecosystems of the Western US",
   "url": "https://open.oregonstate.education/rangelandecosystems/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Rangeland Ecosystems of the Western US conveys fundamentals of autecology and synecology and general information about the primary ecosystems covered. Its structure will provide a framework that can be applied to understand and analyze any arid shrubland, desert, or woodland savanna.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

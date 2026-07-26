@@ -1,19 +1,11 @@
 {
   "title": "Artificial Intelligence for Computational Sustainability: A Lab Companion",
   "url": "https://en.wikibooks.org/wiki/Artificial_Intelligence_for_Computational_Sustainability%3A_A_Lab_Companion",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Machine Learning",
   "branch": "CSE",
   "semester": 6,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Artificial Intelligence for Computational Sustainability: A Lab Companion — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

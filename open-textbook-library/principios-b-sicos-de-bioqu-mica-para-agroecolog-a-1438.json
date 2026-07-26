@@ -1,19 +1,11 @@
 {
   "title": "Principios Básicos de Bioquímica para Agroecología",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/view/23/33/121",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "El libro \"Principios Básicos de Bioquímica para Agroecología\" es una obra que busca proporcionar a los estudiantes de esta disciplina una base sólida en los fundamentos de la bioquímica, escrita por un equipo de docentes investigadores, se presenta como un recurso didáctico para aquellos estudiantes",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

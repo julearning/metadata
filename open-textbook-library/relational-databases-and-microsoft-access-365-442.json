@@ -1,19 +1,11 @@
 {
   "title": "Relational Databases and Microsoft Access 365",
   "url": "https://ecampusontario.pressbooks.pub/relationaldatabasesandmicrosoftaccess365/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This text is a free introductory text that introduces MS Access and relational database design. The motivation is to support an introductory database system course which, to the student, is either a service course providing an introduction to database concepts, or, as a prerequisite for more advance",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

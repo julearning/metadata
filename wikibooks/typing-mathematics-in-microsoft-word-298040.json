@@ -1,19 +1,11 @@
 {
   "title": "Typing Mathematics in Microsoft Word",
   "url": "https://en.wikibooks.org/wiki/Typing_Mathematics_in_Microsoft_Word",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is about the Math Builder (officially called as Equation Editor) tool in Microsoft Word and Outlook 2007 and higher. It also applies to Microsoft PowerPoint and Excel 2010 and higher. Note that this is a different tool than the legacy tool Equation Editor 3.0 (which is still available on 3",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Geometrische Optica",
   "url": "https://doi.org/10.59490/mt.240",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The book provides the scientific basis of geometrical optics, ray tracing, and aberration theory. It applies this knowledge to optical systems and their imaging performance and establishes the link between ray optics and wave optics.",
-  "language": "dut",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

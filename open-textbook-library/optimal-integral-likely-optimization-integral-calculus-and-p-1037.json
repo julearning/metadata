@@ -1,19 +1,11 @@
 {
   "title": "Optimal, Integral, Likely Optimization, Integral Calculus, and Probability for Students of Commerce and the Social Sciences",
   "url": "https://nisha-malhotra.arts.ubc.ca/open-textbook/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Optimal, Integral, Likely is a free, open-source textbook intended for UBC’s course MATH 105: Integral Calculus with Applications to Commerce and Social Sciences. It is shared under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

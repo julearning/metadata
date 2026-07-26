@@ -1,21 +1,13 @@
 {
   "title": "Precalculus 2e",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/precalculus-2e_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"sj859\"><i>Precalculus 2e</i> provides a comprehensive exploration of mathematical principles and meets scope and sequence requirements for a typical precalculus course. The text proceeds from functions through trigonometry and ends with an introduction to calculus. The modular app",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

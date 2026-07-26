@@ -1,22 +1,14 @@
 {
   "title": "Lectures on Elementary Mathematics",
   "url": "https://www.gutenberg.org/ebooks/36640",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Mathematics",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Lagrange, J. L. (Joseph Louis)",
   "downloadCount": 185,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

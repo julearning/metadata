@@ -1,22 +1,14 @@
 {
   "title": "IBM 1401 Programming Systems",
   "url": "https://www.gutenberg.org/ebooks/27468",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "IBM 1401 (Computer) -- Programming",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Anonymous",
   "downloadCount": 450,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

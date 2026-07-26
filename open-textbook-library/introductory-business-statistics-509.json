@@ -1,19 +1,11 @@
 {
   "title": "Introductory Business Statistics",
   "url": "https://openstax.org/details/books/introductory-business-statistics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Introductory Business Statistics 2e aligns with the topics and objectives of the typical one-semester statistics course for business, economics, and related majors. The text provides detailed and supportive explanations and extensive step-by-step walkthroughs. The author places a significant emphasi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

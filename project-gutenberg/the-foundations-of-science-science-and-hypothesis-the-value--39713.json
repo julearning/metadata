@@ -1,22 +1,14 @@
 {
   "title": "The Foundations of Science: Science and Hypothesis, The Value of Science, Science and Method",
   "url": "https://www.gutenberg.org/ebooks/39713",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Mathematics -- Philosophy; Science -- Methodology; Science -- Philosophy",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Poincaré, Henri",
   "downloadCount": 1669,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

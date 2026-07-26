@@ -1,19 +1,11 @@
 {
   "title": "COMPUTATIONAL PHYSICS: A Practical Introduction to Computational Physics and Scientific Computing (using C++)",
   "url": "http://www.physics.ntua.gr/~konstant/ComputationalPhysics/C++/Book/ComputationalPhysicsKNA2ndEd.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is an introduction to the computational methods used in physics, but also in other scientific fields. It is addressed to an audience that has already been exposed to the introductory level of college physics, usually taught during the first two years of an undergraduate program in science ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

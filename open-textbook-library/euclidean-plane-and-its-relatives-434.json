@@ -1,19 +1,11 @@
 {
   "title": "Euclidean plane and its relatives",
   "url": "https://arxiv.org/pdf/1302.1630v19.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is meant to be rigorous, conservative, elementary and minimalist. At the same time it includes about the maximum what students can absorb in one semester. Approximately one-third of the material used to be covered in high school, but not any more.The present book is based on the courses gi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

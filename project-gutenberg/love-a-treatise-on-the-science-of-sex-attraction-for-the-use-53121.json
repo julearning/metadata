@@ -1,22 +1,14 @@
 {
   "title": "Love: A Treatise on the Science of Sex-attraction: for the use of Physicians and Students of Medical Jurisprudence",
   "url": "https://www.gutenberg.org/ebooks/53121",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Sex",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Talmey, Bernard Simon",
   "downloadCount": 1027,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

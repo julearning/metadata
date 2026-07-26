@@ -1,19 +1,11 @@
 {
   "title": "Chromosomes, Genes, and Traits: An Introduction to Genetics [Revised Edition]",
   "url": "https://rotel.pressbooks.pub/genetics/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This resource is intended for an introductory or intermediate-level college genetics course. It begins with an exploration of DNA and genome structure and continues with a study of the molecular mechanisms that drive gene expression. Concepts of classical transmission genetics are linked to the mole",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

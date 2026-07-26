@@ -1,19 +1,11 @@
 {
   "title": "Python for Introductory Statistics",
   "url": "https://github.com/SAman2CCC/PythonForStat/blob/master/README.md",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The purpose of this material is to provide an overview of the free programming language, Python, and a few of its software libraries that are most useful for improving Introductory Statistics students' learning and for providing an alternative statistical software package for those who perform stati",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "The New Testament: Translated From the Original Greek, With Chronological Arrangement of the Sacred Books, and Improved Divisions of Chapters and Verses.",
   "url": "https://www.gutenberg.org/ebooks/25901",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Bible. New Testament",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "",
   "downloadCount": 582,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

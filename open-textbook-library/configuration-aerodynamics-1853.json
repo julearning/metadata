@@ -1,19 +1,11 @@
 {
   "title": "Configuration Aerodynamics",
   "url": "https://hdl.handle.net/10919/139932",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Practical applications of aerodynamic theory are critically important for aerodynamic design of aircraft configurations, but are often omitted from aerospace engineering curricula. Lecture Notes on Configuration Aerodynamics is an incredible resource for educating the next generation of aerospace en",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Basics of Fluid Mechanics",
   "url": "https://zenodo.org/records/17328511",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The topic of fluid mechanics is common to several disciplines: mechanical engineering, aerospace engineering, chemical engineering, and civil engineering. In fact, it is also related to disciplines like industrial engineering, and electrical engineering. While the emphasis is somewhat different in t",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

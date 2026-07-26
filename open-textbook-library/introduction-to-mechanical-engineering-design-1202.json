@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Mechanical Engineering Design",
   "url": "https://iastate.pressbooks.pub/me270baughman/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "A collection of readings and exercises aligned with the course, ME 270, Introduction to Mechanical Engineering Design, at Iowa State University. This course provides an overview of mechanical engineering design with applications to thermal and mechanical systems, and an introduction to current desig",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

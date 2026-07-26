@@ -1,19 +1,11 @@
 {
   "title": "Deep into Pharo",
   "url": "https://files.pharo.org/books-pdfs/deep-into-pharo/2013-DeepIntoPharo-EN.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Pharo is a clean, innovative, open-source, live-programming environment. Deep into Pharois the second volume of a series of books covering Pharo. Whereas the first volume is intended for newcomers, this second volume covers deeper topics.You will learn about Pharo frameworks and libraries such as Gl",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

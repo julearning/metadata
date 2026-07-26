@@ -1,19 +1,11 @@
 {
   "title": "Linear Algebra Done Right",
   "url": "https://link.springer.com/book/10.1007/978-3-031-41026-0",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-II",
   "branch": "CSE",
   "semester": 2,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Now available in Open Access, this best-selling textbook for a second course in linear algebra is aimed at undergraduate math majors and graduate students. The fourth edition gives an expanded treatment of the singular value decomposition and its consequences. It includes a new chapter on multilinea",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

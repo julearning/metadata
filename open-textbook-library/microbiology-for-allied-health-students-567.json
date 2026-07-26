@@ -1,19 +1,11 @@
 {
   "title": "Microbiology for Allied Health Students",
   "url": "https://oer.galileo.usg.edu/biology-textbooks/15/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Microbiology for Allied Health Students is designed to cover the scope and sequence requirements for the single semester Microbiology course for non-majors and allied health students. The book presents the core concepts of microbiology with a focus on applications for careers in allied health. The p",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

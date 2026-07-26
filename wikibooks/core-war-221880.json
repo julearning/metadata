@@ -1,19 +1,11 @@
 {
   "title": "Core War",
   "url": "https://en.wikibooks.org/wiki/Core_War",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Core War is a programming game, based around a variation of assembly language known as Redcode.  In a standard game of Core War, two or more programs are placed in a circular region of memory with the objective of causing the other program to fail.  \nThe Redcode language was first described in a 198",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

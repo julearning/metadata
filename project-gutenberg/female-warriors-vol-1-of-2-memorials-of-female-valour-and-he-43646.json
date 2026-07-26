@@ -1,22 +1,14 @@
 {
   "title": "Female Warriors, Vol. 1 (of 2): Memorials of Female Valour and Heroism, from the Mythological Ages to the Present Era.",
   "url": "https://www.gutenberg.org/ebooks/43646",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Amazons; Women -- Biography; Women soldiers",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Clayton, Ellen C. (Ellen Creathorne)",
   "downloadCount": 705,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

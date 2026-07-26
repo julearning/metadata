@@ -1,22 +1,14 @@
 {
   "title": "Bulletin of the Nuttall Ornithological Club : $b A quarterly journal of ornithology, Volume VII (1882)",
   "url": "https://www.gutenberg.org/ebooks/72584",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Birds -- Periodicals; Ornithology -- Periodicals",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Nuttall Ornithological Club",
   "downloadCount": 971,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

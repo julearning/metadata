@@ -1,22 +1,14 @@
 {
   "title": "Physics and Politics, or, Thoughts on the application of the principles of \"natural selection\" and \"inheritance\" to political society",
   "url": "https://www.gutenberg.org/ebooks/4350",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Evolution; Nationalism; Political science",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Bagehot, Walter",
   "downloadCount": 611,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

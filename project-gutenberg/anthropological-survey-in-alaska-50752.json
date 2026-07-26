@@ -1,22 +1,14 @@
 {
   "title": "Anthropological Survey in Alaska",
   "url": "https://www.gutenberg.org/ebooks/50752",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Alaska -- Antiquities; Eskimos; Eskimos -- Anthropometry; Indians of North America -- Alaska; Indians of North America -- Yukon",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Hrdlička, Aleš",
   "downloadCount": 587,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

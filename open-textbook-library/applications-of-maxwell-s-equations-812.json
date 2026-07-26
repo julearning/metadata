@@ -1,19 +1,11 @@
 {
   "title": "Applications of Maxwell's Equations",
   "url": "https://phys.libretexts.org/Bookshelves/Electricity_and_Magnetism/Book%3A_Applications_of_Maxwells_Equations_(Cochran_and_Heinrich)",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book was developed at Simon Fraser University for an upper-level physics course. Along with a careful exposition of electricity and magnetism, it devotes a chapter to ferromagnets. According to the course description, the topics covered were “electromagnetics, magnetostatics, waves, transmissio",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

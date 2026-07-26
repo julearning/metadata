@@ -1,19 +1,11 @@
 {
   "title": "VirtualBox",
   "url": "https://en.wikibooks.org/wiki/VirtualBox",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Welcome to the VirtualBox wikibook! Here we'll guide you through the installation and use of operating systems in a \"virtual machine\" that is sandboxed and hardware-accelerated using Oracle VM VirtualBox, an open-source hypervisor currently being developed by Oracle (formerly Sun Microsystems). It's",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

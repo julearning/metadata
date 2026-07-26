@@ -1,19 +1,11 @@
 {
   "title": "Think Complexity: Exploring Complexity Science with Python",
   "url": "https://greenteapress.com/wp/think-complexity-2e/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Complexity science uses computation to explore the physical and social sciences. In Think Complexity, you'll use graphs, cellular automata, and agent-based models to study topics in physics, biology, and economics. Whether you're an intermediate-level Python programmer or a student of computational ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

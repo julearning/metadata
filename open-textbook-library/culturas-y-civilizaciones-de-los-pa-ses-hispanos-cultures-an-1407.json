@@ -1,19 +1,11 @@
 {
   "title": "Culturas y Civilizaciones de los Países Hispanos (Cultures and Civilizations of the Hispanic Countries)",
   "url": "https://pressbooks.palni.org/culturaycivilizaciondelospaiseshispanos/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Structural Analysis",
   "branch": "CE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "La presente obra, Culturas y civilizaciones de los países hispanos, nace con el propósito de ofrecer una visión amplia y profunda de las culturas que conforman el mundo hispanohablante, desde sus raíces históricas, sus civilizaciones y movimientos sociales hasta sus complejidades contemporáneas. Est",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

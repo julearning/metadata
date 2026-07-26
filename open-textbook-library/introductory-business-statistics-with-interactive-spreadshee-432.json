@@ -1,19 +1,11 @@
 {
   "title": "Introductory Business Statistics with Interactive Spreadsheets",
   "url": "https://opentextbc.ca/introductorybusinessstatistics/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Introductory Business Statistics with Interactive Spreadsheets – 1st Canadian Edition is an adaptation of Thomas K. Tiemann's book, Introductory Business Statistics. This new edition still contains the basic ideas behind statistics, such as populations, samples, the difference between data and infor",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

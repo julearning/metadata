@@ -1,19 +1,11 @@
 {
   "title": "Mycology Laboratory Manual",
   "url": "https://paadopt.org/bookshelf/mycology-laboratory-manual/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Mycology Laboratory Manual (2025) by Laura Ramos-Sepulveda is an eTextbook designed for undergraduate students to introduce them to mycology. The laboratory manual provides students with foundational knowledge in mycology and hands-on experience with key concepts such as fungal hyphal and yeast grow",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

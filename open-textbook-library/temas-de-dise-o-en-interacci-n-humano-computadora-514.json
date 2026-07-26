@@ -1,19 +1,11 @@
 {
   "title": "Temas de Diseño en Interacción Humano-Computadora",
   "url": "https://mountainscholar.org/handle/20.500.11785/591",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "El nivel académico que pretende abordar el libro es en las diferentes licenciaturas e ingenierías que consideren tópicos en el área de interacción humano computadora, así como los posgrados relacionados con la temática. El libro describe diferentes tipos de interacción que pueden ofrecer las aplicac",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Quantitative Ecology: A New Unified Approach",
   "url": "https://conservancy.umn.edu/handle/11299/204551",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Quantitative Ecology introduces and discusses the principles of ecology from populations to ecosystems including human populations, disease, exotic organisms, habitat fragmentation, biodiversity and global dynamics. The book also reformulates and unifies ecological equations making them more accessi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

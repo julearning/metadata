@@ -1,19 +1,11 @@
 {
   "title": "Advanced Data Structures and Algorithms",
   "url": "https://en.wikibooks.org/wiki/Advanced_Data_Structures_and_Algorithms",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Data Structures & Algorithms",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is a book to complement the Data Structures book and the Algorithms book, and assumes these books as prerequisites.\nThere are two conflicting goals in online book writing:\n\nto be an introduction to fundamental material\nto be a complete reference work that includes discussions of tangential mate",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

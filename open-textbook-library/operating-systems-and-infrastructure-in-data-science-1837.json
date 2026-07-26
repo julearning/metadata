@@ -1,19 +1,11 @@
 {
   "title": "Operating Systems and Infrastructure in Data Science",
   "url": "https://digitalcollection.zhaw.ch/items/ed1a3e7b-420c-479b-add1-a10f990d9a4c",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Modern data scientists work with a number of tools and operating system facilities in addition to online platforms. Mastering these in combination to manage their data and to deploy software, models and data as ready-to-use online services as well as to perform data science and analysis tasks is in ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Fundamentals of Human Anatomy Laboratory Manual",
   "url": "https://iastate.pressbooks.pub/humananatomylab/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This laboratory manual is meant to be used in a lab course that accompanies a college-level introductory human anatomy course. It covers the language of anatomy, cells and tissues, and the organ systems that comprise the human body. Multiple open textbooks were adapted to create this lab manual. Att",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

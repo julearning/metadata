@@ -1,19 +1,11 @@
 {
   "title": "Signal Processing",
   "url": "https://en.wikibooks.org/wiki/Signal_Processing",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Signals & Systems",
   "branch": "ECE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is about the topic of signal processing, especially the topics of signal analysis and filtering. We will cover advanced filter theories, including adaptive Wiener and Kalman filters, stationary and non-stationary signals, beamforming, and wavelet analysis. This book requires all readers to",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

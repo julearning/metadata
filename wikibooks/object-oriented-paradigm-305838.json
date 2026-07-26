@@ -1,19 +1,11 @@
 {
   "title": "Object Oriented Paradigm",
   "url": "https://en.wikibooks.org/wiki/Object_Oriented_Paradigm",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Object orientation is a way of programming that bears a remarkable resemblence to the way electric devices have evolved. This page will explain the problems of the past, and how these were solved by components (in electric devices) and objects in programs.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

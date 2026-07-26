@@ -1,19 +1,11 @@
 {
   "title": "Crawford Automation – A Guided Application of Structured Problem Solving",
   "url": "https://ecampusontario.pressbooks.pub/crawfordcase/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is a multimedia-enabled case in which students will be guided, by an industry expert, to apply structured problem-solving that addresses a typical supply chain problem, missing parts. What first appears as the issue may be a symptom of a root cause(s). The case utilizes videos, data files for a",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

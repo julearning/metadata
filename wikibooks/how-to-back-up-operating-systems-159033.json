@@ -1,19 +1,11 @@
 {
   "title": "How To Back Up Operating Systems",
   "url": "https://en.wikibooks.org/wiki/How_To_Back_Up_Operating_Systems",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is a step-by-step guide for backing up and restoring the operating system(s) installed on your PC (Linux, Windows, etc).  Specifically, it describes how to back up and restore hard drive partitions and MBR boot code using free tools and discusses backup and restoration procedures and scenarios.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

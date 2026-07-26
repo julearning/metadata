@@ -1,19 +1,11 @@
 {
   "title": "MIPS Assembly Language Programming using QtSpim",
   "url": "http://www.egr.unlv.edu/~ed/MIPStextSMv11.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "There are a number of excellent, comprehensive, and in-depth texts on MIPS assembly language programming. This is not one of them.The purpose of this text is to provide a simple and free reference for university level programming and architecture units that include a brief section covering MIPS asse",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

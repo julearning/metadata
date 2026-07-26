@@ -1,19 +1,11 @@
 {
   "title": "NES Programming",
   "url": "https://en.wikibooks.org/wiki/NES_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is an open work designed for people interested in learning to program for the NES (Nintendo Entertainment System).",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

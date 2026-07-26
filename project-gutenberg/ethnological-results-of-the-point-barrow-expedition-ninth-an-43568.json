@@ -1,22 +1,14 @@
 {
   "title": "Ethnological results of the Point Barrow expedition: Ninth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1887-1888, Government Printing Office, Washington, 1892, pages 3-442",
   "url": "https://www.gutenberg.org/ebooks/43568",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Eskimos -- Alaska -- Barrow, Point, Region",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Murdoch, John",
   "downloadCount": 711,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

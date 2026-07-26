@@ -1,19 +1,11 @@
 {
   "title": "Think Data Structures: Algorithms and Information Retrieval in Java",
   "url": "https://greenteapress.com/wp/think-data-structures/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Data structures and algorithms are among the most important inventions of the last 50 years, and they are fundamental tools software engineers need to know. But in my opinion, most of the books on these topics are too theoretical, too big, and too bottom-up: Too theoretical: Mathematical analysis of",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

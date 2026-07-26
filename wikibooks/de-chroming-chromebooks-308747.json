@@ -1,19 +1,11 @@
 {
   "title": "De-chroming chromebooks",
   "url": "https://en.wikibooks.org/wiki/De-chroming_chromebooks",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Welcome to the De-chroming chromebooks resource guide. Here we collect and organize material related to the process of replacing the ChromeOS operating system on various chromebook and chromebox-based devices with community built BIOS and operating system software.\nWatch this page for more informati",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

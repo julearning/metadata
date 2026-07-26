@@ -1,19 +1,11 @@
 {
   "title": "Quantum Field Theory",
   "url": "https://en.wikibooks.org/wiki/Quantum_Field_Theory",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is about Quantum Field Theory, a theoretical framework for constructing quantum mechanical models of subatomic particles.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

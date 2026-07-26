@@ -1,22 +1,14 @@
 {
   "title": "History of Modern Mathematics: Mathematical Monographs No. 1",
   "url": "https://www.gutenberg.org/ebooks/8746",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Mathematics -- History",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Smith, David Eugene",
   "downloadCount": 239,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

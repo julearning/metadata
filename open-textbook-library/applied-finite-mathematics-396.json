@@ -1,19 +1,11 @@
 {
   "title": "Applied Finite Mathematics",
   "url": "http://cnx.org/exports/f1cfb58e-3118-435e-b41d-0bff4ec66d21%405.1.pdf/applied-finite-mathematics-5.1.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Applied Finite Mathematics covers topics including linear equations, matrices, linear programming, the mathematics of finance, sets and counting, probability, Markov chains, and game theory.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

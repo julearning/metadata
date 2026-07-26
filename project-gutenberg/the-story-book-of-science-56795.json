@@ -1,22 +1,14 @@
 {
   "title": "The Story-book of Science",
   "url": "https://www.gutenberg.org/ebooks/56795",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Science -- Juvenile literature",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Fabre, Jean-Henri",
   "downloadCount": 1386,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

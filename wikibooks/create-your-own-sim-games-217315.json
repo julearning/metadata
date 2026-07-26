@@ -1,19 +1,11 @@
 {
   "title": "Create Your Own Sim Games",
   "url": "https://en.wikibooks.org/wiki/Create_Your_Own_Sim_Games",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Computer Networks",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Sim Games are a huge and popular rage on the internet. A SIM game can range from text-based to full 3d graphics. They are data-driven games that simulate different scenarios from owning a pet to trying to take over the world.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

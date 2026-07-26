@@ -1,19 +1,11 @@
 {
   "title": "Creating a circular healthcare economy: Sustainable strategies for a circular healthcare",
   "url": "https://doi.org/10.59490/t.2023.008",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Our world is the only planet, as far as we know, which harbors life. The number of humans on our planet has grown tremendously in recent centuries. In 1800 one billion humans occupied our earth; on 15 November 2022, this number reached 8 billion. A result of this growth, the emissions of carbon diox",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Introduction to Engineering Thermodynamics",
   "url": "https://pressbooks.bccampus.ca/thermo1/open/download?type=print_pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The book is most suitable for a one-term, introductory engineering thermodynamics course at the undergraduate level. It may also be used for self-learning of fundamental concepts of classical thermodynamics.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

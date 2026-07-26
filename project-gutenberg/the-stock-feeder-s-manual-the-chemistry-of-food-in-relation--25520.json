@@ -1,22 +1,14 @@
 {
   "title": "The Stock-Feeder's Manual: the chemistry of food in relation to the breeding and feeding of live stock",
   "url": "https://www.gutenberg.org/ebooks/25520",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Feeds; Livestock",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Cameron, Charles Alexander, Sir",
   "downloadCount": 5048,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

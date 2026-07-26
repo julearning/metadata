@@ -1,22 +1,14 @@
 {
   "title": "Archimedes; or, the future of physics",
   "url": "https://www.gutenberg.org/ebooks/75452",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Physics",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Whyte, Lancelot Law",
   "downloadCount": 362,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

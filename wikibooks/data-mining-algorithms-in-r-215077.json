@@ -1,19 +1,11 @@
 {
   "title": "Data Mining Algorithms In R",
   "url": "https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Data Structures & Algorithms",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "In general terms, Data Mining comprises techniques and algorithms for determining interesting patterns from large datasets. There are currently hundreds of algorithms that perform tasks such as frequent pattern mining, clustering, and classification, among others. Understanding how these algorithms ",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

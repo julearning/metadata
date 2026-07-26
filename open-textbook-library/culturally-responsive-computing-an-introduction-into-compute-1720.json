@@ -1,19 +1,11 @@
 {
   "title": "Culturally Responsive Computing: An Introduction into Computer Science, Security, and Technology",
   "url": "https://rotel.pressbooks.pub/culturally-responsive-computing/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "\"Culturally Responsive Computing\" is an essential textbook that explores the intricate relationship between technology and global societies. It gives students and professionals a deep understanding of how cultural contexts shape and are shaped by computing practices, from algorithm design to user in",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

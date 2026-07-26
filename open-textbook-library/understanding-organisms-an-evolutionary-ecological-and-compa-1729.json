@@ -1,19 +1,11 @@
 {
   "title": "Understanding Organisms: An Evolutionary, Ecological and Comparative Approach",
   "url": "https://rotel.pressbooks.pub/understanding-organisms/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Understanding organisms—their evolution, ecology and body systems— is at the heart of this free and open resource geared toward introductory-level college biology majors. This text has been adapted and curated with a lens toward representation and inclusivity. Student engagement is encouraged throug",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

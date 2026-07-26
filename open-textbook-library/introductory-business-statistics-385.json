@@ -1,19 +1,11 @@
 {
   "title": "Introductory Business Statistics",
   "url": "http://solr.bccampus.ca:8001/bcc/file/b98db368-2b3d-4f32-97d5-837719f2fcce/1/Introductory%20Business%20Statistics.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The book \"Introductory Business Statistics\" by Thomas K. Tiemann explores the basic ideas behind statistics, such as populations, samples, the difference between data and information, and most importantly sampling distributions. The author covers topics including descriptive statistics and frequency",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

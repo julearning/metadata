@@ -1,22 +1,14 @@
 {
   "title": "Oriental Religions and Christianity: A Course of Lectures Delivered on the Ely Foundation Before the; Students of Union Theological Seminary, New York, 1891",
   "url": "https://www.gutenberg.org/ebooks/14867",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Buddhism -- Relations -- Christianity; Christianity and other religions; Hinduism -- Relations -- Christianity; Islam -- Relations -- Christianity",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Ellinwood, Frank F. (Frank Field)",
   "downloadCount": 539,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

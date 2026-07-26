@@ -1,19 +1,11 @@
 {
   "title": "Aprendizaje Colaborativo Apoyado por Computador",
   "url": "https://mountainscholar.org/handle/20.500.11785/585",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Comunidad creada para compartir experiencias en torno al uso de Tecnologías de la Información como apoyo a procesos de enseñanza-aprendizaje usando modelos de aprendizaje colaborativo",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

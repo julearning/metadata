@@ -1,19 +1,11 @@
 {
   "title": "Signal Computing: Digital Signals in the Software Domain",
   "url": "https://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "In this book, you will learn how digital signals are captured, represented, processed, communicated, and stored in computers. The specific topics we will cover include: physical properties of the source information (such as sound or images), devices for information capture (microphones, cameras), di",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

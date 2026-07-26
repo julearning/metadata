@@ -1,19 +1,11 @@
 {
   "title": "Physics Exercises",
   "url": "https://en.wikibooks.org/wiki/Physics_Exercises",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is meant to be a comprehensive collection of exercises for all areas generally found in undergraduate physics.  Often times textbooks offer few exercises and only give solutions to even or odd numbered problems.  This book will offer problems both for applied situations and those of a theo",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

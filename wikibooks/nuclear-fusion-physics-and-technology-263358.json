@@ -1,19 +1,11 @@
 {
   "title": "Nuclear Fusion Physics and Technology",
   "url": "https://en.wikibooks.org/wiki/Nuclear_Fusion_Physics_and_Technology",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Nuclear Fusion Physics and Technology deals with nuclear fusion in tokamaks. This plasma devices may generate clean energy one day, thus heavy research is under way. This wikibook should provide professional knowledge base for fusion scientists in definition-theorem-proof scheme. Consistent theory w",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

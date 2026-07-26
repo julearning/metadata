@@ -1,19 +1,11 @@
 {
   "title": "Agile Software Engineering Cheatsheets",
   "url": "https://en.wikibooks.org/wiki/Agile_Software_Engineering_Cheatsheets",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Software Engineering",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Agile Software Engineering Cheatsheets — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

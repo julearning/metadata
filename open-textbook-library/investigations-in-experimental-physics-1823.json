@@ -1,19 +1,11 @@
 {
   "title": "Investigations in Experimental Physics",
   "url": "https://drive.google.com/drive/folders/1WDdUWprqafD57D05QJNsUmabyBzuTX8x",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "As stated in previous editions, the purpose of the physics laboratory is not only to reinforce the physical principles studied in the classroom but also to stimulate the development of skills and techniques required to carry out well-designed experimental investigations. It is the hope of the author",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

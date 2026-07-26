@@ -1,22 +1,14 @@
 {
   "title": "Plane Geometry",
   "url": "https://www.gutenberg.org/ebooks/33063",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Geometry, Plane",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Wentworth, G. A. (George Albert)",
   "downloadCount": 583,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

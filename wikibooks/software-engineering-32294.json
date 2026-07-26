@@ -1,19 +1,11 @@
 {
   "title": "Software Engineering",
   "url": "https://en.wikibooks.org/wiki/Software_Engineering",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Overlaps the other book: Introduction to Software Engineering\nThe idea of this book is to couple together the different projects on the different subjects of software engineering. Currently the only book linked is Computer Programming. Other subjects should be added over time.\nAs written in the Comp",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

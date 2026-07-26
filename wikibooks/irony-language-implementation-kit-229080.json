@@ -1,19 +1,11 @@
 {
   "title": "Irony - Language Implementation Kit",
   "url": "https://en.wikibooks.org/wiki/Irony_-_Language_Implementation_Kit",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Theory of Computation",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Irony is a development kit for implementing languages on the .NET platform. It uses the flexibility and power of the C# language and .NET Framework 3.5 to implement a completely new and streamlined technology of compiler construction.\nUnlike most existing yacc/lex-style solutions, Irony does not emp",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Business Information Systems: Design an App for That",
   "url": "http://www.saylor.org/site/textbooks/Business%20Information%20Systems.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "We set out to design an introductory course governed by four themes: Give students a good idea of what a career in MIS looks like by doing MIS. Enhance the professionalism of deliverables by teaching design and usability concepts. Promote creativity by assigning projects that demand it. Teach studen",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

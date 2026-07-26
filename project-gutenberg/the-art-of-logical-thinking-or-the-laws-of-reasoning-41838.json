@@ -1,22 +1,14 @@
 {
   "title": "The Art of Logical Thinking; Or, The Laws of Reasoning",
   "url": "https://www.gutenberg.org/ebooks/41838",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Logic; Reasoning",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Atkinson, William Walker",
   "downloadCount": 661,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

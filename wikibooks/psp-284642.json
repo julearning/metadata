@@ -1,19 +1,11 @@
 {
   "title": "PSP",
   "url": "https://en.wikibooks.org/wiki/PSP",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The PlayStation Portable homebrew community was one of the most dynamic and successful modding initiatives in the history of consumer electronics. It went from a small operation to bring out the most of the first affordable mobile computing device, and managed to rescue exploit after exploit from th",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

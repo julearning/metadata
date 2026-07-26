@@ -1,22 +1,14 @@
 {
   "title": "Science and Health, with Key to the Scriptures",
   "url": "https://www.gutenberg.org/ebooks/3458",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Christian Science; Health -- Religious aspects -- Christian Science",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Eddy, Mary Baker",
   "downloadCount": 873,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

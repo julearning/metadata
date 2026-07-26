@@ -1,19 +1,11 @@
 {
   "title": "Multivariable Calculus",
   "url": "https://drive.google.com/drive/folders/1VBn7HiZBlvOVbMCcjL1Yh5AoJcB7gj-j?usp=sharing",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book covers the standard material for a one-semester course in multivariable calculus. The topics include curves, differentiability and partial derivatives, multiple integrals, vector fields, line and surface integrals, and the theorems of Green, Stokes, and Gauss. Roughly speaking the book is ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

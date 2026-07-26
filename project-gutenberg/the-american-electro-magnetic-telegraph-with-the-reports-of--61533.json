@@ -1,22 +1,14 @@
 {
   "title": "The American Electro Magnetic Telegraph: With the Reports of Congress, and a Description of All Telegraphs Known, Employing Electricity or Galvanism",
   "url": "https://www.gutenberg.org/ebooks/61533",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Telegraph -- History",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Vail, Alfred",
   "downloadCount": 734,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Linear Algebra",
   "url": "http://hefferon.net/linearalgebra/index.html",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-II",
   "branch": "CSE",
   "semester": 2,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This text covers the standard material for a US undergraduate first course: linear systems and Gauss's Method, vector spaces, linear maps and matrices, determinants, and eigenvectors and eigenvalues, as well as additional topics such as introductions to various applications. It has extensive exercis",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

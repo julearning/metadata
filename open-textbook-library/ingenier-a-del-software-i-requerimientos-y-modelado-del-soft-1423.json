@@ -1,19 +1,11 @@
 {
   "title": "Ingeniería del Software I: Requerimientos y Modelado del Software",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/book/21",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "En este libro se investigó los fundamentos de la ingeniería del software y se documentó los conceptos básicos del software y los procesos para la creación de software, se documentó también cómo llevar a cabo un análisis de requerimientos de software, cuáles son los tipos de requerimientos, cómo obte",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

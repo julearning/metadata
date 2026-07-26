@@ -1,19 +1,11 @@
 {
   "title": "Plezuro",
   "url": "https://en.wikibooks.org/wiki/Plezuro",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Plezuro is a programming language created by Piotr Sroczkowski. It enables fast development and is an open source (on license GNU/GPL).",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

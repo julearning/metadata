@@ -1,19 +1,11 @@
 {
   "title": "Unfolding the Mystery of Life, Biology Lab Manual for Non-Science Majors",
   "url": "https://drive.google.com/file/d/14rj6OmfBDWOU-CW9OVSTu5lZoeF7-Wjm/view",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This laboratory manual is intended for use in a biology laboratory course taken by non-science majors, pre-biology, and pre-allied health majors. Laboratory exercises provide students with experience in basic laboratory skills, gathering and organizing data, measuring and calculating, hypothesis tes",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

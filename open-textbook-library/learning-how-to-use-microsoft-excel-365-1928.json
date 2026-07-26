@@ -1,19 +1,11 @@
 {
   "title": "Learning How to Use Microsoft Excel 365",
   "url": "https://drive.google.com/file/d/1JQ0-AgsPUCvUnEYSc-wwE_a1uwoLwFIo/view",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This core Microsoft® Excel® text provides students with the skills needed to execute many personal and professional activities. It also prepares them to go on to more advanced skills using the Excel software. The text takes the approach of creating Excel worksheets that are accurate, tell a story, a",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

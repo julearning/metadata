@@ -1,19 +1,11 @@
 {
   "title": "6502 Assembly",
   "url": "https://en.wikibooks.org/wiki/6502_Assembly",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is a guide to the 6502 Assembly language. This book will teach the different memory addressing modes and instructions of the 8-bit 6502 processor.\nYou might want to learn 6502 assembly language programming if you want to do Atari 2600/8-bit family/5200/7800 Programming, Commodore PET/VIC/6",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

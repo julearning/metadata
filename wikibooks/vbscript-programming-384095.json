@@ -1,19 +1,11 @@
 {
   "title": "VBScript Programming",
   "url": "https://en.wikibooks.org/wiki/VBScript_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "VBScript, short for Visual Basic Scripting Edition, is a Microsoft-supplied scripting language similar to Visual Basic and Visual Basic for Applications. It can be used via Windows Script Host (WSH) as a Windows scripting language. Furthermore, it can be used as a client-side scripting language in w",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

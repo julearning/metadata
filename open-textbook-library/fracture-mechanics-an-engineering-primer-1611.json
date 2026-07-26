@@ -1,19 +1,11 @@
 {
   "title": "Fracture Mechanics: An Engineering Primer",
   "url": "https://doi.org/10.59490/tb.86",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Structural Analysis",
   "branch": "CE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "In this second edition, which is the result of numerous revisions, updates and additions, the authors cover the basic concepts of fracture mechanics for both the linear elastic and elastic-plastic regimes. The fracture mechanics parameters K, G, J and CTOD are treated in a basic manner along with th",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "Essays in Experimental Logic",
   "url": "https://www.gutenberg.org/ebooks/40794",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Logic; Realism; Thought and thinking",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Dewey, John",
   "downloadCount": 1096,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

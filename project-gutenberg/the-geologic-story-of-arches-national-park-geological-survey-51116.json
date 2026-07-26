@@ -1,22 +1,14 @@
 {
   "title": "The Geologic Story of Arches National Park: Geological Survey Bulletin 1393",
   "url": "https://www.gutenberg.org/ebooks/51116",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Arches National Park (Utah); Geology -- Utah -- Arches National Park -- Guidebooks",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Lohman, Stanley William",
   "downloadCount": 537,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

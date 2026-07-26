@@ -1,19 +1,11 @@
 {
   "title": "From theORy to application: learning to optimize with Operations Research in an interactive way",
   "url": "https://doi.org/10.59490/tb.94",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Thermodynamics",
   "branch": "ME",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book serves as a comprehensive roadmap for navigating the realm of Operations Research (OR). From laying down fundamental mathematical principles to crafting precise modeling techniques and their solution methods, it culminates in a panoramic view of OR models mirroring real-world operations. D",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

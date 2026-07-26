@@ -1,19 +1,11 @@
 {
   "title": "Analogue Electronics",
   "url": "https://en.wikibooks.org/wiki/Analogue_Electronics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This Wikibook is about analogue electronics. It will begin by examining the bipolar junction transistor (BJT) and the field effect transistor (FET). The two classes of device are used in the vast majority of electronic devices, and form a stepping stone to more complex circuits. We will begin by exa",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

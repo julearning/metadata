@@ -1,19 +1,11 @@
 {
   "title": "Ordinary Differential Equations",
   "url": "https://math.libretexts.org/Bookshelves/Differential_Equations/Book%3A_Ordinary_Differential_Equations_(Wiggins)",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book consists of ten weeks of material given as a course on ordinary differential equations (ODEs) for second year mathematics majors at the University of Bristol. It is the first course devoted solely to differential equations that these students will take. This book consists of 10 chapters, a",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

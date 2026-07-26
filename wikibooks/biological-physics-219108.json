@@ -1,19 +1,11 @@
 {
   "title": "Biological Physics",
   "url": "https://en.wikibooks.org/wiki/Biological_Physics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "GOAL:\nIn this book we will address the physics of living phenomena primarily through thermal and statistical methods. We intend this book to be a textbook book for undergraduates studying biophysics (Biological Physics) The book content will be developed by students of an undergraduate Thermal Physi",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

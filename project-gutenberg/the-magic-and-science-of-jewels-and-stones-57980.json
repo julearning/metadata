@@ -1,22 +1,14 @@
 {
   "title": "The Magic and Science of Jewels and Stones",
   "url": "https://www.gutenberg.org/ebooks/57980",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Gems -- Miscellanea; Occultism -- Miscellanea; Precious stones -- Psychic aspects",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Kozminsky, Isidore",
   "downloadCount": 1253,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

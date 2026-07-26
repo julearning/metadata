@@ -1,19 +1,11 @@
 {
   "title": "Quantitative Problem Solving in Natural Resources",
   "url": "https://www.iastatedigitalpress.com/plugins/books/198/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is a collection of resources focused on solving quantitative problems that non-mathematicians interested in biology and environmental sciences may find compelling. It is not intended as a guide to be followed through a series of skills, but rather as a resource to support the problem-solvi",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

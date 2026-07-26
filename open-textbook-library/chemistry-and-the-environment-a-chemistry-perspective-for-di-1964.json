@@ -1,19 +1,11 @@
 {
   "title": "Chemistry and the Environment: A Chemistry Perspective for discussion of Environmental Issues",
   "url": "https://winnspace.uwinnipeg.ca/handle/10680/1830",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Chemistry and the Environment is designed to accompany a one-semester course in chemistry-based discussions of important environmental issues such as air pollution, the ozone layer, climate change and water quality. Chemical principles are introduced, followed by environmental ‘focus’ sections to ba",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

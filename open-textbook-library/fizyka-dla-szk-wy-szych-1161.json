@@ -1,19 +1,11 @@
 {
   "title": "Fizyka dla szkół wyższych",
   "url": "https://openstax.org/details/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-3",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Fizyka dla szkół wyższych. Tom 3 dopasowana jest pod względem zakresu i układu treści do typowych kursów wprowadzających z fizyki ogólnej opartych na analizie matematycznej. Podręcznik kładzie nacisk na powiązania między teorią a praktycznymi zastosowaniami, wyjaśniając zagadnienia fizyczne w ciekaw",
-  "language": "pol",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

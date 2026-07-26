@@ -1,22 +1,14 @@
 {
   "title": "Summa Theologica, Part I (Prima Pars): From the Complete American Edition",
   "url": "https://www.gutenberg.org/ebooks/17611",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Catholic Church -- Doctrines -- Early works to 1800; God -- Attributes -- Early works to 1800; God -- Omnipresence -- Early works to 1800; Theology, Doctrinal -- Early works to 1800",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Thomas, Aquinas, Saint",
   "downloadCount": 1922,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "C++ Programming",
   "url": "https://en.wikibooks.org/wiki/C%2B%2B_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book covers the C++ programming language, its interactions with software design and real life use of the language. It is presented in a series of chapters as an introductory prior to advance courses but can also be used as a reference book. This is an open work; if you find any problems with te",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,22 +1,14 @@
 {
   "title": "Lecture on the Aborigines of Newfoundland: Delivered Before the Mechanics' Institute, at St. John's, Newfoundland, on Monday, 17th January, 1859",
   "url": "https://www.gutenberg.org/ebooks/15126",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Mechanics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Beothuk Indians; Indians of North America -- Newfoundland and Labrador; Indians of North America -- Origin; Newfoundland and Labrador -- History",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Noad, Joseph",
   "downloadCount": 355,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

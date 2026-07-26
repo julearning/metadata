@@ -1,19 +1,11 @@
 {
   "title": "Biotecnología Ambiental, Aplicaciones y Tendencias",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/view/25/38/135",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "La Biotecnología Ambiental emplea el uso de organismos para la prevención, monitoreo y remediación de los ecosistemas, al mismo tiempo permite la generación de bioproductos y energía limpia. El libro consistió en tres capítulos, en el primero se establece los fundamentos de la Biotecnología Ambienta",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

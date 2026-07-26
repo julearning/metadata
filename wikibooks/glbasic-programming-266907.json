@@ -1,19 +1,11 @@
 {
   "title": "GLBasic Programming",
   "url": "https://en.wikibooks.org/wiki/GLBasic_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Welcome, reading this WikiBook!\nThe GLBasic Language is used in GLBasic, a program that makes programs with OpenGL and BASIC for very much operating systems BUT it's different programming than OpenGL and BASIC. That's why I have written this book. So that you can learn how to program GLBasic in a ve",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

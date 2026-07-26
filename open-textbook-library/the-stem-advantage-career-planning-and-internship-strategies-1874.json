@@ -1,19 +1,11 @@
 {
   "title": "The STEM Advantage: Career Planning and Internship Strategies for Science, Technology, Engineering and Mathematics Postgraduate Students",
   "url": "https://jcu.pressbooks.pub/stem-advantage/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This comprehensive guide bridges the gap between academic learning and professional application, offering a structured framework developed through experiences of students successfully completing their internship programs. Educators and students alike will benefit from practical methodologies that tr",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

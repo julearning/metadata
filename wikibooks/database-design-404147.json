@@ -1,19 +1,11 @@
 {
   "title": "Database Design",
   "url": "https://en.wikibooks.org/wiki/Database_Design",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Database Management Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Database design is the organisation of data according to a database model. The designer determines what data must be stored and how the data elements interrelate. With this information, they can begin to fit the data to the database model. Database design involves classifying data and identifying in",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

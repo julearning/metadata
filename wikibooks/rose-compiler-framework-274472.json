@@ -1,19 +1,11 @@
 {
   "title": "ROSE Compiler Framework",
   "url": "https://en.wikibooks.org/wiki/ROSE_Compiler_Framework",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Theory of Computation",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "FYI: http://wiki.rosecompiler.org redirects here.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

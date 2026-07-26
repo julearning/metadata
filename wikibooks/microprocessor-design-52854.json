@@ -1,19 +1,11 @@
 {
   "title": "Microprocessor Design",
   "url": "https://en.wikibooks.org/wiki/Microprocessor_Design",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book serves as an introduction to the field of microprocessor design and implementation. It is intended for students in computer science or computer or electrical engineering who are in the third or fourth years of an undergraduate degree. While the focus of this book will be on microprocessors",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Design Roadmapping: Guidebook for Future Foresight Techniques",
   "url": "https://doi.org/10.59490/tb.84",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "DESIGN ROADMAPPING is for anyone interested in design, strategy and innovation, and its wonderful combinations. For those who dare to create a future vision, frame the time pacing and map the pathways towards it. This guidebook teaches you how to create a roadmap. It outlines the origins, design the",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

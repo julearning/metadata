@@ -1,19 +1,11 @@
 {
   "title": "Pharo by Example 5.0",
   "url": "https://books.pharo.org/updated-pharo-by-example/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Pharo is an open-source, elegant and pure object-oriented language that supports truly immersive and life programming experience. Pharo offers excellent tools such as hot-debuggers and on the fly code update that change the programming experience. More at http://www.pharo.org.Pharo is a powerful lan",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

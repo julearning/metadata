@@ -1,19 +1,11 @@
 {
   "title": "Bio-Inspired Sensory Systems",
   "url": "https://manifold.lib.fsu.edu/system/actioncallout/783f9045-cc16-4611-aa8f-dbba019894b0/attachment/original-ab435618883852d4b0d28e64c4c5e7b4.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Using natural sensory system concepts to develop and improve sensory systems will continue to thrive for many years to come. Technology advances rapidly (Moore’s Law) as does our understanding of biological principles and designs. These trends fuel the fertile grounds of bio-inspired sensory systems",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

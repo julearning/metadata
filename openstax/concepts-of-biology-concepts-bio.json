@@ -1,21 +1,13 @@
 {
   "title": "Concepts of Biology",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Concepts-Biology_-_WEB.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"2nvyi\"><i>Concepts of Biology</i> is designed for the typical introductory biology course for nonmajors, covering standard scope and sequence requirements. The text includes interesting applications and conveys the major themes of biology, with content that is meaningful and easy ",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

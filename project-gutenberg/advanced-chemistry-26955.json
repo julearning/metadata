@@ -1,22 +1,14 @@
 {
   "title": "Advanced Chemistry",
   "url": "https://www.gutenberg.org/ebooks/26955",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Science fiction; Short stories",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Huekels, Jack G.",
   "downloadCount": 466,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

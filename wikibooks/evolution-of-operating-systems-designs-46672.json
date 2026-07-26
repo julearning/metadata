@@ -1,19 +1,11 @@
 {
   "title": "Evolution of Operating Systems Designs",
   "url": "https://en.wikibooks.org/wiki/Evolution_of_Operating_Systems_Designs",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is about operating systems concepts as they have evolved through the history of operating systems implementations. Politics and implementation details are irrelevant. Emphasis is given to technically successful designs, aesthetic operating systems, and not on commercial success. In fact, m",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

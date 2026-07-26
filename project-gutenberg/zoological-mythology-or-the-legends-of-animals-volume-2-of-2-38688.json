@@ -1,22 +1,14 @@
 {
   "title": "Zoological Mythology; or, The Legends of Animals, Volume 2 (of 2)",
   "url": "https://www.gutenberg.org/ebooks/38688",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Animals -- Folklore; Animals -- Mythology; Animals, Mythical; Folklore; Mythology, Indo-European",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "De Gubernatis, Angelo",
   "downloadCount": 1940,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

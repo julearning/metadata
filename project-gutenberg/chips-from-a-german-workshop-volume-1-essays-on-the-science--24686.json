@@ -1,22 +1,14 @@
 {
   "title": "Chips from a German Workshop, Volume 1: Essays on the Science of Religion",
   "url": "https://www.gutenberg.org/ebooks/24686",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Comparative linguistics; Folklore; Literature -- History and criticism; Mythology; Religions",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Müller, F. Max (Friedrich Max)",
   "downloadCount": 963,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

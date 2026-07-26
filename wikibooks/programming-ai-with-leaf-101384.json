@@ -1,19 +1,11 @@
 {
   "title": "Programming AI with Leaf",
   "url": "https://en.wikibooks.org/wiki/Programming_AI_with_Leaf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Have you ever wanted to create artificial intelligence software (AI) but did not know where to start? Have you wanted to put this AI into a robot? If so Leaf is for you. Leaf is the AI software that starts you with a working AI framework that you add to and customize as you wish. It was put together",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

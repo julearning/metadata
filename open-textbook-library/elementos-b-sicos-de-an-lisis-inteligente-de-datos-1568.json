@@ -1,19 +1,11 @@
 {
   "title": "Elementos básicos de Análisis Inteligente de Datos",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/book/65",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Este libro trata sobre conceptos elementales junto con scripts cortos de código basado en R Project para hacer análisis inteligente de datos. La relación entre la teoría y la práctica es fundamental en la comprensión de una disciplina, así la aplicación de procedimientos y funciones específicas en t",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

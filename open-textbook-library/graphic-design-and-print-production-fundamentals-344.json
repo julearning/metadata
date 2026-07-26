@@ -1,19 +1,11 @@
 {
   "title": "Graphic Design and Print Production Fundamentals",
   "url": "https://opentextbc.ca/graphicdesign/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This textbook -- written by a group of select experts with a focus on different aspects of the design process, from creation to production -- addresses the many steps of creating and then producing physical, printed, or other imaged products that people interact with on a daily basis. It covers the ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

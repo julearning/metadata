@@ -1,19 +1,11 @@
 {
   "title": "Theory of equations",
   "url": "https://en.wikibooks.org/wiki/Theory_of_equations",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Theory of equations is a classical branch of algebra that studies polynomial equations, their solutions, and the relationships between roots and coefficients. The subject originated with the work of ancient mathematicians and reached maturity in the 19th century with Galois theory. Topics range from",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

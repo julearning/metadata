@@ -1,19 +1,11 @@
 {
   "title": "Trigonometry",
   "url": "https://yoshiwarabooks.org/trig.html",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This text covers the content of a standard trigonometry course, beginning with a review of facts from geometry.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

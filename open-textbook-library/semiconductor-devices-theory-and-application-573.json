@@ -1,19 +1,11 @@
 {
   "title": "Semiconductor Devices: Theory and Application",
   "url": "http://www.dissidents.com/resources/SemiconductorDevices.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The goal of this text, as its name implies, is to allow the reader to become proficient in the analysis and design of circuits utilizing discrete semiconductor devices. It progresses from basic diodes through bipolar and field effect transistors. The text is intended for use in a first or second yea",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

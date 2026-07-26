@@ -1,19 +1,11 @@
 {
   "title": "Digital Signal Processing",
   "url": "https://en.wikibooks.org/wiki/Digital_Signal_Processing",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Data Structures & Algorithms",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "With the explosion of digital communications and digital media, the need for methods to process digital data is more important than ever. This book will begin with a look at the mathematical concepts behind digital processing, then will build on that with particular algorithms to do the work, and fi",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

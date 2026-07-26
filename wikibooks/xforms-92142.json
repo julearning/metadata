@@ -1,19 +1,11 @@
 {
   "title": "XForms",
   "url": "https://en.wikibooks.org/wiki/XForms",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "XForms is a World Wide Web Consortium recommendation for creating web forms and web applications.  It's easy to learn, provides a rich user experience and does not require you to learn JavaScript.\nThere are many different implementations of XForms and this cookbook is designed to work with any of th",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Informal Calculus with Applications to Biological and Environmental Sciences",
   "url": "https://oer.pressbooks.pub/informalcalculus/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is an approachable introduction to calculus with applications to biology and environmental science. For example, one application in the book is determining the volume of earth moved in the 1959 earthquake that created Quake Lake. Another application uses differential equations to model var",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

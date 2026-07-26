@@ -1,19 +1,11 @@
 {
   "title": "Anatomy and Physiology of Animals",
   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Anatomy_and_Physiology_of_Animals.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Veterinary nurses need to have a firm grasp of the normal structure of an animal's body and how it functions before they can understand the effect diseases and injuries have and the best ways to treat them. This book describes the structure of the animal body and the way in which it works. Animals e",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

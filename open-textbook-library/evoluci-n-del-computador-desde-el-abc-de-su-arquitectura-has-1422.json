@@ -1,19 +1,11 @@
 {
   "title": "Evolución del Computador desde el ABC de su Arquitectura hasta la Construcción de una PC Gamer",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/book/24",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "El libro es una obra completa que aborda distintos aspectos importantes de la informática, desde la arquitectura y organización de la computadora hasta la construcción de una PC gamer. En el primer capítulo se explica de manera detallada la arquitectura y organización de los ordenadores, mientras qu",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

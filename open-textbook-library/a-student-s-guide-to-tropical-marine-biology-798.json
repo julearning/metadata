@@ -1,19 +1,11 @@
 {
   "title": "A Student's Guide to Tropical Marine Biology",
   "url": "https://karencang.net/open-education/an-open-pedagogy-groundswell/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "A Student’s Guide to Tropical Marine Biology is written entirely by students enrolled in the Keene State College Tropical Marine Biology course taught by Dr. Karen Cangialosi.Our goal was to investigate three main aspects of tropical marine biology: understanding the system, identifying problems, an",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,21 +1,13 @@
 {
   "title": "Introductory Business Statistics",
   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryBusinessStatistics-OP.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "<p data-block-key=\"6f7uk\"></p><p data-block-key=\"jlr8o\"></p><p data-block-key=\"up0en\"></p><p data-block-key=\"wc0bq\"><i>Introductory Business Statistics</i> is designed to meet the scope and sequence requirements of the one-semester statistics course for business, economics, and related majors. Core ",
-  "language": "English",
-  "pages": 0,
   "source": "openstax",
   "license": "CC BY-NC-SA 4.0",
-  "authors": ""
+  "authors": "",
+  "type": "mixed"
 }

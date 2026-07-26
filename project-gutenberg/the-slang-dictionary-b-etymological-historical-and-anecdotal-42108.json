@@ -1,22 +1,14 @@
 {
   "title": "The slang dictionary : $b Etymological, historical and anecdotal",
   "url": "https://www.gutenberg.org/ebooks/42108",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "English language -- Dialects -- England -- London -- Glossaries, vocabularies, etc.; English language -- England -- London -- Slang -- Dictionaries; London (England) -- Languages -- Dictionaries",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Hotten, John Camden",
   "downloadCount": 3108,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

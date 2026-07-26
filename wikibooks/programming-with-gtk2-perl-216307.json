@@ -1,19 +1,11 @@
 {
   "title": "Programming with Gtk2-Perl",
   "url": "https://en.wikibooks.org/wiki/Programming_with_Gtk2-Perl",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Programming with Gtk2-Perl — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "HyperText Markup Language",
   "url": "https://en.wikibooks.org/wiki/HyperText_Markup_Language",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is a guide to HTML, a standard markup language for web pages. A text editor and a web browser is all you need to create web pages, view your handiwork, and share information with others all over the world.\nThis book covers simple HTML syntax. For dynamic behavior in websites, see the JavaScript",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

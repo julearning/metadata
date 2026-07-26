@@ -1,19 +1,11 @@
 {
   "title": "Fortalecimiento Metodológico de la Seguridad Informática en Posgrados: Análisis y Estrategias de Mejora",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/book/56",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "El libro de investigación, contiene el informe sistematizado sobre el análisis de riesgos de la seguridad de la información para la Universidad Nacional Hermilio Valdizán de Huánuco, tuvo como objetivo realizar el análisis de riesgos que permita generar controles para minimizar la probabilidad de oc",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

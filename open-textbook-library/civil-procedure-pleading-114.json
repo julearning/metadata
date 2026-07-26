@@ -1,19 +1,11 @@
 {
   "title": "Civil Procedure: Pleading",
   "url": "https://www.cali.org/sites/default/files/CivilProcedurePleading_Levin_Dec2014.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Structural Analysis",
   "branch": "CE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This chapter covers the Civil Procedure topic of Pleading: The Plaintiff‘s Complaint. The chapter takes approximately four class periods to cover in detail. The student is exposed to cases, presented with questions that are designed to both guide class discussion and to help the student focus his re",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

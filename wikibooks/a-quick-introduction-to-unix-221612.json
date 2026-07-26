@@ -1,19 +1,11 @@
 {
   "title": "A Quick Introduction to Unix",
   "url": "https://en.wikibooks.org/wiki/A_Quick_Introduction_to_Unix",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Operating Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Unix is an operating system designed for use on any kind of computer or computing device. Current versions of Unix are running on everything from supercomputers to mobile phones. It is a multi-tasking, multi-user system. This means that a person using a Unix system can run more than one job, that is",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

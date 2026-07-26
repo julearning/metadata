@@ -1,19 +1,11 @@
 {
   "title": "GCC Debugging",
   "url": "https://en.wikibooks.org/wiki/GCC_Debugging",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Theory of Computation",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is intended to be a reference/guidebook for those learning to debug code used with the GCC (GNU Compiler Collection).\nGCC Debugging/Draft",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

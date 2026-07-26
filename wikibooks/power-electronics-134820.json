@@ -1,19 +1,11 @@
 {
   "title": "Power Electronics",
   "url": "https://en.wikibooks.org/wiki/Power_Electronics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Power Electronics is the study of switching electronic circuits in order to control the flow of electrical energy. Power Electronics is the technology behind switching power supplies, power converters, power inverters, motor drives, and motor soft starters.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "GNU Data Language",
   "url": "https://en.wikibooks.org/wiki/GNU_Data_Language",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Theory of Computation",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "GNU Data Language (GDL) is a free software project hosted at Source Forge (GDL - GNU Data Language).\nA free IDL (Interactive Data Language) compatible incremental compiler (i. e. runs IDL programs). IDL is a registered trademark of ITT Visual Information Solutions.\nFeatures\nFull syntax compatibility",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Algoritmo de inteligencia artificial para la detección de cultivos de cacao (Teobroma cacao L.), banano (Musa paradisiaca L.) y palma africana (Elaeis guineensis J.).",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/book/61",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Se analiza la expansión e intensificación de la agricultura no regulada e insostenible, principalmente en América Latina, enfocándose en Ecuador, donde la degradación del suelo está estrechamente relacionada con prácticas agrícolas insostenibles. Destaca la importancia de una planificación territori",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

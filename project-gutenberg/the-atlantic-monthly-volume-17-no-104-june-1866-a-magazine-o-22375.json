@@ -1,22 +1,14 @@
 {
   "title": "The Atlantic Monthly, Volume 17, No. 104, June, 1866: A Magazine of Literature, Science, Art, and Politics",
   "url": "https://www.gutenberg.org/ebooks/22375",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "American periodicals",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Various",
   "downloadCount": 3139,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

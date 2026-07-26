@@ -1,22 +1,14 @@
 {
   "title": "Amusements in Mathematics",
   "url": "https://www.gutenberg.org/ebooks/16713",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Mathematical recreations; Puzzles",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Dudeney, Henry Ernest",
   "downloadCount": 3070,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

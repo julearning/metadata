@@ -1,22 +1,14 @@
 {
   "title": "Chronological Retrospect of the History of Yarmouth and Neighbourhood: from A.D. 46 to 1884",
   "url": "https://www.gutenberg.org/ebooks/41618",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Great Yarmouth (England) -- History",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Finch-Crisp, William",
   "downloadCount": 894,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

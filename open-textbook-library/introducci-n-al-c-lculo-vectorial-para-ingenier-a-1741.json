@@ -1,19 +1,11 @@
 {
   "title": "Introducción al Cálculo Vectorial para Ingeniería",
   "url": "https://www.editorialgrupo-aea.com/index.php/EditorialGrupoAEA/catalog/book/89",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "El presente libro es una herramienta esencial para estudiantes de ingeniería que se inician en el estudio del Cálculo Vectorial, con el objetivo de proporcionar una comprensión sólida de los conceptos fundamentales del cálculo de varias variables y sus aplicaciones prácticas en ingeniería. Está estr",
-  "language": "spa",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

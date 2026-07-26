@@ -1,19 +1,11 @@
 {
   "title": "Computer Programming",
   "url": "https://en.wikibooks.org/wiki/Computer_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Computer programming is the craft of writing useful, maintainable, and extensible source code which can be interpreted or compiled by a computing system to perform a meaningful task. Programming a computer can be performed in one of numerous languages, ranging from a higher-level language to writing",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

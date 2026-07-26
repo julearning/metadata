@@ -1,19 +1,11 @@
 {
   "title": "SPARC Assembly",
   "url": "https://en.wikibooks.org/wiki/SPARC_Assembly",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book discusses programming SPARC microprocessor systems using the SPARC Assembly Language.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

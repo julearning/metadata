@@ -1,19 +1,11 @@
 {
   "title": "Compojure",
   "url": "https://en.wikibooks.org/wiki/Compojure",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Compojure is an open source web framework for the Clojure programming language. It emphasizes a thin I/O layer and a functional approach to web development.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

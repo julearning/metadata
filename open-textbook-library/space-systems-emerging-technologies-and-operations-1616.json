@@ -1,19 +1,11 @@
 {
   "title": "Space Systems: Emerging Technologies and Operations",
   "url": "https://newprairiepress.org/ebooks/47/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "SPACE SYSTEMS: EMERGING TECHNOLOGIES AND OPERATIONS (SSETO) is our seventh textbook in a series covering the world of UASs / CUAS / UUVs. SSETO takes on a new purview of SPACE. UASs (Drones) have a maximum altitude of about 33,000 ft (10 km) because rotating rotors become physically limiting. (Nicho",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

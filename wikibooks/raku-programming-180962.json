@@ -1,19 +1,11 @@
 {
   "title": "Raku Programming",
   "url": "https://en.wikibooks.org/wiki/Raku_Programming",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Raku is a successor of the Perl programming language, representing a major backwards-incompatible rewrite of the language. It's a versatile and powerful multi-paradigm programming language. This book is going to introduce the reader to the Raku language and its many features.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

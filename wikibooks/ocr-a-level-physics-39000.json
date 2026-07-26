@@ -1,19 +1,11 @@
 {
   "title": "OCR A-Level Physics",
   "url": "https://en.wikibooks.org/wiki/OCR_A-Level_Physics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "< A-level Physics\nThis A-level physics book is designed to follow the OCR GCE Physics A specification. For the OCR B 'Advancing Physics' specification, see A-level Physics (Advancing Physics). You can use this book as a revision guide, or as another explanation of concepts that you may not fully und",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

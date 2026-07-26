@@ -1,19 +1,11 @@
 {
   "title": "Chemistry of Cooking",
   "url": "https://chem.libretexts.org//@api/deki/files/122891/Chemistry-of-Cooking.pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "People around the world are fascinated about the preparation of food for eating. There are countless cooking books, TV shows, celebrity chefs and kitchen gadgets that make cooking an enjoyable activity for everyone. The chemistry of cooking course seeks to understand the science behind our most popu",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

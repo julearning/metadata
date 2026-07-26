@@ -1,22 +1,14 @@
 {
   "title": "American politics (non-partisan) from the beginning to date : $b embodying a history of all the political parties, with their views and records on all important questions. Great speeches on all great issues, and tabulated history and chronological events.",
   "url": "https://www.gutenberg.org/ebooks/71502",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Political parties -- United States; United States -- Politics and government",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Cooper, Thomas V. (Thomas Valentine), Fenton, Hector T. (Hector Tyndale)",
   "downloadCount": 1121,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

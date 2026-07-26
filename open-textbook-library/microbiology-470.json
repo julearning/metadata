@@ -1,19 +1,11 @@
 {
   "title": "Microbiology",
   "url": "https://open.oregonstate.education/generalmicrobiology/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "In this textbook the focus will be on the bacteria and archaea (traditionally known as the “prokaryotes,”) and the viruses and other acellular agents.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

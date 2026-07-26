@@ -1,19 +1,11 @@
 {
   "title": "Artificial Intelligence and Librarianship",
   "url": "https://softoption.us/AIandLibrarianship",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Courses on Artificial Intelligence (AI) and Librarianship in ALA-accredited Masters of Library and Information (MLIS) degrees are rare. We have all been surprised by ChatGPT and similar Large Language Models. Generative AI is an important new area for librarianship. It is also developing so rapidly ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

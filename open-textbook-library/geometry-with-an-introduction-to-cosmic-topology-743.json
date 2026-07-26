@@ -1,19 +1,11 @@
 {
   "title": "Geometry with an Introduction to Cosmic Topology",
   "url": "https://mphitchman.com/gct/download.html",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Mathematics-I",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Motivated by questions in cosmology, the open-content text Geometry with an Introduction to Cosmic Topology uses Mobius transformations to develop hyperbolic, elliptic, and Euclidean geometry - three possibilities for the global geometry of the universe. The text, written for students who have taken",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

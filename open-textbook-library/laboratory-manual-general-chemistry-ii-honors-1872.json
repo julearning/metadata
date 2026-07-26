@@ -1,19 +1,11 @@
 {
   "title": "Laboratory Manual: General Chemistry II Honors",
   "url": "https://paadopt.org/bookshelf/laboratory-manual-general-chemistry-ii-honors/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "General Chemistry II Honors Laboratory Manual (2025) is designed to expose students to labs with applications. Chemical instrumentation for analyses of different substances is showcased; analysis of common household and environmental samples was delved into. The belief is that honors level students ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

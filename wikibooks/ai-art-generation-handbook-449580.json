@@ -1,19 +1,11 @@
 {
   "title": "AI Art Generation Handbook",
   "url": "https://en.wikibooks.org/wiki/AI_Art_Generation_Handbook",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Machine Learning",
   "branch": "CSE",
   "semester": 6,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is community work on AI Art Generation Handbook,  which is your gateway to unlocking the boundless potential of artificial intelligence in visual creativity.\nThis handbook is designed to demystify the complexities of AI art generation tools by providing practical guidelines to enhance your crea",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

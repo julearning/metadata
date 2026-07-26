@@ -1,19 +1,11 @@
 {
   "title": "Web Development",
   "url": "https://en.wikibooks.org/wiki/Web_Development",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Web Technologies",
   "branch": "CSE",
   "semester": 5,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Web Development — Wikibooks open textbook",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

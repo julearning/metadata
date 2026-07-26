@@ -1,19 +1,11 @@
 {
   "title": "Statistical Analysis: an Introduction using R",
   "url": "https://en.wikibooks.org/wiki/Statistical_Analysis%3A_an_Introduction_using_R",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Probability & Statistics",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book aims to introduce the principles of statistics and modern statistical analysis for a non-mathematical audience, using the free statistical package R.\nIf you are just browsing, we recommend setting up your personal Wikibooks style as specified in /Statistics and R#Setting up wikibooks.",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

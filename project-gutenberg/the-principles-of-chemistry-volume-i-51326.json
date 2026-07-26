@@ -1,22 +1,14 @@
 {
   "title": "The Principles of Chemistry, Volume I",
   "url": "https://www.gutenberg.org/ebooks/51326",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Chemistry",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Argon; Chemistry; Periodic law",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Mendeleyev, Dmitry Ivanovich",
   "downloadCount": 1240,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

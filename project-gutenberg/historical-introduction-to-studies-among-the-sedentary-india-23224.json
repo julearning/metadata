@@ -1,22 +1,14 @@
 {
   "title": "Historical Introduction to Studies Among the Sedentary Indians of New Mexico; Report on the Ruins of the Pueblo of Pecos: Papers Of The Archæological Institute Of America, American Series, Vol. I",
   "url": "https://www.gutenberg.org/ebooks/23224",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "New Mexico -- Antiquities; Pecos National Monument (N.M.); Pueblo Indians",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Bandelier, Adolph Francis Alphonse",
   "downloadCount": 4053,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "The Adventure of Physics - Vol. I: Fall, Flow, and Heat",
   "url": "https://www.motionmountain.net/classical.html",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Physics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is written for anybody who is curious about nature and motion. Curiosity about how people, animals, things, images and space move leads to many adventures. This volume presents the best of them in the domain of everyday life. Carefully observing everyday motion allows us to deduce six esse",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

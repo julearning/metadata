@@ -1,19 +1,11 @@
 {
   "title": "Microwave and RF Design: Radio Systems",
   "url": "https://repository.lib.ncsu.edu/handle/1840.20/36776",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Microwave and RF Design: Radio Systems is a circuits- and systems-oriented approach to modern microwave and RF systems. Sufficient details at the circuits and sub-system levels are provided to understand how modern radios are implemented. Design is emphasized throughout. The evolution of radio from ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

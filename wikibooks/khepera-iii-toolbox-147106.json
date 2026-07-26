@@ -1,19 +1,11 @@
 {
   "title": "Khepera III Toolbox",
   "url": "https://en.wikibooks.org/wiki/Khepera_III_Toolbox",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Data Structures & Algorithms",
   "branch": "CSE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Khepera III Toolbox is a collection of scripts, programs and code module\nThe toolbox was developed by the Distributed Intelligent Systems and Algorithms Laboratory (DISAL) at EPFL (Lausanne, Switzerland) and comprises:\n\nScripts to conveniently upload and run programs on multiple robots.\nPrograms",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

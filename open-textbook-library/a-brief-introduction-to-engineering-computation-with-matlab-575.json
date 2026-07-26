@@ -1,19 +1,11 @@
 {
   "title": "A Brief Introduction to Engineering Computation with MATLAB",
   "url": "https://cnx.org/contents/qTr2bTqz@11.8:IZLgFOgb@3/Acknowledgements",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Fundamentals",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "A Brief Introduction to Engineering Computation with MATLAB is specifically designed for students with no programming experience. However, students are expected to be proficient in First Year Mathematics and Sciences and access to good reference books are highly recommended. Students are assumed to ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

@@ -1,19 +1,11 @@
 {
   "title": "Windows Registry Hacks",
   "url": "https://en.wikibooks.org/wiki/Windows_Registry_Hacks",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Database Management Systems",
   "branch": "CSE",
   "semester": 4,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The Windows Registry is a database used by Microsoft Windows 95 and subsequent versions of Microsoft Windows that is used to store user preferences, setup, device, system configuration, etc. It is one of the least focused subjects in Windows operating system family. This book focusses on the various",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

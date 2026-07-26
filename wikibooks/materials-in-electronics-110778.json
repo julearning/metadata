@@ -1,19 +1,11 @@
 {
   "title": "Materials in Electronics",
   "url": "https://en.wikibooks.org/wiki/Materials_in_Electronics",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Electronic Devices & Circuits",
   "branch": "ECE",
   "semester": 3,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This book is about the properties of materials at the most fundamental level, with a particular bias on the application of these properties to electronic systems. This book forms the basis of the book on Semiconductors. This book starts from considering the electron as a particle in a material, and ",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }

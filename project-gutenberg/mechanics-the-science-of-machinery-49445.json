@@ -1,22 +1,14 @@
 {
   "title": "Mechanics: The Science of Machinery",
   "url": "https://www.gutenberg.org/ebooks/49445",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Engineering Mechanics",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "",
-  "description": "Machinery; Mechanical engineering; Mechanics",
-  "language": "English",
-  "pages": 0,
   "source": "project-gutenberg",
   "author": "Bond, A. Russell (Alexander Russell)",
   "downloadCount": 814,
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "type": "mixed"
 }

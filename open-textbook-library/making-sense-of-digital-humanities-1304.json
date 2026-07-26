@@ -1,19 +1,11 @@
 {
   "title": "Making Sense of Digital Humanities",
   "url": "https://openbooks.lib.msu.edu/makingsensedh/open/download?type=pdf",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "Taking up the challenge of navigating the complex world of digital humanities, Making Sense of Digital Humanities offers readers an exploration of the many ways scholars have employed the diverse toolkit of digital humanities to create a better understanding of the synergies and disruptions created ",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

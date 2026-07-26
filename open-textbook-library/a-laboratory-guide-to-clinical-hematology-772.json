@@ -1,19 +1,11 @@
 {
   "title": "A Laboratory Guide to Clinical Hematology",
   "url": "https://openeducationalberta.ca/mlsci/",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Biology for Engineers",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "This is eBook will be constantly updated, edited, and reviewed as new emerging information arises.",
-  "language": "eng",
-  "pages": 0,
-  "source": "open-textbook-library"
+  "source": "open-textbook-library",
+  "type": "mixed"
 }

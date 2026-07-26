@@ -1,19 +1,11 @@
 {
   "title": "Smalltalk the fun way",
   "url": "https://en.wikibooks.org/wiki/Smalltalk_the_fun_way",
-  "tags": [
-    "notes",
-    "reference-book"
-  ],
   "subject": "Programming for Problem Solving",
   "branch": "CSE",
   "semester": 1,
-  "section": "mixed",
-  "fileSize": 0,
   "contributor": "content-bot",
   "uploadedAt": "2026-07-26",
-  "description": "The title of this book could be interpreted in two ways:\n\nIt will teach you Smalltalk by programming games, and having fun at it\nWe Smalltalk lovers consider this language to be the fun way :-)",
-  "language": "English",
-  "pages": 0,
-  "source": "wikibooks"
+  "source": "wikibooks",
+  "type": "mixed"
 }
