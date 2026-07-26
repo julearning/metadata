@@ -14,6 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       passed: ${{ steps.result.outputs.passed }}
+      trusted: ${{ steps.result.outputs.trusted }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -135,9 +136,57 @@ jobs:
           done
           echo "All checks passed"
 
+      # ── Check if any contributor is trusted ──
+      - name: Check contributor trust
+        id: trust
+        env:
+          TRUSTED: ${{ vars.TRUSTED_CONTRIBUTORS }}
+        run: |
+          FILES="${{ steps.changed.outputs.files }}"
+          if [ -z "$FILES" ] || [ -z "$TRUSTED" ]; then
+            echo "trusted=false" >> $GITHUB_OUTPUT
+            echo "No files changed or no trusted list — not auto-merging"
+            exit 0
+          fi
+
+          TRUSTED_LIST=$(echo "$TRUSTED" | tr ',' '\n' | xargs)
+          FOUND=false
+
+          for file in $FILES; do
+            if [ ! -f "$file" ]; then continue; fi
+
+            # Skip source metadata files (objects, not arrays)
+            TOP="${file%%/*}"
+            if [ "$TOP" = "other-sources" ]; then
+              SEG_COUNT=$(echo "$file" | tr '/' '\n' | grep -c .)
+              if [ "$SEG_COUNT" -eq 2 ]; then
+                continue  # metadata file, no contributor field
+              fi
+            fi
+
+            # Extract contributor fields from JSON array docs
+            CONTRIBUTORS=$(jq -r '.[].contributor // empty' "$file" 2>/dev/null)
+            for c in $CONTRIBUTORS; do
+              for trusted in $TRUSTED_LIST; do
+                if [ "$c" = "$trusted" ]; then
+                  echo "✅ Trusted contributor: $c"
+                  FOUND=true
+                fi
+              done
+            done
+          done
+
+          if [ "$FOUND" = true ]; then
+            echo "trusted=true" >> $GITHUB_OUTPUT
+          else
+            echo "trusted=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Set result
         id: result
-        run: echo "passed=true" >> $GITHUB_OUTPUT
+        run: |
+          echo "passed=true" >> $GITHUB_OUTPUT
+          echo "trusted=${{ steps.trust.outputs.trusted }}" >> $GITHUB_OUTPUT
 
       - name: Comment on PR
         if: always()
@@ -150,10 +199,16 @@ jobs:
               issue_number: context.issue.number,
             });
             const passed = '${{ steps.result.outputs.passed }}' === 'true';
+            const trusted = '${{ steps.trust.outputs.trusted }}' === 'true';
             let body = '## 📋 PR Validation Results\\n\\n';
-            body += passed
-              ? '✅ **All checks passed.** This PR is valid.'
-              : '❌ **Validation failed.** Please fix the errors above.';
+            if (!passed) {
+              body += '❌ **Validation failed.** Please fix the errors above.';
+            } else if (trusted) {
+              body += '✅ **All checks passed.** Auto-merge will proceed.';
+            } else {
+              body += '✅ **Validation passed.** PR needs manual review (new contributor).';
+              body += '\\n\\nA maintainer will verify the links and merge shortly.';
+            }
             const existing = comments.find(c => c.user.type === 'Bot' && c.body.includes('PR Validation Results'));
             if (existing) {
               await github.rest.issues.updateComment({
@@ -169,7 +224,7 @@ jobs:
 
   auto-merge:
     needs: validate
-    if: needs.validate.outputs.passed == 'true'
+    if: needs.validate.outputs.passed == 'true' && needs.validate.outputs.trusted == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Auto-merge PR
