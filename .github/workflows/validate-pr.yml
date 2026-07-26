@@ -46,42 +46,82 @@ jobs:
               exit 1
             fi
 
-            # Must be an array of documents
-            TYPE=$(jq -r 'type' "$file" 2>/dev/null)
-            if [ "$TYPE" != "array" ]; then
-              echo "❌ $file: must be a JSON array, got $TYPE"
-              exit 1
+            # Determine if this is a source metadata file (other-sources/{name}.json)
+            # vs a document file (other-sources/{name}/{file}.json or jammu-university/...)
+            TOP="${file%%/*}"
+            if [ "$TOP" = "other-sources" ]; then
+              # Count path segments: "other-sources/foo.json" → 2 (metadata), "other-sources/foo/bar.json" → 3 (doc)
+              SEG_COUNT=$(echo "$file" | tr '/' '\n' | grep -c .)
+              if [ "$SEG_COUNT" -eq 2 ]; then
+                IS_META=true
+              else
+                IS_META=false
+              fi
+            else
+              IS_META=false
             fi
 
-            COUNT=$(jq 'length' "$file")
-            if [ "$COUNT" -eq 0 ]; then
-              echo "❌ $file: empty array"
-              exit 1
-            fi
-
-            # Each document must have title, url, type
-            for i in $(seq 0 $((COUNT - 1))); do
-              TITLE=$(jq -r ".[$i].title // empty" "$file")
-              URL=$(jq -r ".[$i].url // empty" "$file")
-              TYPE=$(jq -r ".[$i].type // empty" "$file")
-              if [ -z "$TITLE" ] || [ -z "$URL" ] || [ -z "$TYPE" ]; then
-                echo "❌ $file doc $((i+1)): missing title, url, or type"
+            if [ "$IS_META" = true ]; then
+              # Validate as source metadata: an object with name, description, url
+              TYPE=$(jq -r 'type' "$file" 2>/dev/null)
+              if [ "$TYPE" != "object" ]; then
+                echo "❌ $file: source metadata must be a JSON object, got $TYPE"
+                exit 1
+              fi
+              NAME=$(jq -r '.name // empty' "$file")
+              DESC=$(jq -r '.description // empty' "$file")
+              URL=$(jq -r '.url // empty' "$file")
+              if [ -z "$NAME" ]; then
+                echo "❌ $file: source metadata missing 'name'"
+                exit 1
+              fi
+              if [ -z "$URL" ]; then
+                echo "❌ $file: source metadata missing 'url'"
                 exit 1
               fi
               case "$URL" in
                 https://*) ;;
-                *) echo "❌ $file doc $((i+1)): url must start with https"; exit 1 ;;
+                *) echo "❌ $file: source metadata 'url' must start with https"; exit 1 ;;
               esac
-              # Validate thumbnailUrl if present
-              THUMB=$(jq -r ".[$i].thumbnailUrl // empty" "$file")
-              if [ -n "$THUMB" ]; then
-                case "$THUMB" in
-                  https://*) ;;
-                  *) echo "❌ $file doc $((i+1)): thumbnailUrl must start with https if provided"; exit 1 ;;
-                esac
+              echo "  Source: ${NAME} (metadata)"
+              echo "✅ $file: valid source metadata"
+            else
+              # Validate as an array of documents
+              TYPE=$(jq -r 'type' "$file" 2>/dev/null)
+              if [ "$TYPE" != "array" ]; then
+                echo "❌ $file: must be a JSON array, got $TYPE"
+                exit 1
               fi
-              # Validate source folder (informal — prints info, doesn't fail)
-              TOP="${file%%/*}"
+
+              COUNT=$(jq 'length' "$file")
+              if [ "$COUNT" -eq 0 ]; then
+                echo "❌ $file: empty array"
+                exit 1
+              fi
+
+              # Each document must have title, url, type
+              for i in $(seq 0 $((COUNT - 1))); do
+                TITLE=$(jq -r ".[$i].title // empty" "$file")
+                URL=$(jq -r ".[$i].url // empty" "$file")
+                TYPE=$(jq -r ".[$i].type // empty" "$file")
+                if [ -z "$TITLE" ] || [ -z "$URL" ] || [ -z "$TYPE" ]; then
+                  echo "❌ $file doc $((i+1)): missing title, url, or type"
+                  exit 1
+                fi
+                case "$URL" in
+                  https://*) ;;
+                  *) echo "❌ $file doc $((i+1)): url must start with https"; exit 1 ;;
+                esac
+                # Validate thumbnailUrl if present
+                THUMB=$(jq -r ".[$i].thumbnailUrl // empty" "$file")
+                if [ -n "$THUMB" ]; then
+                  case "$THUMB" in
+                    https://*) ;;
+                    *) echo "❌ $file doc $((i+1)): thumbnailUrl must start with https if provided"; exit 1 ;;
+                  esac
+                fi
+              done
+
               if [ "$TOP" = "other-sources" ]; then
                 SOURCE="$(echo "$file" | cut -d'/' -f2)"
                 echo "  Source: $SOURCE (in other-sources/)"
@@ -90,9 +130,8 @@ jobs:
               else
                 echo "  Source: $TOP (non-standard)"
               fi
-            done
-
-            echo "✅ $file: $COUNT valid document(s)"
+              echo "✅ $file: $COUNT valid document(s)"
+            fi
           done
           echo "All checks passed"
 
