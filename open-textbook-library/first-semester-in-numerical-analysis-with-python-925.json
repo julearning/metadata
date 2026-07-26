@@ -1,0 +1,19 @@
+{
+  "title": "First Semester in Numerical Analysis with Python",
+  "url": "https://digital.auraria.edu/IR00000195/00001/citation",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The book is based on “First semester in Numerical Analysis with Julia”, written by Giray Ökten. The contents of the original book are retained, while all the algorithms are implemented in Python (Version 3.8.0). Python is an open source (under OSI), interpreted, general-purpose programming language ",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

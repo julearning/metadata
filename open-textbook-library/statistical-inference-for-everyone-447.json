@@ -1,0 +1,19 @@
+{
+  "title": "Statistical Inference For Everyone",
+  "url": "https://github.com/bblais/Statistical-Inference-for-Everyone/raw/master/Statistical%20Inference%20For%20Everyone.pdf",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Probability & Statistics",
+  "branch": "CSE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This is a new approach to an introductory statistical inference textbook, motivated by probability theory as logic. It is targeted to the typical Statistics 101 college student, and covers the topics typically covered in the first semester of such a course. It is freely available under the Creative ",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

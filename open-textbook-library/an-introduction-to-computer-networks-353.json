@@ -1,0 +1,19 @@
+{
+  "title": "An Introduction to Computer Networks",
+  "url": "http://intronetworks.cs.luc.edu/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "An Introduction to Computer Networksis a free and open general-purpose computer-networking textbook, complete with diagrams and exercises.It covers the LAN, internetworking and transport layers, focusing primarily on TCP/IP. Particular attention is paid to congestion; other special topics include qu",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

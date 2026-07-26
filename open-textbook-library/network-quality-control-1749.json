@@ -1,0 +1,19 @@
+{
+  "title": "Network quality control",
+  "url": "https://doi.org/10.59490/tb.100",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Structural Analysis",
+  "branch": "CE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The aim of computing a geodetic network is to determine the geometry of the configuration of a set of points from spatial observations (e.g. GPS baselines and/or terrestrial measurements). The configuration of points usually consists of newly established points, of which the coordinates still need t",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

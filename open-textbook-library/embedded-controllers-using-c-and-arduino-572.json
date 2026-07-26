@@ -1,0 +1,19 @@
+{
+  "title": "Embedded Controllers Using C and Arduino",
+  "url": "http://www.dissidents.com/resources/EmbeddedControllers.pdf",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This text is designed to introduce and expand upon material related to the C programming language and embedded controllers, and specifically, the Arduino development system and associated Atmel ATmega microcontrollers. It is intended to fit the time constraints of a typical 3 to 4 credit hour course",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

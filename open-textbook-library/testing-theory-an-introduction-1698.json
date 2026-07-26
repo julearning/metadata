@@ -1,0 +1,19 @@
+{
+  "title": "Testing theory: an introduction",
+  "url": "https://doi.org/10.59490/tb.96",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "These lecture notes are a follow up on Adjustment theory. Adjustment theory deals with the optimal combination of redundant measurements together with the estimation of unknown parameters. There are two main reasons for performing redundant measurements. First, the wish to increase the accuracy of t",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

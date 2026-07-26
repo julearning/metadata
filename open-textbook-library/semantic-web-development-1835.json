@@ -1,0 +1,19 @@
+{
+  "title": "Semantic Web Development",
+  "url": "https://cseanburns.github.io/semantic_web_development/#introduction-to-semantic-web-development",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book serves as an introduction to semantic web development. A more advanced semantic web development course would introduce students to RDFS, SKOS, OWL, SPARQL or more. But this book expects undergraduate students who are new to web development. Therefore this work focuses on entry level topics",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

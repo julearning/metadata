@@ -102,8 +102,7 @@ async function main() {
   const allBooks = [...firstPage.data];
 
   // Fetch remaining pages sequentially (polite crawling)
-  for (let page = 2; page <= Math.min(totalPages, 10); page++) {
-    // Limit to 10 pages (~100 books) for MVP
+  for (let page = 2; page <= totalPages; page++) {
     const url = `${API_BASE}?page=${page}`;
     const data = await fetchPage(url);
     allBooks.push(...data.data);

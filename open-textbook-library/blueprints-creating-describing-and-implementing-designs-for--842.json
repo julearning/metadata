@@ -1,0 +1,19 @@
+{
+  "title": "Blueprints: Creating, Describing, and Implementing Designs for Larger-scale Software Projects",
+  "url": "http://stephendavies.org/blue.pdf",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Blueprints is a concise yet comprehensive coverage of Object-Oriented Analysis and Design concepts, suitable for a second programming course in Computer Science. It introduces and teaches application development in a command-line environment, and assumes basic expertise with the Java programming lan",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

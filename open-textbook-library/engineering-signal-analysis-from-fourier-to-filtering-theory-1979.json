@@ -1,0 +1,19 @@
+{
+  "title": "Engineering Signal Analysis: From Fourier to filtering: Theory",
+  "url": "https://books.open.tudelft.nl/home/catalog/book/247",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Engineering Fundamentals",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Engineering Signal Analysis - Theory, is an introductory textbook on the analysis of signals in time and frequency. It takes an engineer’s perspective and discusses how to characterize, analyze and operate on signals. The basic theoretical concepts, Fourier series and transform, are explained in con",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

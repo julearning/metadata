@@ -1,0 +1,19 @@
+{
+  "title": "Numerical Methods for Ordinary Differential Equations",
+  "url": "https://doi.org/10.5074/t.2023.001",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "In this book we discuss several numerical methods for solving ordinary differential equations. We emphasize the aspects that play an important role in practical problems. We conﬁne ourselves to ordinary differential equations with the exception of the last chapter in which we discuss the heat equati",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Crystal Ball Instruction Manual",
+  "url": "http://stephendavies.org/crystal1.pdf",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "A perfect introduction to the exploding field of Data Science for the curious, first-time student. The author brings his trademark conversational tone to the important pillars of the discipline: exploratory data analysis, choices for structuring data, causality, machine learning principles, and intr",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

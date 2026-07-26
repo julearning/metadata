@@ -1,0 +1,19 @@
+{
+  "title": "Web Accessibility for Developers",
+  "url": "https://pressbooks.library.ryerson.ca/wafd/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Web Accessibility for Developers is a technical book aimed primarily at programmers. Learn how to develop accessible interactivity on the Web and gain expertise using WAI-ARIA, a W3C specification that enables optimal use of assistive technologies, like screen readers, when navigating the Web.",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

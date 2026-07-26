@@ -1,0 +1,19 @@
+{
+  "title": "Fundamentals of Electrical Engineering I",
+  "url": "https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Electronic Devices & Circuits",
+  "branch": "ECE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The course focuses on the creation, manipulation, transmission, and reception of information by electronic means. Elementary signal theory; time- and frequency-domain analysis; Sampling Theorem. Digital information theory; digital transmission of analog signals; error-correcting codes.",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

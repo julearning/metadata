@@ -1,0 +1,19 @@
+{
+  "title": "Object-Oriented Reengineering Patterns",
+  "url": "http://scg.unibe.ch/download/oorp/OORP.pdf",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The documentation is missing or obsolete, and the original developers have departed. Your team has limited understanding of the system, and unit tests are missing for many, if not all, of the components. When you fix a bug in one place, another bug pops up somewhere else in the system. Long rebuild ",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

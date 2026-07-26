@@ -1,0 +1,19 @@
+{
+  "title": "The Spec UI framework",
+  "url": "https://books.pharo.org/spec-tutorial/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Spec is the default UI framework for Pharo. To build UI's in Spec existing widgets or even complete UI's are reused and configured to form a new UI. This book first shows the basics of Spec and how it enables reuse of UIs. It then treats UI layout in detail before moving on to explaining the managem",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

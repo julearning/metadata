@@ -1,0 +1,19 @@
+{
+  "title": "Introduction to Modern Statistics",
+  "url": "https://leanpub.com/imstat",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Probability & Statistics",
+  "branch": "CSE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Introduction to Modern Statistics is a re-imagining of a previous title, Introduction to Statistics with Randomization and Simulation. The new book puts a heavy emphasis on exploratory data analysis (specifically exploring multivariate relationships using visualization, summarization, and descriptiv",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Unicode cookbook for linguists: Managing writing systems using orthography profiles",
+  "url": "http://langsci-press.org/catalog/book/176",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This text is a practical guide for linguists, and programmers, who work with data in multilingual computational environments. We introduce the basic concepts needed to understand how writing systems and character encodings function, and how they work together at the intersection between the Unicode ",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

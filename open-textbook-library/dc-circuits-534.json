@@ -1,0 +1,19 @@
+{
+  "title": "DC Circuits",
+  "url": "https://shareok.org/server/api/core/bitstreams/23e9ec3b-d8ee-44a9-aab0-3d076239dfff/content",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Electronic Devices & Circuits",
+  "branch": "ECE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book covers Direct Current (DC) circuit theory and is broken up into three modules. Module 1 covers the basics for circuits that include DC sources (voltage or current) and resistors. Even though Module 1 is not very difficult, it forms the foundation for more complicated topics in modules 2 an",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Programming Differential Privacy",
+  "url": "https://programming-dp.com/book.pdf",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This book offers a hands-on introduction to differential privacy, combining formal foundations with executable code and practical design patterns. The material has evolved through lecture notes, workshops, and collaborations with academics and practitioners, gradually expanding to cover both classic",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

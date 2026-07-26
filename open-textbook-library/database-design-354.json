@@ -1,0 +1,19 @@
+{
+  "title": "Database Design",
+  "url": "https://opentextbc.ca/dbdesign01/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This second edition of Database Design book covers the concepts used in database systems and the database design process. Topics include: The history of databases Characteristics and benefits of databases Data models Data modelling Classification of database management systems Integrity rules and co",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

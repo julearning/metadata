@@ -1,0 +1,19 @@
+{
+  "title": "Analysis and Design of Elementary MOS Amplifier Stages",
+  "url": "https://github.com/bmurmann/Book-on-MOS-stages/blob/main/book/Analysis%20and%20Design%20of%20Elementary%20MOS%20Amplifier%20Stages.pdf",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Electronic Devices & Circuits",
+  "branch": "ECE",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Analyzes core linear analog circuit designs: common-source, common-gate, and common-drain stages Design-oriented approach; analyzes various circuits through examples and exercises Part of the Modular Series of Microelectronic Device and Circuit Design Each module in the series provides a brief funda",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

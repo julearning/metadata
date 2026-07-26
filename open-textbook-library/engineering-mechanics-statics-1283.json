@@ -1,0 +1,19 @@
+{
+  "title": "Engineering Mechanics: Statics",
+  "url": "https://pressbooks.library.upei.ca/statics/open/download?type=pdf",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Thermodynamics",
+  "branch": "ME",
+  "semester": 3,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Introduction to engineering mechanics: statics, for those who love to learn. Concepts include: particles and rigid body equilibrium equations, distributed loads, shear and moment diagrams, trusses, method of joints and sections, & inertia.",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Patterns for Beginning Programmers",
+  "url": "https://pressbooks.lib.jmu.edu/programmingpatterns/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Programming patterns are solutions to problems that require the creation of a small fragment of code that will be part of a larger program. Hence, this book is about teaching you how to write such fragments of code. However, it is not about teaching you the syntax of the statements in the fragments,",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

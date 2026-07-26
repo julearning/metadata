@@ -1,0 +1,19 @@
+{
+  "title": "Numerical Methods in Scientific Computing",
+  "url": "https://doi.org/10.59490/t.2023.009",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "This is a book about numerically solving partial differential equations occurring in technical and physical contexts and the authors have set themselves a more ambitious target than to just talk about the numerics. Their aim is to show the place of numerical solutions in the general modeling process",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Squeak by Example",
+  "url": "https://pdxscholar.library.pdx.edu/compsci_fac/110/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Squeak is a modern open-source development environment for the classic Smalltalk-80 programming language. Despite being the first purely object-oriented language and environment, Smalltalk is in many ways still far ahead of its successors in promoting a vision of an environment where everything is a",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

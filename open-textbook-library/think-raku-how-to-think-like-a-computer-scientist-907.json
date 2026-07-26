@@ -1,0 +1,19 @@
+{
+  "title": "Think Raku: How to Think Like a Computer Scientist",
+  "url": "https://greenteapress.com/wp/think-perl-6/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "The title of this book was originally Think Perl 6, but since Perl 6 has been renamed Raku, we have also changed the title of the book. Think Raku is an introduction to computer science and programming intended for people with little or no experience. This aim of this book is not primarily to teach ",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

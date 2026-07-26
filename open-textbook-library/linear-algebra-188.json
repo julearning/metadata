@@ -1,0 +1,19 @@
+{
+  "title": "Linear Algebra",
+  "url": "https://www.math.ucdavis.edu/~linear/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-II",
+  "branch": "CSE",
+  "semester": 2,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "We believe the entire book can be taught in twenty five 50-minute lectures to a sophomore audience that has been exposed to a one year calculus course. Vector calculus is useful, but not necessary preparation for this book, which attempts to be self-contained. Key concepts are presented multiple tim",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

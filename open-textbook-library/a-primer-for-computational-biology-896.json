@@ -1,0 +1,19 @@
+{
+  "title": "A Primer for Computational Biology",
+  "url": "https://open.oregonstate.education/computationalbiology/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Programming for Problem Solving",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "A Primer for Computational Biology aims to provide life scientists and students the skills necessary for research in a data-rich world. The text covers accessing and using remote servers via the command-line, writing programs and pipelines for data analysis, and provides useful vocabulary for interd",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

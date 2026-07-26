@@ -1,0 +1,19 @@
+{
+  "title": "Applied Combinatorics",
+  "url": "https://www.appliedcombinatorics.org/appcomb/get-the-book/",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Applied Combinatorics is an open-source textbook for a course covering the fundamental enumeration techniques (permutations, combinations, subsets, pigeon hole principle), recursion and mathematical induction, more advanced enumeration techniques (inclusion-exclusion, generating functions, recurrenc",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}

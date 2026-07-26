@@ -1,0 +1,19 @@
+{
+  "title": "Discrete Math with SageMath: Learn math with open-source software",
+  "url": "https://www.hellencolman.com/sagediscretemath",
+  "tags": [
+    "notes",
+    "reference-book"
+  ],
+  "subject": "Mathematics-I",
+  "branch": "CSE",
+  "semester": 1,
+  "section": "mixed",
+  "fileSize": 0,
+  "contributor": "content-bot",
+  "uploadedAt": "2026-07-26",
+  "description": "Our book is intended to provide concise and complete instructions on how to use Sage to solve problems in Discrete Math. It is appropriate for a first or second year undergraduate course for math and computer science majors. Our goal is to streamline the learning process with SageMath. This approach",
+  "language": "eng",
+  "pages": 0,
+  "source": "open-textbook-library"
+}
