@@ -2,22 +2,22 @@
 
 Study material directory for JU Learning. The website reads this repo at build time and generates static pages.
 
-- **Website:** [julearning.vercel.app](https://julearning.vercel.app)
+- **Website:** [julearning.com](https://julearning.com)
 - **Organization:** [github.com/julearning](https://github.com/julearning)
 
 ---
 
 ## Sources
 
-| Folder | Documents | Hierarchy | Description |
-|--------|-----------|-----------|-------------|
-| `jammu-university/` | ~30 | `degree/branch/semester/subject/` | Curriculum-specific notes, PYQs, assignments from JU students and alumni |
-| `open-textbook-library/` | 631 | Flat | Openly licensed textbooks from the Open Textbook Library |
-| `openstax/` | 56 | Flat | Free peer-reviewed textbooks from OpenStax (Rice University) |
-| `project-gutenberg/` | 524 | Flat | Out-of-copyright math and CS books from Project Gutenberg |
-| `wikibooks/` | 401 | Flat | Freely available textbooks from Wikibooks (Wikimedia) |
+| Folder | Hierarchy | Description |
+|--------|-----------|-------------|
+| `jammu-university/` | `degree/branch/semester/subject/` | Curriculum-specific notes, PYQs, assignments from JU students |
+| `open-textbook-library/` | Flat | Openly licensed textbooks |
+| `openstax/` | Flat | Free peer-reviewed textbooks from OpenStax |
+| `project-gutenberg/` | Flat | Out-of-copyright math and CS books |
+| `wikibooks/` | Flat | Freely available textbooks from Wikimedia |
 
-**Total: ~1,600+ documents** across all sources.
+**Total: 2,400+ documents** across all sources.
 
 ---
 
@@ -28,33 +28,32 @@ Study material directory for JU Learning. The website reads this repo at build t
 ```
 metadata/
 └── jammu-university/
-    └── btech/              ← degree
-        ├── cse/            ← branch
-        │   ├── semester-3/
-        │   │   ├── web-tech/
-        │   │   │   └── web-tech-aryanbatras.json
-        │   │   └── sem-4-pyqs-aryanbatras.json    ← cross-subject
-        │   └── semester-4/
-        │       ├── java/
-        │       │   └── java-aryanbatras.json
-        │       └── ...
+    └── btech/
+        ├── cse/
+        │   ├── sem-4/
+        │   │   ├── sem-4-data-structures-and-algorithms/
+        │   │   │   └── sem-4-data-structures-and-algorithms.json
+        │   │   ├── sem-4-database-management-system/
+        │   │   │   └── sem-4-database-management-system.json
+        │   │   └── sem-4-java/
+        │   │       └── sem-4-java.json
+        │   ├── sem-5/
+        │   └── ...
         ├── ece/
         └── ...
-    ├── bca/
-    └── mca/
 ```
 
-The folder path defines degree, branch, semester, and subject. Each JSON file contains an array of documents from one contributor for that subject.
+Path convention: `jammu-university/btech/{branch}/sem-{N}/sem-{N}-{subject-slug}/sem-{N}-{subject-slug}.json`
 
-### For other sources (general reference)
+Each JSON file contains an array of document entries — multiple contributions are merged into a single file per subject.
 
-Documents are stored in flat directories with extra fields (`subject`, `license`, `authors`, `source`) to describe the content.
+### For other sources (flat, no hierarchy)
+
+Documents are stored in flat directories with metadata files defining the source.
 
 ---
 
 ## JSON format
-
-### JU-sourced (simplified)
 
 ```json
 [
@@ -62,41 +61,37 @@ Documents are stored in flat directories with extra fields (`subject`, `license`
     "title": "DBMS Unit 1 Notes",
     "url": "https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view",
     "type": "handwritten",
-    "contributor": "aryanbatras",
-    "uploadedAt": "2026-07-26"
+    "contributor": "github-username",
+    "uploadedAt": "2026-07-27"
   }
 ]
 ```
 
-### Other sources
+### Fields
 
-```json
-{
-  "title": "Algebra and Trigonometry",
-  "url": "https://open.umn.edu/opentextbooks/textbooks/...",
-  "type": "reference-book",
-  "subject": "Mathematics-I",
-  "contributor": "content-bot",
-  "uploadedAt": "2026-07-26",
-  "source": "openstax",
-  "license": "CC BY-NC-SA 4.0"
-}
-```
+| Field | Required | Notes |
+|-------|----------|-------|
+| `title` | Yes | Document title |
+| `url` | Yes | Public link (Google Drive or any URL) |
+| `type` | Yes | One of: `handwritten`, `digital`, `pyq`, `assignment`, `lab-manual`, `syllabus`, `reference-book`, `project-report`, `mixed` |
+| `contributor` | No | GitHub username |
+| `thumbnailUrl` | No | Thumbnail URL (auto-generated from Drive links) |
+| `uploadedAt` | No | Date string (e.g., `2026-07-27`) |
 
 ---
 
 ## How to contribute
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full guide on adding documents, bulk-generating from Drive, and the PR workflow.
+### Web form (recommended)
 
----
+Go to [julearning.com/contribute](https://julearning.com/contribute) — fill in the details and submit. A pull request is created automatically.
 
-## Automation
+### Direct PR
 
-The website has a tool at `/automation/drive` that converts Google Drive link exports into properly-formatted JSON files. Works with any file type (PDF, docs, spreadsheets, presentations).
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
 ## License
 
-The metadata files are made available under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Individual documents linked from `url` fields have their own licenses — please check the source.
+The metadata files are made available under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). Individual documents linked from `url` fields have their own licenses.

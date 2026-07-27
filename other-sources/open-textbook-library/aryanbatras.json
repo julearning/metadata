@@ -2,6 +2,17 @@
   {
     "title": "A Byte of Python",
     "description": "A Byte of Python is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.",
-    "url": "https://open.umn.edu/opentextbooks/textbooks/581"
+    "url": "https://open.umn.edu/opentextbooks/textbooks/581",
+    "type": "reference-book",
+    "contributor": "aryanbatras",
+    "uploadedAt": "2026-07-27"
+  },
+  {
+    "title": "Java Book OOP Problem Solving",
+    "url": "https://www.cs.trincoll.edu/~ram/jjj/jjj-os-20170625.pdf",
+    "type": "reference-book",
+    "contributor": "aryanbatras",
+    "uploadedAt": "2026-07-27",
+    "description": "reference-book"
   }
 ]
