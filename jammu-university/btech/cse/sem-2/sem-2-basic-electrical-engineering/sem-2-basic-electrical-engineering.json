@@ -91,13 +91,6 @@
     "uploadedAt": "2026-07-27"
   },
   {
-    "title": "L2",
-    "url": "https://drive.google.com/file/d/1fmZp-1stBHyt7Nqj5Dih07k39RyDFv7U/view",
-    "type": "handwritten",
-    "contributor": "aryanbatras",
-    "uploadedAt": "2026-07-27"
-  },
-  {
     "title": "Rectifier_Notes",
     "url": "https://drive.google.com/file/d/1hLyKaUo0-vucinEaFTNhmLLrRbVO7wv7/view",
     "type": "handwritten",
@@ -207,6 +200,13 @@
     "url": "https://drive.google.com/file/d/1w8wZGcdG_Yqem91a-C7b-7k9qpW6Nrxw/view",
     "type": "handwritten",
     "contributor": "aryanbatras",
+    "uploadedAt": "2026-07-27"
+  },
+  {
+    "title": "L2",
+    "url": "https://drive.google.com/file/d/1fmZp-1stBHyt7Nqj5Dih07k39RyDFv7U/view",
+    "type": "handwritten",
+    "contributor": "IndeepKour",
     "uploadedAt": "2026-07-27"
   }
 ]
