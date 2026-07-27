@@ -2,7 +2,7 @@
 
 Study material directory for JU Learning. The website reads this repo at build time and generates static pages.
 
-- **Website:** [julearning.vercel.app](https://julearning.vercel.app)
+- **Website:** [julearning.com](https://julearning.com)
 - **Organization:** [github.com/julearning](https://github.com/julearning)
 
 ---
@@ -84,7 +84,7 @@ Documents are stored in flat directories with metadata files defining the source
 
 ### Web form (recommended)
 
-Go to [julearning.vercel.app/contribute](https://julearning.vercel.app/contribute) — fill in the details and submit. A pull request is created automatically.
+Go to [julearning.com/contribute](https://julearning.com/contribute) — fill in the details and submit. A pull request is created automatically.
 
 ### Direct PR
 

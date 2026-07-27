@@ -4,7 +4,7 @@ Thank you for contributing. This repository contains the study material director
 
 ## Quick contribution (recommended)
 
-Go to **[julearning.vercel.app/contribute](https://julearning.vercel.app/contribute)** and use the web form:
+Go to **[julearning.com/contribute](https://julearning.com/contribute)** and use the web form:
 - **Single document**: Fill in title, URL, type, branch/semester/subject, and GitHub username
 - **Multiple documents**: Paste a list of Drive links, configure each row, and submit
 
