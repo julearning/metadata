@@ -1,5 +1,6 @@
 {
   "name": "Wikibooks",
   "description": "Open-content textbooks from the Wikimedia community. Covers programming, mathematics, engineering, and computer science topics.",
-  "url": "https://en.wikibooks.org/"
+  "url": "https://en.wikibooks.org/",
+  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Wikibooks-logo-en-unpathed.svg"
 }
