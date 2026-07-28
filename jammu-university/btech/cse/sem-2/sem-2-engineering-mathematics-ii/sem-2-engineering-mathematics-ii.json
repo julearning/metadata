@@ -40,5 +40,26 @@
     "type": "handwritten",
     "contributor": "aryanbatras",
     "uploadedAt": "2026-07-27"
+  },
+  {
+    "title": "Mathematics II Syllabus",
+    "url": "https://drive.google.com/file/d/1NTAl2ZruVt3ctcxttTi1Ox5TT8-2CMvw/view",
+    "type": "syllabus",
+    "contributor": "julearning",
+    "uploadedAt": "2026-07-28"
+  },
+  {
+    "title": "Mathematics II PYQ 2",
+    "url": "https://drive.google.com/file/d/1khsZn5Ne5BgvSWOnpaFz_WuCfWqAi_oo/view",
+    "type": "pyq",
+    "contributor": "julearning",
+    "uploadedAt": "2026-07-28"
+  },
+  {
+    "title": "Mathematics II PYQ 1",
+    "url": "https://drive.google.com/file/d/1l8nCTZRkQu_fJ7ZABto_QGKzBs7mbSeY/view",
+    "type": "pyq",
+    "contributor": "julearning",
+    "uploadedAt": "2026-07-28"
   }
 ]
